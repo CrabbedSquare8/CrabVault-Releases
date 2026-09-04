@@ -34,6 +34,10 @@ CrabVault is free to use for non-commercial purposes but is not open-source soft
 
 The bundled Bink Player is the official, unmodified RAD/Epic utility and retains its visible credit as required for free non-commercial redistribution.
 
+## Acknowledgements
+
+CrabVault was inspired in part by Repak X and its approach to providing a focused, user-friendly mod management experience. CrabVault is an independent project and is not affiliated with or endorsed by the Repak X developers.
+
 ## Unofficial project notice
 
 CrabVault is an independent, unofficial, fan-made project. It is not affiliated with, sponsored by, endorsed by, or connected to Marvel, NetEase Games, Epic Games, RAD Game Tools, Rivalskins, Nexus Mods, or third-party mod authors.
