@@ -36,6 +36,6 @@ The bundled Bink Player is the official, unmodified RAD/Epic utility and retains
 
 ## Unofficial project notice
 
-CrabVault is an independent, unofficial, fan-made project. It is not affiliated with, sponsored by, endorsed by, or connected to Marvel, NetEase Games, Epic Games, RAD Game Tools, Rivalskinsk, Nexus Mods, or third-party mod authors.
+CrabVault is an independent, unofficial, fan-made project. It is not affiliated with, sponsored by, endorsed by, or connected to Marvel, NetEase Games, Epic Games, RAD Game Tools, Rivalskins, Nexus Mods, or third-party mod authors.
 
 Marvel Rivals and all related names, characters, trademarks, and materials are the property of their respective owners. Rights holders may submit attribution or removal requests through this repository.
