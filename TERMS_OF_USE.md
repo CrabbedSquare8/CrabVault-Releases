@@ -13,18 +13,27 @@ https://github.com/CrabbedSquare8/CrabVault-Releases
 
 ## 2. Permission to use
 
-You receive a personal, free-of-charge, non-exclusive, non-transferable, and
-revocable license to install and run CrabVault for non-commercial purposes. The
+You receive a personal, free-of-charge, non-exclusive, and non-transferable
+license to install and run CrabVault for Non-Commercial Use as that term is
+defined in `LICENSE.md`. The
 original CrabVault code is publicly readable under the CrabVault
 Source-Available Non-Commercial License. It remains proprietary and is not
 released under an OSI-approved open-source license.
 
-You may share links to the official repository and download page, inspect the
-source, use GitHub's normal forking features, and build or modify a personal
-non-commercial copy under `LICENSE.md`. You may not sell, sublicense, relicense,
-mirror, redistribute builds, remove attribution, or present a modified copy as
-an official release without written permission from the publisher, except where
-applicable law expressly permits otherwise.
+You may share links to the official repository and release page, inspect the
+source, create a repository fork that satisfies section 3 of `LICENSE.md`, and
+compile or modify a copy for your own Non-Commercial Use. A permitted repository
+fork may contain source code, but it may not distribute executables, installers,
+portable packages, or other ready-to-run CrabVault copies. Only unmodified
+distributions published by CrabbedSquare8 through the official release page are
+Official Releases.
+
+You may not sell, sublicense, relicense, mirror, commercially exploit, or
+redistribute CrabVault except as expressly permitted by `LICENSE.md`; remove
+attribution; or imply that an unofficial copy is affiliated with, endorsed by,
+or published by CrabbedSquare8. License rights terminate for violations and may
+be reinstated only as specified in section 7 of `LICENSE.md`, except where
+applicable law expressly provides otherwise.
 
 These restrictions do not limit rights granted separately by the licenses of
 third-party components included with CrabVault.
