@@ -1,44 +1,81 @@
-# CrabVault
+<div align="center">
+  <img src="frontend/assets/crabvault.ico" alt="CrabVault logo" width="112">
 
-CrabVault is a free, non-commercial, unofficial desktop mod manager for Marvel
-Rivals on Windows 11 x64. It manages local PAK/UCAS/UTOC libraries, profiles,
-components, conflicts, media, ReShade packages, cinematics, backups, and an
-optional built-in 3D preview workflow.
+  <h1>CrabVault</h1>
+  <p><strong>A focused Marvel Rivals mod manager for Windows</strong></p>
+  <p>Organize, inspect, activate, and protect your local mod library from one place.</p>
+  <p>
+    <a href="https://github.com/CrabbedSquare8/CrabVault-Releases/releases/latest"><img src="https://img.shields.io/github/v/release/CrabbedSquare8/CrabVault-Releases?display_name=tag&amp;style=for-the-badge&amp;color=ef3340&amp;label=release" alt="Latest release"></a>
+    <a href="https://github.com/CrabbedSquare8/CrabVault-Releases/releases"><img src="https://img.shields.io/github/downloads/CrabbedSquare8/CrabVault-Releases/total?style=for-the-badge&amp;color=bd1531&amp;label=downloads" alt="GitHub downloads"></a>
+    <img src="https://img.shields.io/badge/platform-Windows_11_x64-1674b8?style=for-the-badge" alt="Windows 11 x64">
+    <img src="https://img.shields.io/badge/license-source--available-6f42c1?style=for-the-badge" alt="Source-available license">
+  </p>
+  <p>
+    <a href="https://github.com/CrabbedSquare8/CrabVault-Releases/releases/latest">Download</a> ·
+    <a href="#features">Features</a> ·
+    <a href="#run-from-source">Run from source</a> ·
+    <a href="#privacy">Privacy</a> ·
+    <a href="#license-and-notices">License</a>
+  </p>
+</div>
 
-CrabVault was inspired in part by Repak X and its focused, user-friendly approach
-to mod management. CrabVault is an independent project and is not affiliated
-with or endorsed by the Repak X developers.
+---
 
-## Downloads
+## Features
 
-Official installers, checksums, release notes, and corresponding third-party
-sources are available on the [Releases page](https://github.com/CrabbedSquare8/CrabVault-Releases/releases).
-The Windows SmartScreen warning may appear because current builds are not
-digitally signed.
+- Manage local PAK, UCAS, and UTOC mod libraries.
+- Enable, disable, organize, and inspect installed mods.
+- Detect components, character skins, and potential conflicts.
+- Create profiles, backups, and recoverable operation history.
+- Manage ReShade packages, cinematics, media, and backgrounds.
+- Preview supported assets with the optional built-in 3D viewer.
+- Keep user data local, without accounts, advertising, or telemetry.
+
+## Download
+
+The recommended way to use CrabVault is through the official installer on the
+[Releases page](https://github.com/CrabbedSquare8/CrabVault-Releases/releases).
+Release notes and integrity checksums are published alongside each version.
+
+> [!NOTE]
+> Windows SmartScreen may show a warning because current releases are not
+> digitally signed.
 
 ## Run from source
 
-1. Install 64-bit Python on Windows 11.
-2. Run `python -m pip install -r requirements.txt`.
-3. Run `python main.py`.
+CrabVault currently targets **Windows 11 x64** and **64-bit Python**.
 
-Optional third-party command-line tools included with official distributions
-are not part of the public source snapshot.
+```powershell
+python -m pip install -r requirements.txt
+python main.py
+```
+
+Optional compatibility tools used by some features retain their own licenses
+and notices.
 
 ## Privacy
 
-CrabVault has no accounts, advertising, telemetry, or analytics. User settings,
-mods, media, and backups remain local. Optional features contact GitHub,
-Rivalskins, Microsoft, and pinned third-party sources as described in
-`PRIVACY.md`.
+CrabVault has no accounts, advertising, telemetry, or analytics. Settings,
+mods, media, and backups remain on the user's computer. Optional features may
+contact GitHub, Rivalskins, Microsoft, and pinned third-party sources as
+described in the [Privacy Policy](PRIVACY.md).
+
+## Credits
+
+CrabVault was inspired in part by **Repak X** and its focused, user-friendly
+approach to mod management. CrabVault is an independent project and is not
+affiliated with or endorsed by the Repak X developers.
 
 ## License and notices
 
-CrabVault's original source is publicly readable under the
-[CrabVault Source-Available Non-Commercial License](LICENSE.md). It is not
-open-source software under an OSI-approved license. Third-party components keep
-their own licenses; see `THIRD_PARTY.md`.
+CrabVault is free and non-commercial. Its original source is publicly readable
+under the [CrabVault Source-Available Non-Commercial License](LICENSE.md). This
+is a source-available license, not an OSI-approved open-source license.
 
-CrabVault is an independent fan-made project. It is not affiliated with,
+Third-party components retain their own licenses. See
+[`THIRD_PARTY.md`](THIRD_PARTY.md) and the included component
+notices for details.
+
+CrabVault is an unofficial fan-made project. It is not affiliated with,
 sponsored by, or endorsed by Marvel or NetEase Games. All related trademarks
 and materials belong to their respective owners.
