@@ -3,6 +3,8 @@ import fs from 'node:fs';
 import vm from 'node:vm';
 
 const appSource = fs.readFileSync(new URL('../frontend/app.js', import.meta.url), 'utf8');
+assert.match(appSource, /select exactly Marvel\\\\Content\\\\Paks\\\\~mods/);
+assert.match(appSource, /Try ✨ Detect automatically first/);
 const html = fs.readFileSync(new URL('../frontend/index.html', import.meta.url), 'utf8');
 const css = fs.readFileSync(new URL('../frontend/style.css', import.meta.url), 'utf8');
 const start = appSource.indexOf('const TUTORIAL_COPY =');
@@ -91,4 +93,5 @@ assert.match(appSource, /assets\/tutorial\/settings-backups-appearance\.png/);
 assert.match(appSource, /Você pode selecionar vários ZIPs ou vários pacotes de uma vez/);
 assert.match(appSource, /Buscar mods instalados encontra os pacotes/);
 assert.match(appSource, /setting-review-tutorial[\s\S]*closeSettings\(\);[\s\S]*openTutorial\(language\);/);
+
 console.log('Interactive tutorial: chapters, bundled examples, PAK flow, settings, details, scan and spotlight positioning passed.');

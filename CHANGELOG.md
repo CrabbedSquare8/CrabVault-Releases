@@ -2,6 +2,9 @@
 
 ## v0.45.0 — 04/09/2026
 
+- Expands the first-use tutorial with a prominent, exact explanation of the required `Marvel\\Content\\Paks\\~mods` game folder and the recommended automatic detection flow.
+- Completes English translations for additional dynamic errors, confirmations, component actions, media operations, and status messages.
+- Keeps native installation errors, Profiles recovery controls, and the Keyboard Shortcuts dialog fully consistent with the selected English interface language.
 - Publishes an audited source snapshot in the public `CrabVault-Releases` repository while keeping the private development repository and its history private.
 - Adds the CrabVault Source-Available Non-Commercial License and an English public source README.
 - Shows the total number of official installer asset downloads reported by GitHub; the value is cached and is explicitly not a count of unique users.

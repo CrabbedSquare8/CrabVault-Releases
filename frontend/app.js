@@ -74,7 +74,7 @@ const TUTORIAL_COPY = {
       { id: "safety", icon: "✓", label: "Organizar" },
     ],
     steps: [
-      { chapter: "setup", icon: "📁", target: "#btn-settings", placement: "left", focus: "Configurações", title: "Configure a pasta do jogo", description: "Este é o botão de Configurações. Nele, o Manager pode detectar automaticamente onde o Marvel Rivals lê os mods ou você pode escolher a pasta.", points: ["A pasta ativa do jogo e mods_storage são lugares diferentes.", "mods_storage é a biblioteca privada; a pasta ~mods contém apenas o que está ativo."] },
+      { chapter: "setup", icon: "📁", target: "#btn-settings", placement: "left", focus: "Configurações", title: "Primeiro, configure a pasta do jogo", description: "Esta é a configuração mais importante do primeiro uso. Abra Configurações e informe a pasta ~mods que o Marvel Rivals realmente lê; sem ela, o CrabVault não consegue ativar, desativar nem encontrar os mods instalados.", points: ["Use ✨ Detectar automaticamente primeiro — é a opção recomendada e localiza a instalação nas bibliotecas da Steam.", "Se precisar escolher manualmente, selecione exatamente Marvel\\Content\\Paks\\~mods. Não selecione apenas a pasta do jogo, Content ou Paks.", "O campo deve terminar em ~mods. O CrabVault cria essa pasta quando encontra uma instalação válida.", "mods_storage é a biblioteca privada do CrabVault; não escolha essa pasta como destino do jogo."] },
       { chapter: "setup", icon: "⚙", media: "assets/tutorial/settings-overview.png", mediaClass: "settings", mediaAlt: "Configurações de pasta do jogo, suporte 3D, exibição e idioma", mediaCaption: "As Configurações reúnem os recursos gerais do Manager e permitem rever este tutorial.", title: "Conheça as Configurações", description: "Além da pasta do jogo, esta tela controla o suporte 3D, a apresentação dos mods e o idioma da interface.", points: ["Preparar / atualizar suporte 3D baixa e verifica os arquivos de leitura necessários; a pasta do jogo continua obrigatória.", "Exibição do mod controla sufixo, abertura dos detalhes e badges mostrados nos cards.", "Idioma altera toda a interface, e Rever tutorial reinicia este guia quando quiser."] },
       { chapter: "install", icon: "＋", target: "#btn-add-mod", placement: "bottom", focus: "Botão PAK", title: "Comece pelo botão PAK", description: "Use PAK para instalar mods em ZIP, RAR ou 7z e também pacotes Unreal soltos. ReShade e Background têm botões próprios porque usam outros destinos.", points: ["A seleção de arquivos acontece primeiro; nada é instalado só por abrir esse botão.", "Na tela seguinte você revisa nome, detecção, tags e imagens."] },
       { chapter: "install", icon: "①", media: "assets/tutorial/pak-file-selection.png", mediaClass: "wide", mediaAlt: "Exemplo da seleção de um ZIP e de um trio PAK, UCAS e UTOC", mediaCaption: "Exemplo: um arquivo compactado e um trio de arquivos Unreal selecionáveis na mesma janela.", mediaFocus: { x: 3, y: 11, width: 82, height: 14, label: "ZIP ou trio PAK + UCAS + UTOC" }, title: "Escolha o ZIP ou o pacote Unreal", description: "Na janela do Windows, selecione o compactado do mod ou os arquivos que formam o pacote Unreal.", points: ["Um pacote moderno normalmente usa três arquivos com o mesmo nome: .pak, .ucas e .utoc; selecione o trio inteiro.", "PAK legado solto também é aceito quando esse é o formato original do mod.", "Você pode selecionar vários ZIPs ou vários pacotes de uma vez; eles entram como componentes — variações ou complementos — de um único mod."] },
@@ -102,7 +102,7 @@ const TUTORIAL_COPY = {
       { id: "safety", icon: "✓", label: "Organize" },
     ],
     steps: [
-      { chapter: "setup", icon: "📁", target: "#btn-settings", placement: "left", focus: "Settings", title: "Set the game folder", description: "This is the Settings button. The Manager can automatically detect where Marvel Rivals loads mods, or you can choose the folder yourself.", points: ["The active game folder and mods_storage are different locations.", "mods_storage is your private library; ~mods contains only active files."] },
+      { chapter: "setup", icon: "📁", target: "#btn-settings", placement: "left", focus: "Settings", title: "First, set the game folder", description: "This is the most important first-use setting. Open Settings and select the ~mods folder that Marvel Rivals actually reads; without it, CrabVault cannot enable, disable, or discover installed mods.", points: ["Try ✨ Detect automatically first — it is the recommended option and searches your Steam libraries.", "If you browse manually, select exactly Marvel\\Content\\Paks\\~mods. Do not select only the game, Content, or Paks folder.", "The displayed path must end in ~mods. CrabVault creates that folder after finding a valid installation.", "mods_storage is CrabVault's private library; never select it as the game's destination."] },
       { chapter: "setup", icon: "⚙", media: "assets/tutorial/settings-overview.png", mediaClass: "settings", mediaAlt: "Settings for the game folder, 3D support, mod display, and language", mediaCaption: "Settings contains the Manager's general options and lets you review this tutorial.", title: "Understand Settings", description: "Besides the game folder, this screen controls 3D support, how mods are presented, and the interface language.", points: ["Prepare / update 3D support downloads and verifies the required reading files; the game folder is still required.", "Mod display controls suffixes, automatic Details opening, and type badges on cards.", "Language changes the entire interface, and Review tutorial restarts this guide whenever needed."] },
       { chapter: "install", icon: "＋", target: "#btn-add-mod", placement: "bottom", focus: "PAK button", title: "Start with the PAK button", description: "Use PAK for ZIP, RAR, or 7z archives and loose Unreal packages. ReShade and Background have separate buttons because they use different destinations.", points: ["File selection happens first; opening this button does not install anything by itself.", "The next screen lets you review the name, detection, tags, and images."] },
       { chapter: "install", icon: "①", media: "assets/tutorial/pak-file-selection.png", mediaClass: "wide", mediaAlt: "Example selecting a ZIP and a PAK, UCAS, and UTOC trio", mediaCaption: "Example: an archive and an Unreal package trio selectable from the same window.", mediaFocus: { x: 3, y: 11, width: 82, height: 14, label: "ZIP or PAK + UCAS + UTOC trio" }, title: "Choose the ZIP or Unreal package", description: "In the Windows dialog, select the mod archive or every file that belongs to the Unreal package.", points: ["A modern package normally has three files with the same name: .pak, .ucas, and .utoc; select the complete trio.", "A loose legacy PAK is also accepted when that is the mod's original format.", "You can select multiple ZIPs or multiple packages at once; they become variations or add-ons inside one mod."] },
@@ -128,6 +128,10 @@ let tutorialStep = 0;
 let tutorialPositionFrame = 0;
 
 function normalizedLanguage(value) { return value === "en" ? "en" : DEFAULT_LANGUAGE; }
+
+function localizedText(portuguese, english) {
+  return normalizedLanguage(state.settings.ui_language) === "en" ? english : portuguese;
+}
 
 function tutorialTargetFor(step) {
   const selectors = Array.isArray(step.target) ? step.target : [step.target];
@@ -3063,7 +3067,11 @@ document.getElementById("add-mod-confirm").onclick = async () => {
     } else if (res && res.cancelled) {
       return;
     } else if (res && res.error) {
-      alert("Não foi possível instalar o mod:\n\n" + res.error + "\n\nSe a operação foi interrompida, consulte Operações interrompidas nas configurações.");
+      const error = localizedText(res.error, window.uiText?.(res.error) || res.error);
+      alert(localizedText(
+        `Não foi possível instalar o mod:\n\n${error}\n\nSe a operação foi interrompida, consulte Operações interrompidas nas configurações.`,
+        `Could not install the mod:\n\n${error}\n\nIf the operation was interrupted, check Interrupted operations in Settings.`,
+      ));
     } else {
       alert("Não foi possível confirmar o resultado da instalação. Atualize a biblioteca e consulte Operações interrompidas nas configurações antes de importar novamente.");
     }
@@ -3398,8 +3406,12 @@ async function openProfiles() {
     const [profiles, recovery] = await Promise.all([api().get_profiles(), api().get_recovery_snapshot()]);
     const recoveryButton = overlay.querySelector("#profile-restore-last");
     recoveryButton.disabled = !recovery?.available;
-    recoveryButton.title = recovery?.available ? `Reverter: ${recovery.action || "última alteração"}` : "Nenhuma alteração em massa disponível";
-    recoveryButton.textContent = recovery?.available ? "↶ Reverter última alteração" : "↶ Nada para reverter";
+    recoveryButton.title = recovery?.available
+      ? localizedText(`Reverter: ${recovery.action || "última alteração"}`, `Revert: ${window.uiText?.(recovery.action || "última alteração") || "last change"}`)
+      : localizedText("Nenhuma alteração em massa disponível", "No bulk change available");
+    recoveryButton.textContent = recovery?.available
+      ? localizedText("↶ Reverter última alteração", "↶ Revert last change")
+      : localizedText("↶ Nada para reverter", "↶ Nothing to revert");
     const list = overlay.querySelector(".profiles-list");
     list.innerHTML = profiles.length ? profiles.map((profile) => `<article class="profile-row"><div><b>${escapeHtml(profile.name)}</b><small>${profile.mod_count} mod(s) no snapshot</small></div><div><button class="btn profile-apply" data-id="${profile.id}">Aplicar</button><button class="btn profile-update" data-id="${profile.id}" title="Substituir pelo estado atual">Atualizar</button><button class="btn danger-outline profile-delete" data-id="${profile.id}" title="Excluir perfil">✕</button></div></article>`).join("") : `<p class="profiles-empty">Nenhum perfil salvo ainda.</p>`;
     list.querySelectorAll(".profile-apply").forEach((button) => button.onclick = async () => {
@@ -3532,7 +3544,19 @@ function openShortcuts() {
   const overlay = document.createElement("div");
   overlay.id = "shortcuts-overlay";
   overlay.className = "modal-overlay open";
-  const rows = [
+  const english = normalizedLanguage(state.settings.ui_language) === "en";
+  const rows = english ? [
+    ["Ctrl + F", "Focus search"],
+    ["Ctrl + Shift + R", "Refresh the mod list"],
+    ["Ctrl + E", "Enable/disable all selected mods"],
+    ["F2", "Rename the focused mod"],
+    ["↑ ↓ ← → / WASD", "Navigate the mod list"],
+    ["Arrow keys or WASD", "In Backgrounds, select the previous/next cinematic preview"],
+    ["Enter", "Open details for the focused mod"],
+    ["Shift + click", "Select the range from the last checked mod"],
+    ["Esc", "Close details, dialog, or open menu"],
+    ["F1", "Show this help"],
+  ] : [
     ["Ctrl + F", "Focar a busca"],
     ["Ctrl + Shift + R", "Atualizar a lista de mods"],
     ["Ctrl + E", "Ativar/desativar todos os mods selecionados"],
@@ -3544,7 +3568,9 @@ function openShortcuts() {
     ["Esc", "Fechar detalhes, janela ou menu aberto"],
     ["F1", "Mostrar esta ajuda"],
   ];
-  overlay.innerHTML = `<section class="shortcuts-dialog" role="dialog" aria-modal="true"><header><b>⌨ Keyboard Shortcuts</b><button class="icon-btn" aria-label="Fechar">✕</button></header><div class="shortcuts-body">${rows.map(([keys, label]) => `<div><kbd>${keys}</kbd><span>${label}</span></div>`).join("")}</div><footer><button class="btn" id="shortcuts-close">Fechar</button></footer></section>`;
+  const title = english ? "⌨ Keyboard Shortcuts" : "⌨ Atalhos de teclado";
+  const closeLabel = english ? "Close" : "Fechar";
+  overlay.innerHTML = `<section class="shortcuts-dialog" role="dialog" aria-modal="true"><header><b>${title}</b><button class="icon-btn" aria-label="${closeLabel}">✕</button></header><div class="shortcuts-body">${rows.map(([keys, label]) => `<div><kbd>${keys}</kbd><span>${label}</span></div>`).join("")}</div><footer><button class="btn" id="shortcuts-close">${closeLabel}</button></footer></section>`;
   const close = () => overlay.remove();
   overlay.querySelector("header button").onclick = close;
   overlay.querySelector("#shortcuts-close").onclick = close;

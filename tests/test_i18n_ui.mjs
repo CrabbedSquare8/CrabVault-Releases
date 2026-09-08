@@ -70,6 +70,21 @@ assert.equal(window.uiText('Prévia 3D preparada: A_Test_9999999_P'), '3D previe
 assert.equal(window.uiText('Não foi possível preparar o modelo.'), 'Could not prepare the model.');
 assert.equal(window.uiText('Não encontrei a pasta Paks a partir do caminho de mods configurado.'),
   'Could not find the Paks folder from the configured mods path.');
+assert.equal(window.uiText('↶ Nada para reverter'), '↶ Nothing to revert');
+assert.equal(window.uiText('Focar a busca'), 'Focus search');
+assert.equal(window.uiText('Nos Backgrounds, selecionar a prévia de cinematic anterior/próxima'),
+  'In Backgrounds, select the previous/next cinematic preview');
+assert.equal(window.uiText('Não foi possível instalar o mod:'), 'Could not install the mod:');
+assert.equal(window.uiText('Se a operação foi interrompida, consulte Operações interrompidas nas configurações.'),
+  'If the operation was interrupted, check Interrupted operations in Settings.');
+assert.equal(window.uiText('Não foi possível alterar a cinematic.'), 'Could not change the cinematic.');
+assert.equal(window.uiText('Não foi possível renomear o componente.'), 'Could not rename the component.');
+assert.equal(window.uiText('O visualizador 3D ainda não terminou de carregar.'),
+  'The 3D viewer has not finished loading yet.');
+assert.equal(window.uiText('12 mod(s) no snapshot'), '12 mod(s) in snapshot');
+assert.equal(window.uiText('Excluir a tag "NSFW" de todos os mods?'), 'Delete the tag “NSFW” from every mod?');
+assert.equal(window.uiText('Aplicar o perfil “Default”? Os switches e componentes atuais serão substituídos.'),
+  'Apply profile “Default”? Current switches and components will be replaced.');
 assert.equal(window.uiText('Não foi possível preparar o modelo 3D: Não encontrei a pasta Paks a partir do caminho de mods configurado.'),
   'Could not prepare the 3D model: Could not find the Paks folder from the configured mods path.');
 window.alert('Nenhum mod encontrado.');
