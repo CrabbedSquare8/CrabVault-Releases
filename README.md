@@ -6,7 +6,7 @@
   <p>Organize, inspect, activate, and protect your local mod library from one place.</p>
   <p>
     <a href="https://github.com/CrabbedSquare8/CrabVault-Releases/releases/latest"><img src="https://img.shields.io/github/v/release/CrabbedSquare8/CrabVault-Releases?display_name=tag&amp;style=for-the-badge&amp;color=ef3340&amp;label=release" alt="Latest release"></a>
-    <a href="https://github.com/CrabbedSquare8/CrabVault-Releases/releases"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FCrabbedSquare8%2FCrabVault-Releases%2Fmain%2F.github%2Fdownload-count.json&amp;style=for-the-badge" alt="Program downloads"></a>
+    <a href="https://github.com/CrabbedSquare8/CrabVault-Releases/releases/latest"><img src="https://img.shields.io/github/downloads/CrabbedSquare8/CrabVault-Releases/latest/CrabVault-v0.44.11-windows-x64-setup.exe?displayAssetName=false&amp;style=for-the-badge&amp;color=bd1531&amp;label=installer%20downloads" alt="Installer downloads"></a>
     <img src="https://img.shields.io/badge/platform-Windows_11_x64-1674b8?style=for-the-badge" alt="Windows 11 x64">
     <img src="https://img.shields.io/badge/license-source--available-6f42c1?style=for-the-badge" alt="Source-available license">
   </p>
