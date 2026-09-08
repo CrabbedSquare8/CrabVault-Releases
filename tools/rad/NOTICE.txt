@@ -1,0 +1,14 @@
+RAD / Epic Games — Bink Player 2026.06
+
+This distribution includes the unmodified Bink Player utility (binkplay.exe)
+for non-commercial playback of Bink video files.
+
+Copyright (C) 1994-2026, Epic Games, Inc.
+RAD Game Tools and Bink are trademarks of Epic Games, Inc.
+
+The player preserves and displays its original RAD Game Tools credit. Do not
+remove, hide, or circumvent that notice. The free redistribution permission
+described by RAD is limited to non-commercial use.
+
+Official downloads: https://www.radgametools.com/bnkdown.htm
+Distribution FAQ: https://www.radgametools.com/binkfaq.htm

@@ -1,0 +1,19 @@
+Oodle Data 2.9.10
+=================
+
+Arquivo distribuído: oo2core_9_win64.dll
+SHA-256: 6f5d41a7892ea6b2db420f2458dad2f84a63901c9a93ce9497337b16c195f457
+
+Origem fixada no commit 5e38cb6c99c588b51cde0cae4a6420d6bc865605 do
+WorkingRobot/OodleUE, diretório oficial de redistribuição do SDK 2.9.10:
+Engine/Source/Programs/Shared/EpicGames.Oodle/Sdk/2.9.10/win/redist/
+
+https://github.com/WorkingRobot/OodleUE
+https://www.unrealengine.com/eula/unreal
+https://www.radgametools.com/oodle.htm
+
+Oodle é software proprietário da Epic Games/RAD Game Tools e não é parte do
+código próprio do CrabVault. A DLL não acompanha o ZIP do CrabVault: ao preparar
+o visualizador 3D, o aplicativo a baixa diretamente do commit e caminho acima,
+confere o SHA-256 e guarda a cópia no cache local. Este aviso registra origem e
+integridade e não substitui os termos aplicáveis da Unreal Engine/Oodle.

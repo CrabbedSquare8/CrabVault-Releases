@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8" />
+<title>CrabVault</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Titlebar customizada (janela frameless) -->
+  <div class="titlebar">
+    <div class="titlebar-title pywebview-drag-region" aria-label="CrabVault" title="CrabVault">
+      <svg class="logo-crab" viewBox="0 0 32 28" aria-hidden="true" focusable="false">
+        <g fill="currentColor">
+          <ellipse cx="16" cy="16" rx="9" ry="6.5" />
+          <path d="M10 14 5 11C1 11 0 5 4 2L4 6 7 5 6 1C12 3 11 9 8 11L12 13ZM22 14 27 11C31 11 32 5 28 2L28 6 25 5 26 1C20 3 21 9 24 11L20 13Z" />
+        </g>
+        <g fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M9 15 4 15 1 18M8 18 4 20 3 23M11 21 8 24 8 26M23 15 28 15 31 18M24 18 28 20 29 23M21 21 24 24 24 26M13 11 12 8M19 11 20 8" />
+        </g>
+      </svg>
+    </div>
+    <div class="titlebar-controls">
+      <button class="titlebar-btn" id="btn-minimize">–</button>
+      <button class="titlebar-btn" id="btn-maximize">▢</button>
+      <button class="titlebar-btn close" id="btn-close">✕</button>
+    </div>
+  </div>
+
+  <div class="app">
+
+    <!-- Header -->
+    <div class="header">
+      <div class="brand">
+        <svg class="brand-crab" viewBox="0 0 32 28" aria-hidden="true" focusable="false">
+          <g fill="currentColor">
+            <ellipse cx="16" cy="16" rx="9" ry="6.5" />
+            <path d="M10 14 5 11C1 11 0 5 4 2L4 6 7 5 6 1C12 3 11 9 8 11L12 13ZM22 14 27 11C31 11 32 5 28 2L28 6 25 5 26 1C20 3 21 9 24 11L20 13Z" />
+          </g>
+          <g fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M9 15 4 15 1 18M8 18 4 20 3 23M11 21 8 24 8 26M23 15 28 15 31 18M24 18 28 20 29 23M21 21 24 24 24 26M13 11 12 8M19 11 20 8" />
+          </g>
+        </svg>
+        <div class="brand-mark">Crab<span>Vault</span></div>
+        <div class="brand-version">v0.45.0</div>
+        <a class="github-downloads" id="github-downloads" href="https://github.com/CrabbedSquare8/CrabVault-Releases/releases" target="_blank" rel="noopener noreferrer" title="Downloads dos instaladores no GitHub" hidden>
+          <span aria-hidden="true">⇩</span><span id="github-download-count">0</span>
+        </a>
+      </div>
+      <div class="header-actions">
+        <button class="btn launch-game" id="btn-launch-game" title="Abrir Marvel Rivals pelo Steam">▶ Abrir jogo</button>
+        <button class="btn" id="btn-profiles" title="Salvar e aplicar perfis de mods">Perfis</button>
+        <button class="btn" id="btn-history" title="Ver alterações recentes">Histórico</button>
+        <button class="btn primary" id="btn-add-mod">PAK</button>
+        <button class="btn" id="btn-add-reshade" title="Instalar um ReShade em Binaries\Win64">ReShade</button>
+        <button class="btn" id="btn-add-background" title="Instalar cinemáticas em Content\Marvel">Background</button>
+        <div class="volume-control" id="volume-control"><button class="btn icon-only" id="btn-volume" title="Volume das prévias">🔊</button><div class="volume-popover" id="volume-popover" hidden><label for="preview-volume">Volume <b id="preview-volume-value">50%</b></label><input id="preview-volume" type="range" min="0" max="100" step="1" value="50" /></div></div>
+        <button class="btn icon-only" id="btn-shortcuts" title="Atalhos de teclado (F1)">⌨</button>
+        <button class="btn icon-only" id="btn-settings" title="Configurações">⚙</button>
+      </div>
+    </div>
+
+    <div id="operation-recovery-notice" class="operation-recovery-notice" hidden role="status"><span></span><button class="btn" id="review-interrupted-operations">Revisar</button></div>
+    <!-- Toolbar -->
+    <div class="toolbar">
+      <div class="search-box">
+        <span>🔎</span>
+        <input type="text" id="search-input" placeholder="Buscar mods instalados..." />
+      </div>
+
+      <div class="dropdown" id="sort-dropdown">
+        <button class="dropdown-btn">↕ Nome (A-Z)</button>
+        <div class="dropdown-menu">
+          <div class="dropdown-item selected" data-sort="name-asc">Nome (A-Z)</div>
+          <div class="dropdown-item" data-sort="name-desc">Nome (Z-A)</div>
+          <div class="dropdown-item" data-sort="newest">Mais recentes</div>
+          <div class="dropdown-item" data-sort="oldest">Mais antigos</div>
+        </div>
+      </div>
+
+      <div class="dropdown" id="tags-dropdown">
+        <button class="dropdown-btn">🏷 Todas as tags</button>
+        <div class="dropdown-menu" id="tags-menu"></div>
+      </div>
+    </div>
+
+    <!-- Content -->
+    <div class="content">
+
+      <!-- Sidebar -->
+      <div class="sidebar">
+
+        <div class="sidebar-section">
+          <div class="sidebar-heading" data-target="characters-group">
+            FILTROS
+          </div>
+        </div>
+
+        <div class="sidebar-section">
+          <div class="sidebar-heading" data-target="characters-group">
+            <span>Personagens</span><span class="chev">▾</span>
+          </div>
+          <div class="filter-group" id="characters-group"></div>
+        </div>
+
+        <div class="sidebar-section">
+          <div class="sidebar-heading" data-target="types-group">
+            <span>Tipos</span><span class="chev">▾</span>
+          </div>
+          <div class="filter-group type-pills" id="types-group"></div>
+        </div>
+
+      </div>
+
+      <aside class="skin-sidebar" id="skin-sidebar" hidden>
+        <div class="sidebar-section">
+          <div class="sidebar-heading"><span id="skins-heading">Skins</span></div>
+          <div class="filter-group" id="skins-group"></div>
+        </div>
+      </aside>
+
+      <!-- Lista de mods -->
+      <div class="list-panel">
+        <div class="list-panel-header">
+          <div class="list-title">Todos os mods <span class="count" id="mods-header-count">(0/0 ativos)</span></div>
+          <div class="list-header-actions">
+            <div class="bulk-actions" id="bulk-actions" hidden>
+              <span id="bulk-selection-count">0 selecionados</span>
+              <button class="btn" id="btn-bulk-enable" title="Ativar mods selecionados">Ativar</button>
+              <button class="btn" id="btn-bulk-disable" title="Desativar mods selecionados">Desativar</button>
+              <button class="btn danger-outline" id="btn-bulk-conflicts" hidden title="Marcar manualmente conflito entre os mods ativos selecionados">⚠ Marcar conflito</button>
+              <button class="btn icon-only" id="btn-bulk-clear" title="Limpar seleção">✕</button>
+            </div>
+            <button class="btn danger-outline" id="btn-conflicts">⚠ Verificar conflitos</button>
+            <button class="btn" id="btn-scan-mods" title="Detectar mods já instalados">Buscar mods instalados</button>
+            <div class="view-toggle">
+              <button class="btn icon-only" id="btn-grid-view" title="Visualização em grade">▦</button>
+              <button class="btn icon-only active" id="btn-list-view" title="Visualização em lista">☰</button>
+            </div>
+            <button class="btn icon-only" id="btn-refresh" title="Atualizar">⟳</button>
+          </div>
+        </div>
+        <div class="scan-status" id="scan-status" role="status" aria-live="polite" hidden></div>
+
+        <div class="mods-scroll" id="mods-scroll"></div>
+      </div>
+
+      <aside class="details-panel" id="details-panel">
+        <div class="details-heading">Detalhes do mod <button class="icon-btn" id="details-close">✕</button></div>
+        <div id="details-content" class="details-empty">Selecione um mod para ver os detalhes.</div>
+      </aside>
+
+    </div>
+  </div>
+
+  <!-- Página de detalhes do mod -->
+  <div class="mod-detail-overlay" id="mod-detail-overlay" aria-hidden="true">
+    <section class="mod-detail-page" role="dialog" aria-modal="true" aria-label="Detalhes do mod">
+      <header class="mod-detail-header">
+        <button class="detail-back" id="mod-detail-close" type="button">‹&nbsp; Voltar aos mods</button>
+        <button class="icon-btn" id="mod-detail-close-icon" type="button" aria-label="Fechar detalhes">✕</button>
+      </header>
+      <div class="mod-detail-content" id="mod-detail-content"></div>
+    </section>
+  </div>
+
+  <!-- Modal: Add Mod -->
+  <div class="modal-overlay" id="add-mod-overlay">
+    <div class="modal">
+      <div class="modal-header">
+        <span id="install-modal-title">Instalar mods</span>
+        <button class="icon-btn" id="add-mod-close">✕</button>
+      </div>
+      <div class="modal-body">
+        <label class="modal-label">Nome personalizado</label>
+        <input type="text" class="modal-input" id="input-name" placeholder="Ex: Thicc Angela (Doom - L Simple)" />
+        <div id="install-original-name" class="install-original-name"></div>
+        <div class="install-badges"><span id="install-character-badge" class="install-badge hero"></span><span id="install-type-badge" class="install-badge type"></span></div>
+        <div id="install-personal-corrections" class="install-personal-corrections" hidden>
+          <label class="modal-label" for="install-correction-choice">Correções pessoais salvas (opcional)</label>
+          <select id="install-correction-choice" class="modal-input"><option value="">Não reutilizar correções</option></select>
+          <p id="install-correction-note" class="modal-hint" aria-live="polite"></p>
+        </div>
+
+        <label class="modal-label" id="install-character-label">Personagem</label>
+        <div class="picker-box" id="character-picker">
+          <input type="text" class="modal-input" id="character-search" placeholder="Buscar personagem..." />
+          <div class="picker-list" id="character-list-box"></div>
+        </div>
+        <div class="picker-selected" id="character-selected" style="display:none;"></div>
+
+        <div id="skin-section" style="display:none;">
+          <label class="modal-label">Skin</label>
+          <div class="picker-box">
+            <div class="skin-chips" id="skin-chips"></div>
+            <input type="text" class="modal-input" id="input-skin-new" placeholder="Nome de uma nova skin..." />
+          </div>
+        </div>
+
+        <label class="modal-label" id="install-link-label">Link do mod (opcional)</label>
+        <input type="text" class="modal-input" id="input-link" placeholder="https://nexusmods.com/..." />
+
+        <input type="hidden" id="input-folder" />
+
+        <div class="install-control-row install-tags-row">
+          <label class="install-control-label" for="install-tag-plus">Tags</label>
+          <div class="tag-editor"><div class="skin-chips" id="install-tags"></div><button class="add-tag-btn" id="install-tag-plus" type="button" onclick="window.openInstallTagMenu()" aria-label="Adicionar tag">+</button><div class="install-tag-menu" id="install-tag-menu"></div></div>
+        </div>
+        <div class="install-control-row install-image-row">
+          <label class="install-control-label" for="install-image-plus">Adicionar imagem</label>
+          <div class="install-media-control"><button class="add-tag-btn image-add-btn" id="install-image-plus" type="button" title="Adicionar imagens" aria-label="Adicionar imagens">▧</button></div>
+        </div>
+
+        <label class="modal-check" id="install-cover-toggle">
+          <input type="checkbox" id="input-wants-image" />
+          Adicionar uma imagem de capa
+        </label>
+        <button class="btn" id="btn-install-image" type="button">Escolher imagem de capa</button>
+        <img id="install-image-preview" class="install-preview" alt="Prévia da capa" />
+        <p class="modal-hint" id="install-modal-hint">Os tipos são detectados pelos arquivos selecionados. As variações ficam guardadas na biblioteca e podem ser alternadas nos detalhes do mod.</p>
+      </div>
+      <div class="modal-footer">
+        <button class="btn" id="add-mod-cancel">Cancelar</button>
+        <button class="btn primary" id="add-mod-confirm">Instalar mod</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal: Settings -->
+  <div class="modal-overlay" id="settings-overlay">
+    <div class="modal">
+      <div class="modal-header">
+        <span>Configurações</span>
+        <button class="icon-btn" id="settings-close">✕</button>
+      </div>
+      <div class="modal-body">
+        <label class="modal-label">Pasta de mods do jogo</label>
+        <input type="text" class="modal-input" id="settings-mods-path" placeholder="Nenhuma pasta configurada ainda" readonly />
+        <div class="settings-path-actions">
+          <button class="btn" id="btn-auto-detect">✨ Detectar automaticamente</button>
+          <button class="btn" id="btn-browse-folder">📁 Escolher pasta</button>
+        </div>
+        <p class="modal-hint" id="auto-detect-status"></p>
+        <label class="modal-label">VISUALIZADOR 3D INTEGRADO</label>
+        <p class="modal-hint">Sem FModel ou instalação de .NET. Na primeira abertura, o CrabVault baixa e verifica o mapping, zlib e Oodle 2.9.10. A Oodle vem do projeto comunitário <a href="https://github.com/WorkingRobot/OodleUE" target="_blank" rel="noreferrer">WorkingRobot/OodleUE</a>, sob os termos da Unreal Engine; depois tudo é reutilizado localmente.</p>
+        <p class="modal-hint" id="settings-native3d-status" role="status" aria-live="polite"></p>
+        <div class="settings-path-actions"><button class="btn" id="btn-prepare-native3d">Preparar / atualizar suporte 3D</button></div>
+        <hr class="settings-divider" />
+        <label class="modal-label">VISUALIZAÇÃO DOS MODS</label>
+        <label class="modal-check"><input type="checkbox" id="setting-hide-suffix" /> Ocultar sufixo <code>_9999999_P</code> nos nomes dos mods</label>
+        <label class="modal-check"><input type="checkbox" id="setting-auto-details" checked /> Abrir detalhes automaticamente ao clicar</label>
+        <label class="modal-check"><input type="checkbox" id="setting-show-type-badge" /> Mostrar badge de tipo nos cards</label>
+        <hr class="settings-divider" />
+        <label class="modal-label" for="setting-language">IDIOMA / LANGUAGE</label>
+        <select class="modal-input" id="setting-language">
+          <option value="pt-BR">Português</option>
+          <option value="en">English</option>
+        </select>
+        <p class="modal-hint">Define o idioma de toda a interface do CrabVault.</p>
+        <div class="settings-path-actions"><button class="btn" id="setting-review-tutorial" type="button">Rever tutorial</button></div>
+        <hr class="settings-divider" />
+        <label class="modal-label">CATÁLOGO DE PERSONAGENS E SKINS</label>
+        <p class="modal-hint settings-health-hint">Verifica uma vez por dia os IDs mantidos em <a href="https://github.com/donutman07/MarvelRivalsCharacterIDs" target="_blank" rel="noreferrer">donutman07/MarvelRivalsCharacterIDs</a>.</p>
+        <p class="modal-hint">O catálogo incluído continua funcionando offline e os ícones existentes do Manager são preservados.</p>
+        <p class="modal-hint" id="settings-character-catalog-status" role="status" aria-live="polite"></p>
+        <div class="settings-path-actions"><button class="btn" id="setting-update-character-catalog" type="button">Atualizar catálogo agora</button></div>
+        <hr class="settings-divider" />
+        <label class="modal-label">ATUALIZAÇÕES DO CRABVAULT</label>
+        <p class="modal-hint">Consulta a release estável mais recente no GitHub. O instalador só é executado depois de validar seu SHA-256 e preserva configurações, mods e mídias.</p>
+        <p class="modal-hint" id="settings-app-update-status" role="status" aria-live="polite">Versão instalada: 0.44.11.</p>
+        <div class="settings-path-actions"><button class="btn" id="setting-check-app-update" type="button">Verificar atualizações</button></div>
+        <hr class="settings-divider" />
+        <label class="modal-label">ARQUIVOS DA IMPORTAÇÃO</label>
+        <label class="modal-check"><input type="checkbox" id="setting-preserve-import-archives" checked /><span><b>Guardar uma cópia compactada na biblioteca</b><small>Preserva o ZIP/RAR/7z original. Se você selecionar PAK/UCAS/UTOC soltos, reúne todos eles em um novo ZIP dentro de <code>mods_storage</code>.</small></span></label>
+        <label class="modal-check"><input type="checkbox" id="setting-delete-import-sources" checked /><span><b>Apagar os arquivos originais depois de instalar</b><small>Somente após sucesso, remove do local de origem ZIP/RAR/7z, PAK/UCAS/UTOC e imagens escolhidas. Desmarque para mantê-los onde estão.</small></span></label>
+        <p class="modal-hint">A cópia instalável em <code>mods_storage</code> continua existindo nas duas opções. Arquivos que já estão na biblioteca privada nunca são apagados. Ao importar vários pacotes soltos juntos, um único ZIP guarda todos eles sem misturar arquivos com nomes iguais.</p>
+        <hr class="settings-divider" />
+        <label class="modal-label">OPÇÕES AVANÇADAS</label>
+        <label class="modal-check"><input type="checkbox" id="setting-bypass-game-lock" /> Ignorar bloqueio de operações enquanto o jogo estiver aberto</label>
+        <p class="modal-hint">Quando desativado, instalar, mover, ativar ou desativar mods é bloqueado enquanto Marvel Rivals estiver em execução.</p>
+        <hr class="settings-divider" />
+        <label class="modal-label">MANUTENÇÃO DA BIBLIOTECA</label>
+        <p class="modal-hint settings-health-hint">Verificações sob demanda. Reparos e recuperações só são aplicados após sua revisão.</p>
+        <div class="settings-maintenance-actions">
+          <button class="btn" id="setting-check-library" type="button">Verificar integridade</button>
+          <button class="btn" id="setting-pending-classifications" type="button">Classificações pendentes</button>
+          <button class="btn" id="setting-recover-operations" type="button">Operações interrompidas</button>
+        </div>
+        <label class="modal-check"><input type="checkbox" id="setting-verify-hashes" checked /> Comparar o conteúdo dos arquivos (pode levar mais tempo)</label>
+        <div class="library-health-result" id="library-health-result" aria-live="polite"></div>
+        <hr class="settings-divider" />
+        <label class="modal-label">BACKUP DO CATÁLOGO</label>
+        <p class="modal-hint settings-health-hint">Salva cópias sequenciais em <code>backups</code> ou restaura catálogo, tags, capas cadastradas, componentes, perfis e configurações. Arquivos de mods e mídias não são copiados.</p>
+        <div class="settings-path-actions">
+          <button class="btn" id="setting-export-backup" type="button">⇩ Criar backup</button>
+          <button class="btn" id="setting-restore-backup" type="button">⇧ Restaurar backup</button>
+        </div>
+        <label class="modal-label">BACKUP COMPLETO</label>
+        <p class="modal-hint settings-health-hint">Inclui os arquivos dos mods, mídias e correções pessoais. Você escolhe o destino e revisa o espaço necessário antes de criar. A extração cria uma pasta nova, sem substituir esta biblioteca ou ativar mods.</p>
+        <div class="settings-maintenance-actions">
+          <button class="btn" id="setting-full-backup" type="button">Criar backup completo…</button>
+          <button class="btn" id="setting-full-restore" type="button">Extrair backup completo…</button>
+        </div>
+        <hr class="settings-divider" />
+        <label class="modal-label">APARÊNCIA</label>
+        <div class="theme-picker" id="theme-picker" aria-label="Selecionar tema">
+          <button class="theme-choice" type="button" data-theme="dark"><span>◔</span> Tema escuro</button>
+          <button class="theme-choice" type="button" data-theme="light"><span>☀</span> Tema claro</button>
+        </div>
+        <p class="modal-hint settings-accent-hint">Cor de destaque para botões, seleção e indicadores.</p>
+        <div class="accent-picker" id="accent-picker" aria-label="Selecionar cor de destaque">
+          <button class="accent-choice" type="button" data-accent="#e0333f" title="Vermelho" aria-label="Vermelho"></button>
+          <button class="accent-choice" type="button" data-accent="#3182ce" title="Azul" aria-label="Azul"></button>
+          <button class="accent-choice" type="button" data-accent="#805ad5" title="Roxo" aria-label="Roxo"></button>
+          <button class="accent-choice" type="button" data-accent="#38a169" title="Verde" aria-label="Verde"></button>
+          <button class="accent-choice" type="button" data-accent="#d69e2e" title="Dourado" aria-label="Dourado"></button>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button class="btn primary" id="settings-done">Salvar</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Seleção inicial de idioma -->
+  <div class="onboarding-overlay" id="language-overlay" aria-hidden="true">
+    <section class="language-dialog" role="dialog" aria-modal="true" aria-labelledby="language-title">
+      <div class="onboarding-mark">M</div>
+      <p class="onboarding-kicker">CRABVAULT</p>
+      <h1 id="language-title">Select language</h1>
+      <p class="language-subtitle">Selecione o idioma · Choose your language</p>
+      <div class="language-options" role="radiogroup" aria-label="Language">
+        <button type="button" class="language-choice selected" data-language="pt-BR" role="radio" aria-checked="true"><b>Português</b><span>Continuar em português</span></button>
+        <button type="button" class="language-choice" data-language="en" role="radio" aria-checked="false"><b>English</b><span>Continue in English</span></button>
+      </div>
+      <button type="button" class="btn primary language-continue" id="language-continue">Continuar</button>
+      <p class="onboarding-error" id="language-error" role="alert"></p>
+    </section>
+  </div>
+
+  <!-- Tutorial inicial -->
+  <div class="onboarding-overlay" id="tutorial-overlay" aria-hidden="true">
+    <div class="tutorial-spotlight" id="tutorial-spotlight" aria-hidden="true" hidden><span id="tutorial-focus-name"></span></div>
+    <section class="tutorial-dialog" role="dialog" aria-modal="true" aria-labelledby="tutorial-title" aria-describedby="tutorial-description">
+      <header class="tutorial-header">
+        <div><p class="onboarding-kicker" id="tutorial-kicker"></p><h1 id="tutorial-title"></h1></div>
+        <span class="tutorial-counter" id="tutorial-counter"></span>
+      </header>
+      <div class="tutorial-progress" aria-hidden="true"><span id="tutorial-progress-bar"></span></div>
+      <nav class="tutorial-step-map" id="tutorial-step-map"></nav>
+      <div class="tutorial-body">
+        <div class="tutorial-copy">
+          <div class="tutorial-icon" id="tutorial-icon" aria-hidden="true"></div>
+          <div><p id="tutorial-description"></p><ul id="tutorial-points"></ul></div>
+        </div>
+        <figure class="tutorial-media" id="tutorial-media" hidden>
+          <div class="tutorial-media-frame">
+            <img id="tutorial-media-image" alt="" />
+            <div class="tutorial-media-focus" id="tutorial-media-focus" hidden><span></span></div>
+          </div>
+          <figcaption id="tutorial-media-caption"></figcaption>
+        </figure>
+      </div>
+      <footer class="tutorial-footer">
+        <button type="button" class="btn" id="tutorial-back"></button>
+        <div class="tutorial-next-actions"><button type="button" class="btn primary" id="tutorial-next"></button></div>
+        <div class="tutorial-final-actions" id="tutorial-final-actions" hidden>
+          <button type="button" class="btn" id="tutorial-review">Review tutorial</button>
+          <button type="button" class="btn primary" id="tutorial-understand">I understand</button>
+        </div>
+      </footer>
+      <p class="onboarding-error" id="tutorial-error" role="alert"></p>
+    </section>
+  </div>
+
+  <!-- Menu de contexto (botão direito) -->
+  <div class="ctx-menu" id="ctx-menu">
+    <div class="ctx-item" data-action="assign-tag">Adicionar tag... <span>›</span></div>
+    <div class="ctx-item" data-action="move-to">Mover para... <span>›</span></div>
+    <div class="ctx-sep"></div>
+    <div class="ctx-item" data-action="rename">Renomear</div>
+    <div class="ctx-item" data-action="edit-image">Editar imagem</div>
+    <div class="ctx-sep"></div>
+    <div class="ctx-item" data-action="open-folder">Abrir no Explorador</div>
+    <div class="ctx-item" data-action="copy-path">Copiar caminho</div>
+    <div class="ctx-sep"></div>
+    <div class="ctx-item danger" data-action="delete">Remover mod</div>
+  </div>
+
+  <script type="importmap">
+    {"imports":{"three":"./vendor/three/three.module.min.js"}}
+  </script>
+  <script src="i18n.js"></script>
+  <script src="app.js"></script>
+  <script src="maintenance.js"></script>
+  <script type="module" src="model-viewer.js"></script>
+</body>
+</html>

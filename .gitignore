@@ -1,0 +1,44 @@
+# Dados locais e biblioteca do usuário
+/mods.json
+/mods.json.lock
+/settings.json
+/settings.json.lock
+/personal_corrections.json
+/mods_storage/
+/backups/
+/rivalskins_data.json
+/rivalskins_sem_id.txt
+
+# Builds, dependências preparadas e ferramentas baixadas
+/release_builds/
+/.cache/
+/.deps/
+/.dotnet/
+/.dotnet-home/
+/.dotnet-sdk-*/
+/.npm-cache/
+/.nuget/
+/.tmp/
+/tools/7zip/
+/tools/dotnet8/
+/tools/handbrake/
+/tools/vgmstream/
+/tools/webview2/
+/tools/packaging/downloads/
+/tools/native3d/bin/
+/tools/native3d/obj/
+/tools/native3d/runtime/
+/tools/native3d/__pycache__/
+/tools/native3d/oodle/*.dll
+/frontend/viewer-cache/
+
+# Arquivos temporários e específicos desta máquina
+__pycache__/
+*.py[cod]
+*.pdb
+*.log
+*.tmp
+*.lock
+*.lnk
+.DS_Store
+Thumbs.db

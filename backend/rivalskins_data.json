@@ -1,0 +1,4148 @@
+{
+  "1011001": {
+    "name": "Default",
+    "character": "hulk",
+    "url": "https://rivalskins.com/item/421/hulk-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/8/img_icon_bruce-banner.png"
+  },
+  "1011100": {
+    "name": "Mighty G-Bomb",
+    "character": "hulk",
+    "url": "https://rivalskins.com/item/1/hulk-costume-mighty-g-bomb/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/8/img_icon_mighty-g-bomb.png"
+  },
+  "1011300": {
+    "name": "Maestro",
+    "character": "hulk",
+    "url": "https://rivalskins.com/item/1711/hulk-costume-maestro/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/8/img_icon_maestro.png"
+  },
+  "1011500": {
+    "name": "Punk Rage",
+    "character": "hulk",
+    "url": "https://rivalskins.com/item/690/hulk-costume-punk-rage/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/8/img_icon_punk-rage.png"
+  },
+  "1011501": {
+    "name": "Green Scar",
+    "character": "hulk",
+    "url": "https://rivalskins.com/item/2/hulk-costume-green-scar/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/8/img_icon_green-scar.png"
+  },
+  "1011502": {
+    "name": "Joe Fixit",
+    "character": "hulk",
+    "url": "https://rivalskins.com/item/808/hulk-costume-joe-fixit/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/8/img_icon_joe-fixit.png"
+  },
+  "1011800": {
+    "name": "Infinity Hulk",
+    "character": "hulk",
+    "url": "https://rivalskins.com/item/3226/hulk-costume-infinity-hulk/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/8/img_icon_infinity-hulk.png"
+  },
+  "1011801": {
+    "name": "Spider-Man: Brand New Day",
+    "character": "hulk",
+    "url": "https://rivalskins.com/item/3848/hulk-costume-spider-man-brand-new-day/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/8/img_icon_spider-man-brand-new-day.png"
+  },
+  "1014001": {
+    "name": "Default",
+    "character": "the-punisher",
+    "url": "https://rivalskins.com/item/422/the-punisher-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/20/img_icon_the-punisher.png"
+  },
+  "1014100": {
+    "name": "Camo",
+    "character": "the-punisher",
+    "url": "https://rivalskins.com/item/3/the-punisher-costume-camo/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/20/img_icon_camo.png"
+  },
+  "1014300": {
+    "name": "Dangan Ronin",
+    "character": "the-punisher",
+    "url": "https://rivalskins.com/item/1061/the-punisher-costume-dangan-ronin/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/20/img_icon_dangan-ronin.png"
+  },
+  "1014301": {
+    "name": "Marauder Marksman",
+    "character": "the-punisher",
+    "url": "https://rivalskins.com/item/2761/the-punisher-costume-marauder-marksman/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/20/img_icon_marauder-marksman.png"
+  },
+  "1014302": {
+    "name": "Sandstorm Soldier",
+    "character": "the-punisher",
+    "url": "https://rivalskins.com/item/3875/the-punisher-costume-sandstorm-soldier/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/20/img_icon_sandstorm-soldier.png"
+  },
+  "1014500": {
+    "name": "Thunderbolts",
+    "character": "the-punisher",
+    "url": "https://rivalskins.com/item/4/the-punisher-costume-thunderbolts/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/20/img_icon_thunderbolts.png"
+  },
+  "1014501": {
+    "name": "Punisher 2099",
+    "character": "the-punisher",
+    "url": "https://rivalskins.com/item/5/the-punisher-costume-punisher-2099/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/20/img_icon_punisher-2099.png"
+  },
+  "1014502": {
+    "name": "Aqua Arsenal",
+    "character": "the-punisher",
+    "url": "https://rivalskins.com/item/1617/the-punisher-costume-aqua-arsenal/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/20/img_icon_aqua-arsenal.png"
+  },
+  "1014503": {
+    "name": "Franken-Castle",
+    "character": "the-punisher",
+    "url": "https://rivalskins.com/item/1845/the-punisher-costume-franken-castle/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/20/img_icon_franken-castle.png"
+  },
+  "1014800": {
+    "name": "Daredevil: Born Again",
+    "character": "the-punisher",
+    "url": "https://rivalskins.com/item/1227/the-punisher-costume-daredevil-born-again/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/20/img_icon_daredevil-born-again.png"
+  },
+  "1015001": {
+    "name": "Default",
+    "character": "storm",
+    "url": "https://rivalskins.com/item/423/storm-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/25/img_icon_storm.png"
+  },
+  "1015100": {
+    "name": "Ivory Breeze",
+    "character": "storm",
+    "url": "https://rivalskins.com/item/6/storm-costume-ivory-breeze/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/25/img_icon_ivory-breeze.png"
+  },
+  "1015101": {
+    "name": "Will Of Galacta",
+    "character": "storm",
+    "url": "https://rivalskins.com/item/3419/storm-costume-will-of-galacta/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/25/img_icon_will-of-galacta.png"
+  },
+  "1015300": {
+    "name": "Queen Of Orphans",
+    "character": "storm",
+    "url": "https://rivalskins.com/item/1760/storm-costume-judicator-xiezhi/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/25/img_icon_judicator-xiezhi.png"
+  },
+  "1015500": {
+    "name": "Mohawk Rock",
+    "character": "storm",
+    "url": "https://rivalskins.com/item/7/storm-costume-mohawk-rock/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/25/img_icon_mohawk-rock.png"
+  },
+  "1015501": {
+    "name": "Ultimate Wind-Rider",
+    "character": "storm",
+    "url": "https://rivalskins.com/item/1086/storm-costume-ultimate-wind-rider/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/25/img_icon_ultimate-wind-rider.png"
+  },
+  "1015502": {
+    "name": "Goddess of Thunder",
+    "character": "storm",
+    "url": "https://rivalskins.com/item/751/storm-costume-goddess-of-thunder/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/25/img_icon_goddess-of-thunder.png"
+  },
+  "1015503": {
+    "name": "Symbiote Storm",
+    "character": "storm",
+    "url": "https://rivalskins.com/item/1316/storm-costume-symbiote-storm/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/25/img_icon_symbiote-storm.png"
+  },
+  "1015504": {
+    "name": "Queen of Wakanda",
+    "character": "storm",
+    "url": "https://rivalskins.com/item/2208/storm-costume-queen-of-wakanda/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/25/img_icon_queen-of-wakanda.png"
+  },
+  "1015802": {
+    "name": "Sacred Skies",
+    "character": "storm",
+    "url": "https://rivalskins.com/item/3971/storm-costume-sacred-skies/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/25/img_icon_sacred-skies.png"
+  },
+  "1016001": {
+    "name": "Default",
+    "character": "loki",
+    "url": "https://rivalskins.com/item/424/loki-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/11/img_icon_loki.png"
+  },
+  "1016100": {
+    "name": "Frost Giant",
+    "character": "loki",
+    "url": "https://rivalskins.com/item/8/loki-costume-frost-giant/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/11/img_icon_frost-giant.png"
+  },
+  "1016101": {
+    "name": "IGNITE Loki (2025)",
+    "character": "loki",
+    "url": "https://rivalskins.com/item/1805/loki-costume-ignite-loki-2025/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/11/img_icon_ignite-loki-2025.png"
+  },
+  "1016300": {
+    "name": "Shin Sagi-Shi",
+    "character": "loki",
+    "url": "https://rivalskins.com/item/986/loki-costume-shin-sagi-shi/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/11/img_icon_shin-sagi-shi.png"
+  },
+  "1016301": {
+    "name": "Robe of Relaxation",
+    "character": "loki",
+    "url": "https://rivalskins.com/item/1337/loki-costume-robe-of-relaxation/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/11/img_icon_robe-of-relaxation.png"
+  },
+  "1016302": {
+    "name": "Crane Deceiver",
+    "character": "loki",
+    "url": "https://rivalskins.com/item/1533/loki-costume-immortal-firebird/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/11/img_icon_immortal-firebird.png"
+  },
+  "1016500": {
+    "name": "Presidential Attire",
+    "character": "loki",
+    "url": "https://rivalskins.com/item/533/loki-costume-presidential-attire/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/11/img_icon_presidential-attire.png"
+  },
+  "1016501": {
+    "name": "All-Butcher",
+    "character": "loki",
+    "url": "https://rivalskins.com/item/538/loki-costume-all-butcher/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/11/img_icon_all-butcher.png"
+  },
+  "1016502": {
+    "name": "Lady Loki",
+    "character": "loki",
+    "url": "https://rivalskins.com/item/2192/loki-costume-lady-loki/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/11/img_icon_lady-loki.png"
+  },
+  "1016503": {
+    "name": "Low-Key Loki",
+    "character": "loki",
+    "url": "https://rivalskins.com/item/2762/loki-costume-low-key-loki/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/11/img_icon_low-key-loki.png"
+  },
+  "1016504": {
+    "name": "Seaside Siren",
+    "character": "loki",
+    "url": "https://rivalskins.com/item/3584/loki-costume-seaside-siren/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/11/img_icon_seaside-siren.png"
+  },
+  "1016800": {
+    "name": "Loki Season 2",
+    "character": "loki",
+    "url": "https://rivalskins.com/item/9/loki-costume-loki-season-2/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/11/img_icon_loki-season-2.png"
+  },
+  "1016801": {
+    "name": "The Avengers",
+    "character": "loki",
+    "url": "https://rivalskins.com/item/3180/loki-costume-the-avengers/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/11/img_icon_the-avengers.png"
+  },
+  "1017001": {
+    "name": "Default",
+    "character": "human-torch",
+    "url": "https://rivalskins.com/item/724/human-torch-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/37/img_icon_human-torch.png"
+  },
+  "1017100": {
+    "name": "First Family",
+    "character": "human-torch",
+    "url": "https://rivalskins.com/item/691/human-torch-costume-first-family/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/37/img_icon_first-family.png"
+  },
+  "1017101": {
+    "name": "Blood Blaze",
+    "character": "human-torch",
+    "url": "https://rivalskins.com/item/692/human-torch-costume-blood-blaze/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/37/img_icon_blood-blaze.png"
+  },
+  "1017102": {
+    "name": "Silver Spark",
+    "character": "human-torch",
+    "url": "https://rivalskins.com/item/3326/human-torch-costume-silver-spark/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/37/img_icon_silver-spark.png"
+  },
+  "1017300": {
+    "name": "Jack Of Hearts",
+    "character": "human-torch",
+    "url": "https://rivalskins.com/item/2197/human-torch-costume-jack-of-hearts/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/37/img_icon_jack-of-hearts.png"
+  },
+  "1017500": {
+    "name": "Negative Zone Gladiator",
+    "character": "human-torch",
+    "url": "https://rivalskins.com/item/693/human-torch-costume-negative-zone-gladiator/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/37/img_icon_negative-zone-gladiator.png"
+  },
+  "1017501": {
+    "name": "Future Foundation",
+    "character": "human-torch",
+    "url": "https://rivalskins.com/item/1187/human-torch-costume-future-foundation/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/37/img_icon_future-foundation.png"
+  },
+  "1017502": {
+    "name": "Sunny Sizzler",
+    "character": "human-torch",
+    "url": "https://rivalskins.com/item/1618/human-torch-costume-sunny-sizzler/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/37/img_icon_sunny-sizzler.png"
+  },
+  "1017800": {
+    "name": "The Fantastic Four: First Steps",
+    "character": "human-torch",
+    "url": "https://rivalskins.com/item/1379/human-torch-costume-the-fantastic-four-first-steps/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/37/img_icon_the-fantastic-four-first-steps.png"
+  },
+  "1018001": {
+    "name": "Default",
+    "character": "doctor-strange",
+    "url": "https://rivalskins.com/item/425/doctor-strange-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/4/img_icon_doctor-strange.png"
+  },
+  "1018100": {
+    "name": "Master of Black Magic",
+    "character": "doctor-strange",
+    "url": "https://rivalskins.com/item/10/doctor-strange-costume-master-of-black-magic/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/4/img_icon_master-of-black-magic.png"
+  },
+  "1018101": {
+    "name": "Astral Wanderer",
+    "character": "doctor-strange",
+    "url": "https://rivalskins.com/item/1534/doctor-strange-costume-astral-wanderer/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/4/img_icon_astral-wanderer.png"
+  },
+  "1018300": {
+    "name": "Sorcerer Immortal",
+    "character": "doctor-strange",
+    "url": "https://rivalskins.com/item/539/doctor-strange-costume-sorcerer-immortal/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/4/img_icon_sorcerer-immortal.png"
+  },
+  "1018301": {
+    "name": "Old Man Strange",
+    "character": "doctor-strange",
+    "url": "https://rivalskins.com/item/1493/doctor-strange-costume-old-man-strange/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/4/img_icon_old-man-strange.png"
+  },
+  "1018302": {
+    "name": "Bleeker Street Strut",
+    "character": "doctor-strange",
+    "url": "https://rivalskins.com/item/1932/doctor-strange-costume-bleeker-street-strut/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/4/img_icon_bleeker-street-strut.png"
+  },
+  "1018303": {
+    "name": "Phantom Sorcerer",
+    "character": "doctor-strange",
+    "url": "https://rivalskins.com/item/2666/doctor-strange-costume-phantom-sorcerer/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/4/img_icon_phantom-sorcerer.png"
+  },
+  "1018304": {
+    "name": "Stephen Sanders: The Doctor",
+    "character": "doctor-strange",
+    "url": "https://rivalskins.com/item/2763/doctor-strange-costume-stephen-sanders-the-doctor/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/4/img_icon_stephen-sanders-the-doctor.png"
+  },
+  "1018305": {
+    "name": "Nautical Mystic",
+    "character": "doctor-strange",
+    "url": "https://rivalskins.com/item/3473/doctor-strange-costume-nautical-mystic/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/4/img_icon_nautical-mystic.png"
+  },
+  "1018500": {
+    "name": "God Of Magic",
+    "character": "doctor-strange",
+    "url": "https://rivalskins.com/item/11/doctor-strange-costume-god-of-magic/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/4/img_icon_god-of-magic.png"
+  },
+  "1018501": {
+    "name": "Sorcerer Supreme of the Galaxy",
+    "character": "doctor-strange",
+    "url": "https://rivalskins.com/item/12/doctor-strange-costume-sorcerer-supreme-of-the-galaxy/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/4/img_icon_sorcerer-supreme-of-the-galaxy.png"
+  },
+  "1018800": {
+    "name": "Doctor Strange in the Multiverse of Madness",
+    "character": "doctor-strange",
+    "url": "https://rivalskins.com/item/974/doctor-strange-costume-doctor-strange-in-the-multiverse-of-madness/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/4/img_icon_doctor-strange-in-the-multiverse-of-madness.png"
+  },
+  "1020001": {
+    "name": "Default",
+    "character": "mantis",
+    "url": "https://rivalskins.com/item/426/mantis-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/15/img_icon_mantis.png"
+  },
+  "1020100": {
+    "name": "Knowhere Corp",
+    "character": "mantis",
+    "url": "https://rivalskins.com/item/13/mantis-costume-knowhere-corp/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/15/img_icon_knowhere-corp.png"
+  },
+  "1020101": {
+    "name": "Will of Galacta",
+    "character": "mantis",
+    "url": "https://rivalskins.com/item/1463/mantis-costume-will-of-galacta/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/15/img_icon_will-of-galacta.png"
+  },
+  "1020102": {
+    "name": "Black & Gold",
+    "character": "mantis",
+    "url": "https://rivalskins.com/item/3041/mantis-costume-black-gold/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/15/img_icon_black-gold.png"
+  },
+  "1020300": {
+    "name": "Galactic Wings",
+    "character": "mantis",
+    "url": "https://rivalskins.com/item/14/mantis-costume-galactic-wings/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/15/img_icon_galactic-wings.png"
+  },
+  "1020301": {
+    "name": "Jade Maiden",
+    "character": "mantis",
+    "url": "https://rivalskins.com/item/540/mantis-costume-jade-maiden/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/15/img_icon_jade-maiden.png"
+  },
+  "1020302": {
+    "name": "Oceanic Harmony",
+    "character": "mantis",
+    "url": "https://rivalskins.com/item/1619/mantis-costume-oceanic-harmony/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/15/img_icon_oceanic-harmony.png"
+  },
+  "1020305": {
+    "name": "Galactic Gladiator",
+    "character": "mantis",
+    "url": "https://rivalskins.com/item/2209/mantis-costume-galactic-gladiator/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/15/img_icon_galactic-gladiator.png"
+  },
+  "1020306": {
+    "name": "Akkaban Acolyte",
+    "character": "mantis",
+    "url": "https://rivalskins.com/item/3623/mantis-costume-akkaban-acolyte/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/15/img_icon_akkaban-acolyte.png"
+  },
+  "1020307": {
+    "name": "Mandy Celestine: The Greeter",
+    "character": "mantis",
+    "url": "https://rivalskins.com/item/3414/mantis-costume-mandy-celestine-the-greeter/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/15/img_icon_mandy-celestine-the-greeter.png"
+  },
+  "1020500": {
+    "name": "Flora Maiden",
+    "character": "mantis",
+    "url": "https://rivalskins.com/item/809/mantis-costume-flora-maiden/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/15/img_icon_flora-maiden.png"
+  },
+  "1020501": {
+    "name": "Starlit Madonna",
+    "character": "mantis",
+    "url": "https://rivalskins.com/item/3227/mantis-costume-starlit-madonna/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/15/img_icon_starlit-madonna.png"
+  },
+  "1020800": {
+    "name": "Guardians Of The Galaxy Vol. 3",
+    "character": "mantis",
+    "url": "https://rivalskins.com/item/15/mantis-costume-guardians-of-the-galaxy-vol-3/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/15/img_icon_guardians-of-the-galaxy-vol-3.png"
+  },
+  "1021001": {
+    "name": "Default",
+    "character": "hawkeye",
+    "url": "https://rivalskins.com/item/427/hawkeye-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/6/img_icon_hawkeye.png"
+  },
+  "1021100": {
+    "name": "Tiger's Eye",
+    "character": "hawkeye",
+    "url": "https://rivalskins.com/item/16/hawkeye-costume-tigers-eye/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/6/img_icon_tigers-eye.png"
+  },
+  "1021101": {
+    "name": "Will of Galacta",
+    "character": "hawkeye",
+    "url": "https://rivalskins.com/item/1238/hawkeye-costume-will-of-galacta/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/6/img_icon_will-of-galacta.png"
+  },
+  "1021102": {
+    "name": "Argent Archer",
+    "character": "hawkeye",
+    "url": "https://rivalskins.com/item/2764/hawkeye-costume-argent-archer/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/6/img_icon_argent-archer.png"
+  },
+  "1021300": {
+    "name": "Galactic Fangs",
+    "character": "hawkeye",
+    "url": "https://rivalskins.com/item/17/hawkeye-costume-galactic-fangs/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/6/img_icon_galactic-fangs.png"
+  },
+  "1021301": {
+    "name": "Old Man Hawkeye",
+    "character": "hawkeye",
+    "url": "https://rivalskins.com/item/1535/hawkeye-costume-old-man-hawkeye/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/6/img_icon_old-man-hawkeye.png"
+  },
+  "1021302": {
+    "name": "Bed-Stuy'S Best",
+    "character": "hawkeye",
+    "url": "https://rivalskins.com/item/3712/hawkeye-costume-bed-stuys-best/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/6/img_icon_bed-stuys-best.png"
+  },
+  "1021500": {
+    "name": "Ronin",
+    "character": "hawkeye",
+    "url": "https://rivalskins.com/item/784/hawkeye-costume-ronin/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/6/img_icon_ronin.png"
+  },
+  "1021501": {
+    "name": "Freefall",
+    "character": "hawkeye",
+    "url": "https://rivalskins.com/item/18/hawkeye-costume-freefall/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/6/img_icon_freefall.png"
+  },
+  "1021502": {
+    "name": "Binary Arrow",
+    "character": "hawkeye",
+    "url": "https://rivalskins.com/item/1087/hawkeye-costume-binary-arrow/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/6/img_icon_binary-arrow.png"
+  },
+  "1022001": {
+    "name": "Default",
+    "character": "captain-america",
+    "url": "https://rivalskins.com/item/428/captain-america-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/3/img_icon_captain-america.png"
+  },
+  "1022100": {
+    "name": "Captain A.I.M.erica",
+    "character": "captain-america",
+    "url": "https://rivalskins.com/item/19/captain-america-costume-captain-aimerica/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/3/img_icon_captain-aimerica.png"
+  },
+  "1022102": {
+    "name": "Will of Galacta",
+    "character": "captain-america",
+    "url": "https://rivalskins.com/item/3626/captain-america-costume-will-of-galacta/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/3/img_icon_will-of-galacta.png"
+  },
+  "1022300": {
+    "name": "Galactic Talon",
+    "character": "captain-america",
+    "url": "https://rivalskins.com/item/20/captain-america-costume-galactic-talon/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/3/img_icon_galactic-talon.png"
+  },
+  "1022301": {
+    "name": "Cursed Captain",
+    "character": "captain-america",
+    "url": "https://rivalskins.com/item/2744/captain-america-costume-cursed-captain/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/3/img_icon_cursed-captain.png"
+  },
+  "1022302": {
+    "name": "Brett Hendrick: The Star",
+    "character": "captain-america",
+    "url": "https://rivalskins.com/item/2873/captain-america-costume-brett-hendrick-the-star/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/3/img_icon_brett-hendrick-the-star.png"
+  },
+  "1022303": {
+    "name": "Seaside Sentinel",
+    "character": "captain-america",
+    "url": "https://rivalskins.com/item/3595/captain-america-costume-seaside-sentinel/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/3/img_icon_seaside-sentinel.png"
+  },
+  "1022500": {
+    "name": "Captain Gladiator",
+    "character": "captain-america",
+    "url": "https://rivalskins.com/item/21/captain-america-costume-captain-gladiator/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/3/img_icon_captain-gladiator.png"
+  },
+  "1022501": {
+    "name": "Star Spangled Style",
+    "character": "captain-america",
+    "url": "https://rivalskins.com/item/810/captain-america-costume-star-spangled-style/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/3/img_icon_star-spangled-style.png"
+  },
+  "1022502": {
+    "name": "Captain Klyntar",
+    "character": "captain-america",
+    "url": "https://rivalskins.com/item/1228/captain-america-costume-captain-klyntar/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/3/img_icon_captain-klyntar.png"
+  },
+  "1022503": {
+    "name": "Golden Age",
+    "character": "captain-america",
+    "url": "https://rivalskins.com/item/1536/captain-america-costume-golden-age/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/3/img_icon_golden-age.png"
+  },
+  "1022504": {
+    "name": "Capwolf",
+    "character": "captain-america",
+    "url": "https://rivalskins.com/item/2056/captain-america-costume-capwolf/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/3/img_icon_capwolf.png"
+  },
+  "1022505": {
+    "name": "Primal Patriot",
+    "character": "captain-america",
+    "url": "https://rivalskins.com/item/3328/captain-america-costume-primal-patriot/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/3/img_icon_primal-patriot.png"
+  },
+  "1022801": {
+    "name": "Avengers: Infinity War",
+    "character": "captain-america",
+    "url": "https://rivalskins.com/item/668/captain-america-costume-avengers-infinity-war/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/3/img_icon_avengers-infinity-war.png"
+  },
+  "1023001": {
+    "name": "Default",
+    "character": "rocket-raccoon",
+    "url": "https://rivalskins.com/item/429/rocket-raccoon-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/21/img_icon_rocket-raccoon.png"
+  },
+  "1023100": {
+    "name": "Rocky",
+    "character": "rocket-raccoon",
+    "url": "https://rivalskins.com/item/22/rocket-raccoon-costume-rocky/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/21/img_icon_rocky.png"
+  },
+  "1023101": {
+    "name": "Will Of Galacta",
+    "character": "rocket-raccoon",
+    "url": "https://rivalskins.com/item/1666/rocket-raccoon-costume-will-of-galacta/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/21/img_icon_will-of-galacta.png"
+  },
+  "1023300": {
+    "name": "Bounty Hunter",
+    "character": "rocket-raccoon",
+    "url": "https://rivalskins.com/item/531/rocket-raccoon-costume-bounty-hunter/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/21/img_icon_bounty-hunter.png"
+  },
+  "1023301": {
+    "name": "Wild Winter",
+    "character": "rocket-raccoon",
+    "url": "https://rivalskins.com/item/373/rocket-raccoon-costume-wild-winter/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/21/img_icon_wild-winter.png"
+  },
+  "1023302": {
+    "name": "Sunshine Raccoon",
+    "character": "rocket-raccoon",
+    "url": "https://rivalskins.com/item/1051/rocket-raccoon-costume-sunshine-raccoon/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/21/img_icon_sunshine-raccoon.png"
+  },
+  "1023305": {
+    "name": "Rocket Of The Rafters",
+    "character": "rocket-raccoon",
+    "url": "https://rivalskins.com/item/2057/rocket-raccoon-costume-rocket-of-the-rafters/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/21/img_icon_rocket-of-the-rafters.png"
+  },
+  "1023306": {
+    "name": "Giant Panda",
+    "character": "rocket-raccoon",
+    "url": "https://rivalskins.com/item/2585/rocket-raccoon-costume-giant-panda/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/21/img_icon_giant-panda.png"
+  },
+  "1023307": {
+    "name": "Rocky: The Transfer",
+    "character": "rocket-raccoon",
+    "url": "https://rivalskins.com/item/2765/rocket-raccoon-costume-rocky-the-transfer/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/21/img_icon_rocky-the-transfer.png"
+  },
+  "1023308": {
+    "name": "Golden Artificer",
+    "character": "rocket-raccoon",
+    "url": "https://rivalskins.com/item/3628/rocket-raccoon-costume-golden-artificer/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/21/img_icon_golden-artificer.png"
+  },
+  "1023500": {
+    "name": "Symbiote Raccoon",
+    "character": "rocket-raccoon",
+    "url": "https://rivalskins.com/item/1239/rocket-raccoon-costume-symbiote-raccoon/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/21/img_icon_symbiote-raccoon.png"
+  },
+  "1023801": {
+    "name": "Guardians of the Galaxy Vol. 3",
+    "character": "rocket-raccoon",
+    "url": "https://rivalskins.com/item/23/rocket-raccoon-costume-guardians-of-the-galaxy-vol-3/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/21/img_icon_guardians-of-the-galaxy-vol-3.png"
+  },
+  "1024001": {
+    "name": "Default",
+    "character": "hela",
+    "url": "https://rivalskins.com/item/430/hela-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/7/img_icon_hela.png"
+  },
+  "1024100": {
+    "name": "Ultimate",
+    "character": "hela",
+    "url": "https://rivalskins.com/item/24/hela-costume-ultimate/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/7/img_icon_ultimate.png"
+  },
+  "1024101": {
+    "name": "Will of Galacta",
+    "character": "hela",
+    "url": "https://rivalskins.com/item/542/hela-costume-will-of-galacta/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/7/img_icon_will-of-galacta.png"
+  },
+  "1024301": {
+    "name": "Empress of the Cosmos",
+    "character": "hela",
+    "url": "https://rivalskins.com/item/25/hela-costume-empress-of-the-cosmos/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/7/img_icon_empress-of-the-cosmos.png"
+  },
+  "1024302": {
+    "name": "Yami no Karasu",
+    "character": "hela",
+    "url": "https://rivalskins.com/item/987/hela-costume-yami-no-karasu/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/7/img_icon_yami-no-karasu.png"
+  },
+  "1024303": {
+    "name": "Queen in Black",
+    "character": "hela",
+    "url": "https://rivalskins.com/item/1458/hela-costume-queen-in-black/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/7/img_icon_queen-in-black.png"
+  },
+  "1024304": {
+    "name": "The Grim Lady",
+    "character": "hela",
+    "url": "https://rivalskins.com/item/1667/hela-costume-the-grim-lady/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/7/img_icon_the-grim-lady.png"
+  },
+  "1024305": {
+    "name": "Disco Of The Dead",
+    "character": "hela",
+    "url": "https://rivalskins.com/item/2534/hela-costume-disco-of-the-dead/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/7/img_icon_disco-of-the-dead.png"
+  },
+  "1024306": {
+    "name": "Helen Angerboda: The Rebel",
+    "character": "hela",
+    "url": "https://rivalskins.com/item/2766/hela-costume-helen-angerboda-the-rebel/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/7/img_icon_helen-angerboda-the-rebel.png"
+  },
+  "1024307": {
+    "name": "Savage Monarch",
+    "character": "hela",
+    "url": "https://rivalskins.com/item/3364/hela-costume-savage-monarch/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/7/img_icon_savage-monarch.png"
+  },
+  "1024308": {
+    "name": "Consort Of Khonshu",
+    "character": "hela",
+    "url": "https://rivalskins.com/item/3818/hela-costume-consort-of-khonshu/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/7/img_icon_consort-of-khonshu.png"
+  },
+  "1024500": {
+    "name": "Goddess of Death",
+    "character": "hela",
+    "url": "https://rivalskins.com/item/26/hela-costume-goddess-of-death/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/7/img_icon_goddess-of-death.png"
+  },
+  "1024800": {
+    "name": "Merciful Queen",
+    "character": "hela",
+    "url": "https://rivalskins.com/item/1846/hela-costume-merciful-queen/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/7/img_icon_merciful-queen.png"
+  },
+  "1025001": {
+    "name": "Default",
+    "character": "cloak-and-dagger",
+    "url": "https://rivalskins.com/item/431/cloak-and-dagger-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/30/img_icon_cloak-dagger.png"
+  },
+  "1025100": {
+    "name": "Lemon Lime",
+    "character": "cloak-and-dagger",
+    "url": "https://rivalskins.com/item/27/cloak-and-dagger-costume-lemon-lime/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/30/img_icon_lemon-lime.png"
+  },
+  "1025300": {
+    "name": "Dance Partner",
+    "character": "cloak-and-dagger",
+    "url": "https://rivalskins.com/item/811/cloak-and-dagger-costume-dance-partner/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/30/img_icon_dance-partner.png"
+  },
+  "1025301": {
+    "name": "Twilight Duo",
+    "character": "cloak-and-dagger",
+    "url": "https://rivalskins.com/item/730/cloak-and-dagger-costume-twilight-duo/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/30/img_icon_twilight-duo.png"
+  },
+  "1025302": {
+    "name": "Polarity Bond",
+    "character": "cloak-and-dagger",
+    "url": "https://rivalskins.com/item/1467/cloak-and-dagger-costume-polarity-bond/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/30/img_icon_polarity-bond.png"
+  },
+  "1025303": {
+    "name": "Ice Pas De Deux",
+    "character": "cloak-and-dagger",
+    "url": "https://rivalskins.com/item/2181/cloak-and-dagger-costume-ice-pas-de-deux/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/30/img_icon_ice-pas-de-deux.png"
+  },
+  "1025304": {
+    "name": "Daring Duo",
+    "character": "cloak-and-dagger",
+    "url": "https://rivalskins.com/item/2874/cloak-and-dagger-costume-daring-duo/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/30/img_icon_daring-duo.png"
+  },
+  "1025305": {
+    "name": "Coastal Couple",
+    "character": "cloak-and-dagger",
+    "url": "https://rivalskins.com/item/3474/cloak-and-dagger-costume-coastal-couple/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/30/img_icon_coastal-couple.png"
+  },
+  "1025500": {
+    "name": "Growth & Decay",
+    "character": "cloak-and-dagger",
+    "url": "https://rivalskins.com/item/28/cloak-and-dagger-costume-growth-decay/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/30/img_icon_growth-decay.png"
+  },
+  "1025501": {
+    "name": "Storied Survivors",
+    "character": "cloak-and-dagger",
+    "url": "https://rivalskins.com/item/3631/cloak-and-dagger-costume-storied-survivors/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/30/img_icon_storied-survivors.png"
+  },
+  "1026001": {
+    "name": "Default",
+    "character": "black-panther",
+    "url": "https://rivalskins.com/item/432/black-panther-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/2/img_icon_black-panther.png"
+  },
+  "1026100": {
+    "name": "Orisha Blood",
+    "character": "black-panther",
+    "url": "https://rivalskins.com/item/29/black-panther-costume-orisha-blood/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/2/img_icon_orisha-blood.png"
+  },
+  "1026101": {
+    "name": "Golden Panther",
+    "character": "black-panther",
+    "url": "https://rivalskins.com/item/1240/black-panther-costume-golden-panther/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/2/img_icon_golden-panther.png"
+  },
+  "1026300": {
+    "name": "Galactic Claw",
+    "character": "black-panther",
+    "url": "https://rivalskins.com/item/30/black-panther-costume-galactic-claw/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/2/img_icon_galactic-claw.png"
+  },
+  "1026301": {
+    "name": "Thrice-Cursed King",
+    "character": "black-panther",
+    "url": "https://rivalskins.com/item/753/black-panther-costume-thrice-cursed-king/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/2/img_icon_thrice-cursed-king.png"
+  },
+  "1026302": {
+    "name": "Phoenix Panther",
+    "character": "black-panther",
+    "url": "https://rivalskins.com/item/1396/black-panther-costume-phoenix-panther/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/2/img_icon_phoenix-panther.png"
+  },
+  "1026500": {
+    "name": "Bast's Chosen",
+    "character": "black-panther",
+    "url": "https://rivalskins.com/item/31/black-panther-costume-basts-chosen/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/2/img_icon_basts-chosen.png"
+  },
+  "1026501": {
+    "name": "Damisa-Sarki",
+    "character": "black-panther",
+    "url": "https://rivalskins.com/item/1034/black-panther-costume-damisa-sarki/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/2/img_icon_damisa-sarki.png"
+  },
+  "1026502": {
+    "name": "King of Wakanda",
+    "character": "black-panther",
+    "url": "https://rivalskins.com/item/2210/black-panther-costume-king-of-wakanda/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/2/img_icon_king-of-wakanda.png"
+  },
+  "1027001": {
+    "name": "Default",
+    "character": "groot",
+    "url": "https://rivalskins.com/item/433/groot-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/5/img_icon_groot.png"
+  },
+  "1027100": {
+    "name": "Abies Algae",
+    "character": "groot",
+    "url": "https://rivalskins.com/item/32/groot-costume-abies-algae/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/5/img_icon_abies-algae.png"
+  },
+  "1027301": {
+    "name": "Yggroot",
+    "character": "groot",
+    "url": "https://rivalskins.com/item/1088/groot-costume-yggroot/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/5/img_icon_yggroot.png"
+  },
+  "1027302": {
+    "name": "Holiday Happiness",
+    "character": "groot",
+    "url": "https://rivalskins.com/item/374/groot-costume-holiday-happiness/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/5/img_icon_holiday-happiness.png"
+  },
+  "1027303": {
+    "name": "Mecha-Flora",
+    "character": "groot",
+    "url": "https://rivalskins.com/item/2567/groot-costume-mecha-flora/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/5/img_icon_mecha-flora.png"
+  },
+  "1027304": {
+    "name": "Ironwood Serpent",
+    "character": "groot",
+    "url": "https://rivalskins.com/item/3420/groot-costume-ironwood-serpent/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/5/img_icon_ironwood-serpent.png"
+  },
+  "1027500": {
+    "name": "Carved Traveler",
+    "character": "groot",
+    "url": "https://rivalskins.com/item/694/groot-costume-carved-traveler/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/5/img_icon_carved-traveler.png"
+  },
+  "1027501": {
+    "name": "Symbiote Flora",
+    "character": "groot",
+    "url": "https://rivalskins.com/item/1241/groot-costume-symbiote-flora/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/5/img_icon_symbiote-flora.png"
+  },
+  "1027502": {
+    "name": "Big Buddy",
+    "character": "groot",
+    "url": "https://rivalskins.com/item/1847/groot-costume-big-buddy/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/5/img_icon_big-buddy.png"
+  },
+  "1027800": {
+    "name": "Guardians of the Galaxy Vol. 3",
+    "character": "groot",
+    "url": "https://rivalskins.com/item/33/groot-costume-guardians-of-the-galaxy-vol-3/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/5/img_icon_guardians-of-the-galaxy-vol-3.png"
+  },
+  "1028001": {
+    "name": "Ultron",
+    "character": "ultron",
+    "url": "https://rivalskins.com/item/1151/ultron-costume-ultron/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/39/img_icon_ultron.png"
+  },
+  "1028100": {
+    "name": "Mechanical Phantom",
+    "character": "ultron",
+    "url": "https://rivalskins.com/item/1089/ultron-costume-mechanical-phantom/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/39/img_icon_mechanical-phantom.png"
+  },
+  "1028101": {
+    "name": "Golden Ultron",
+    "character": "ultron",
+    "url": "https://rivalskins.com/item/1090/ultron-costume-golden-ultron/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/39/img_icon_golden-ultron.png"
+  },
+  "1028102": {
+    "name": "Will Of Galacta",
+    "character": "ultron",
+    "url": "https://rivalskins.com/item/2586/ultron-costume-will-of-galacta/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/39/img_icon_will-of-galacta.png"
+  },
+  "1028300": {
+    "name": "Wasteland Robot",
+    "character": "ultron",
+    "url": "https://rivalskins.com/item/1537/ultron-costume-wasteland-robot/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/39/img_icon_wasteland-robot.png"
+  },
+  "1028302": {
+    "name": "Cybernetic Drip",
+    "character": "ultron",
+    "url": "https://rivalskins.com/item/3371/ultron-costume-cybernetic-drip/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/39/img_icon_cybernetic-drip.png"
+  },
+  "1028500": {
+    "name": "X-Tron",
+    "character": "ultron",
+    "url": "https://rivalskins.com/item/1091/ultron-costume-x-tron/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/39/img_icon_x-tron.png"
+  },
+  "1028502": {
+    "name": "Odinforce Ultron",
+    "character": "ultron",
+    "url": "https://rivalskins.com/item/2866/ultron-costume-odinforce-ultron/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/39/img_icon_odinforce-ultron.png"
+  },
+  "1028503": {
+    "name": "Ultron-15",
+    "character": "ultron",
+    "url": "https://rivalskins.com/item/3633/ultron-costume-ultron-15/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/39/img_icon_ultron-15.png"
+  },
+  "1028504": {
+    "name": "Avengers: Age Of Ultron",
+    "character": "ultron",
+    "url": "https://rivalskins.com/item/3849/ultron-costume-avengers-age-of-ultron/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/39/img_icon_avengers-age-of-ultron.png"
+  },
+  "1028800": {
+    "name": "Infinity Ultron",
+    "character": "ultron",
+    "url": "https://rivalskins.com/item/1848/ultron-costume-infinity-ultron/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/39/img_icon_infinity-ultron.png"
+  },
+  "1029001": {
+    "name": "Default",
+    "character": "magik",
+    "url": "https://rivalskins.com/item/434/magik-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/13/img_icon_magik.png"
+  },
+  "1029100": {
+    "name": "Amethyst Armor",
+    "character": "magik",
+    "url": "https://rivalskins.com/item/34/magik-costume-amethyst-armor/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/13/img_icon_amethyst-armor.png"
+  },
+  "1029101": {
+    "name": "Will Of Galacta",
+    "character": "magik",
+    "url": "https://rivalskins.com/item/1188/magik-costume-will-of-galacta/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/13/img_icon_will-of-galacta.png"
+  },
+  "1029300": {
+    "name": "Punkchild",
+    "character": "magik",
+    "url": "https://rivalskins.com/item/695/magik-costume-punkchild/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/13/img_icon_punkchild.png"
+  },
+  "1029301": {
+    "name": "Frozen Demon",
+    "character": "magik",
+    "url": "https://rivalskins.com/item/375/magik-costume-frozen-demon/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/13/img_icon_frozen-demon.png"
+  },
+  "1029303": {
+    "name": "New Millenia Might",
+    "character": "magik",
+    "url": "https://rivalskins.com/item/1933/magik-costume-new-millennia-might/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/13/img_icon_new-millennia-might.png"
+  },
+  "1029304": {
+    "name": "Infernal Idol",
+    "character": "magik",
+    "url": "https://rivalskins.com/item/2875/magik-costume-infernal-idol/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/13/img_icon_infernal-idol.png"
+  },
+  "1029305": {
+    "name": "Soulless Sword",
+    "character": "magik",
+    "url": "https://rivalskins.com/item/3421/magik-costume-soulless-sword/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/13/img_icon_soulless-sword.png"
+  },
+  "1029500": {
+    "name": "Eldritch Armor",
+    "character": "magik",
+    "url": "https://rivalskins.com/item/35/magik-costume-eldritch-armor/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/13/img_icon_eldritch-armor.png"
+  },
+  "1029501": {
+    "name": "Retro X-Uniform",
+    "character": "magik",
+    "url": "https://rivalskins.com/item/812/magik-costume-retro-x-uniform/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/13/img_icon_retro-x-uniform.png"
+  },
+  "1029502": {
+    "name": "Phoenix Demon",
+    "character": "magik",
+    "url": "https://rivalskins.com/item/1397/magik-costume-phoenix-demon/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/13/img_icon_phoenix-demon.png"
+  },
+  "1029503": {
+    "name": "Netherworld Noble",
+    "character": "magik",
+    "url": "https://rivalskins.com/item/3117/magik-costume-netherworld-noble/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/13/img_icon_netherworld-noble.png"
+  },
+  "1029504": {
+    "name": "Soul Surfer",
+    "character": "magik",
+    "url": "https://rivalskins.com/item/3940/magik-costume-soul-surfer/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/13/img_icon_soul-surfer.png"
+  },
+  "1030001": {
+    "name": "Default",
+    "character": "moon-knight",
+    "url": "https://rivalskins.com/item/435/moon-knight-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/16/img_icon_moon-knight.png"
+  },
+  "1030100": {
+    "name": "Golden Moonlight",
+    "character": "moon-knight",
+    "url": "https://rivalskins.com/item/36/moon-knight-costume-golden-moonlight/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/16/img_icon_golden-moonlight.png"
+  },
+  "1030101": {
+    "name": "Blood Moon Knight",
+    "character": "moon-knight",
+    "url": "https://rivalskins.com/item/544/moon-knight-costume-blood-moon-knight/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/16/img_icon_blood-moon-knight.png"
+  },
+  "1030300": {
+    "name": "Lunar General",
+    "character": "moon-knight",
+    "url": "https://rivalskins.com/item/520/moon-knight-costume-lunar-general/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/16/img_icon_lunar-general.png"
+  },
+  "1030301": {
+    "name": "King of Clubs",
+    "character": "moon-knight",
+    "url": "https://rivalskins.com/item/2211/moon-knight-costume-king-of-clubs/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/16/img_icon_king-of-clubs.png"
+  },
+  "1030302": {
+    "name": "Eclipse Knight",
+    "character": "moon-knight",
+    "url": "https://rivalskins.com/item/2727/moon-knight-costume-eclipse-knight/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/16/img_icon_eclipse-knight.png"
+  },
+  "1030500": {
+    "name": "Mister Knight",
+    "character": "moon-knight",
+    "url": "https://rivalskins.com/item/37/moon-knight-costume-mister-knight/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/16/img_icon_mister-knight.png"
+  },
+  "1030501": {
+    "name": "Phoenix Knight",
+    "character": "moon-knight",
+    "url": "https://rivalskins.com/item/1189/moon-knight-costume-phoenix-knight/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/16/img_icon_phoenix-knight.png"
+  },
+  "1030502": {
+    "name": "Suave Spector",
+    "character": "moon-knight",
+    "url": "https://rivalskins.com/item/3118/moon-knight-costume-suave-spector/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/16/img_icon_suave-spector.png"
+  },
+  "1030503": {
+    "name": "Fist Of Khonshu",
+    "character": "moon-knight",
+    "url": "https://rivalskins.com/item/3876/moon-knight-costume-fist-of-khonshu/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/16/img_icon_fist-of-khonshu.png"
+  },
+  "1030800": {
+    "name": "Fist Of Vengeance",
+    "character": "moon-knight",
+    "url": "https://rivalskins.com/item/786/moon-knight-costume-fist-of-vengeance/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/16/img_icon_fist-of-vengeance.png"
+  },
+  "1030801": {
+    "name": "Moon Knight Mech",
+    "character": "moon-knight",
+    "url": "https://rivalskins.com/item/1538/moon-knight-costume-moon-knight-mech/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/16/img_icon_moon-knight-mech.png"
+  },
+  "1031001": {
+    "name": "Default",
+    "character": "luna-snow",
+    "url": "https://rivalskins.com/item/436/luna-snow-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/12/img_icon_luna-snow.png"
+  },
+  "1031100": {
+    "name": "Minty Beats",
+    "character": "luna-snow",
+    "url": "https://rivalskins.com/item/38/luna-snow-costume-minty-beats/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/12/img_icon_minty-beats.png"
+  },
+  "1031300": {
+    "name": "Shining Star",
+    "character": "luna-snow",
+    "url": "https://rivalskins.com/item/39/luna-snow-costume-shining-star/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/12/img_icon_shining-star.png"
+  },
+  "1031301": {
+    "name": "Mirae 2099",
+    "character": "luna-snow",
+    "url": "https://rivalskins.com/item/669/luna-snow-costume-mirae-2099/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/12/img_icon_mirae-2099.png"
+  },
+  "1031302": {
+    "name": "Nolaehaneun Manyeo",
+    "character": "luna-snow",
+    "url": "https://rivalskins.com/item/813/luna-snow-costume-nolaehaneun-manyeo/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/12/img_icon_nolaehaneun-manyeo.png"
+  },
+  "1031303": {
+    "name": "Cool Summer",
+    "character": "luna-snow",
+    "url": "https://rivalskins.com/item/1338/luna-snow-costume-cool-summer/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/12/img_icon_cool-summer.png"
+  },
+  "1031305": {
+    "name": "Abyssal Glow",
+    "character": "luna-snow",
+    "url": "https://rivalskins.com/item/1539/luna-snow-costume-abyssal-glow/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/12/img_icon_abyssal-glow.png"
+  },
+  "1031308": {
+    "name": "Cherry Delight",
+    "character": "luna-snow",
+    "url": "https://rivalskins.com/item/2055/luna-snow-costume-cherry-delight/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/12/img_icon_cherry-delight.png"
+  },
+  "1031309": {
+    "name": "Disco Pop",
+    "character": "luna-snow",
+    "url": "https://rivalskins.com/item/2518/luna-snow-costume-disco-pop/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/12/img_icon_disco-pop.png"
+  },
+  "1031312": {
+    "name": "Park Sun-Young: The Dancer",
+    "character": "luna-snow",
+    "url": "https://rivalskins.com/item/2767/luna-snow-costume-park-sun-young-the-dancer/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/12/img_icon_park-sun-young-the-dancer.png"
+  },
+  "1031313": {
+    "name": "Sonic Trailblazer",
+    "character": "luna-snow",
+    "url": "https://rivalskins.com/item/3359/luna-snow-costume-sonic-trailblazer/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/12/img_icon_sonic-trailblazer.png"
+  },
+  "1031316": {
+    "name": "Carmine Cassette",
+    "character": "luna-snow",
+    "url": "https://rivalskins.com/item/3843/luna-snow-costume-carmine-cassette/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/12/img_icon_carmine-cassette.png"
+  },
+  "1032001": {
+    "name": "Default",
+    "character": "squirrel-girl",
+    "url": "https://rivalskins.com/item/437/squirrel-girl-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/32/img_icon_squirrel-girl.png"
+  },
+  "1032100": {
+    "name": "Arctic Lemmus",
+    "character": "squirrel-girl",
+    "url": "https://rivalskins.com/item/40/squirrel-girl-costume-arctic-lemmus/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/32/img_icon_arctic-lemmus.png"
+  },
+  "1032300": {
+    "name": "Nut Rocker",
+    "character": "squirrel-girl",
+    "url": "https://rivalskins.com/item/814/squirrel-girl-costume-nut-rocker/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/32/img_icon_nut-rocker.png"
+  },
+  "1032301": {
+    "name": "Cheerful Dragoness",
+    "character": "squirrel-girl",
+    "url": "https://rivalskins.com/item/521/squirrel-girl-costume-cheerful-dragoness/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/32/img_icon_cheerful-dragoness.png"
+  },
+  "1032302": {
+    "name": "Sunshine Squirrel",
+    "character": "squirrel-girl",
+    "url": "https://rivalskins.com/item/1052/squirrel-girl-costume-sunshine-squirrel/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/32/img_icon_sunshine-squirrel.png"
+  },
+  "1032303": {
+    "name": "Turbo Tailwind",
+    "character": "squirrel-girl",
+    "url": "https://rivalskins.com/item/1781/squirrel-girl-costume-turbo-tailwind/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/32/img_icon_turbo-tailwind.png"
+  },
+  "1032304": {
+    "name": "Tinsel Tail",
+    "character": "squirrel-girl",
+    "url": "https://rivalskins.com/item/2112/squirrel-girl-costume-tinsel-tail/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/32/img_icon_tinsel-tail.png"
+  },
+  "1032305": {
+    "name": "Red Panda",
+    "character": "squirrel-girl",
+    "url": "https://rivalskins.com/item/2587/squirrel-girl-costume-red-panda/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/32/img_icon_red-panda.png"
+  },
+  "1032306": {
+    "name": "Maureen Allene: The Programmer",
+    "character": "squirrel-girl",
+    "url": "https://rivalskins.com/item/3042/squirrel-girl-costume-maureen-allene-the-programmer/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/32/img_icon_maureen-allene-the-programmer.png"
+  },
+  "1032308": {
+    "name": "Acorn Divinity",
+    "character": "squirrel-girl",
+    "url": "https://rivalskins.com/item/4048/squirrel-girl-costume-acorn-divinity/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/32/img_icon_acorn-divinity.png"
+  },
+  "1032500": {
+    "name": "Urban Hunter",
+    "character": "squirrel-girl",
+    "url": "https://rivalskins.com/item/41/squirrel-girl-costume-urban-hunter/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/32/img_icon_urban-hunter.png"
+  },
+  "1032501": {
+    "name": "Symbiote Squirrel",
+    "character": "squirrel-girl",
+    "url": "https://rivalskins.com/item/1242/squirrel-girl-costume-symbiote-squirrel/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/32/img_icon_symbiote-squirrel.png"
+  },
+  "1033001": {
+    "name": "Default",
+    "character": "black-widow",
+    "url": "https://rivalskins.com/item/438/black-widow-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/29/img_icon_black-widow.png"
+  },
+  "1033100": {
+    "name": "Lethal Toxicity",
+    "character": "black-widow",
+    "url": "https://rivalskins.com/item/42/black-widow-costume-lethal-toxicity/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/29/img_icon_lethal-toxicity.png"
+  },
+  "1033300": {
+    "name": "Lion's Heartbeat",
+    "character": "black-widow",
+    "url": "https://rivalskins.com/item/633/black-widow-costume-lions-heartbeat/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/29/img_icon_lions-heartbeat.png"
+  },
+  "1033500": {
+    "name": "Red Runway Veil",
+    "character": "black-widow",
+    "url": "https://rivalskins.com/item/815/black-widow-costume-red-runway-veil/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/29/img_icon_red-runway-veil.png"
+  },
+  "1033501": {
+    "name": "Mrs. Barnes",
+    "character": "black-widow",
+    "url": "https://rivalskins.com/item/731/black-widow-costume-mrs-barnes/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/29/img_icon_mrs-barnes.png"
+  },
+  "1033502": {
+    "name": "Phoenix Widow",
+    "character": "black-widow",
+    "url": "https://rivalskins.com/item/1413/black-widow-costume-phoenix-widow/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/29/img_icon_phoenix-widow.png"
+  },
+  "1033503": {
+    "name": "Midnight Suspense",
+    "character": "black-widow",
+    "url": "https://rivalskins.com/item/1849/black-widow-costume-midnight-suspense/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/29/img_icon_midnight-suspense.png"
+  },
+  "1033504": {
+    "name": "Aquatic Assassin",
+    "character": "black-widow",
+    "url": "https://rivalskins.com/item/3557/black-widow-costume-aquatic-assassin/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/29/img_icon_aquatic-assassin.png"
+  },
+  "1033800": {
+    "name": "White Suit",
+    "character": "black-widow",
+    "url": "https://rivalskins.com/item/43/black-widow-costume-white-suit/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/29/img_icon_white-suit.png"
+  },
+  "1034001": {
+    "name": "Default",
+    "character": "iron-man",
+    "url": "https://rivalskins.com/item/439/iron-man-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/9/img_icon_iron-man.png"
+  },
+  "1034100": {
+    "name": "Armor Model 42",
+    "character": "iron-man",
+    "url": "https://rivalskins.com/item/44/iron-man-costume-armor-model-42/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/9/img_icon_armor-model-42.png"
+  },
+  "1034300": {
+    "name": "Blood Edge Armor",
+    "character": "iron-man",
+    "url": "https://rivalskins.com/item/545/iron-man-costume-blood-edge-armor/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/9/img_icon_blood-edge-armor.png"
+  },
+  "1034301": {
+    "name": "Iron Mariner",
+    "character": "iron-man",
+    "url": "https://rivalskins.com/item/2712/iron-man-costume-iron-mariner/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/9/img_icon_iron-mariner.png"
+  },
+  "1034302": {
+    "name": "Iron Pharaoh",
+    "character": "iron-man",
+    "url": "https://rivalskins.com/item/3636/iron-man-costume-iron-pharaoh/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/9/img_icon_iron-pharaoh.png"
+  },
+  "1034500": {
+    "name": "Steam Power",
+    "character": "iron-man",
+    "url": "https://rivalskins.com/item/530/iron-man-costume-steam-power/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/9/img_icon_steam-power.png"
+  },
+  "1034501": {
+    "name": "Superior Iron Man",
+    "character": "iron-man",
+    "url": "https://rivalskins.com/item/45/iron-man-costume-superior-iron-man/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/9/img_icon_superior-iron-man.png"
+  },
+  "1034502": {
+    "name": "Extrembiote Armor",
+    "character": "iron-man",
+    "url": "https://rivalskins.com/item/1494/iron-man-costume-extrembiote-armor/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/9/img_icon_extrembiote-armor.png"
+  },
+  "1034503": {
+    "name": "Big Shot",
+    "character": "iron-man",
+    "url": "https://rivalskins.com/item/1832/iron-man-costume-big-shot/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/9/img_icon_big-shot.png"
+  },
+  "1034504": {
+    "name": "Mark I",
+    "character": "iron-man",
+    "url": "https://rivalskins.com/item/2058/iron-man-costume-mark-i/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/9/img_icon_mark-i.png"
+  },
+  "1034505": {
+    "name": "Iron Samurai",
+    "character": "iron-man",
+    "url": "https://rivalskins.com/item/3409/iron-man-costume-iron-samurai/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/9/img_icon_iron-samurai.png"
+  },
+  "1034800": {
+    "name": "Avengers: Endgame",
+    "character": "iron-man",
+    "url": "https://rivalskins.com/item/46/iron-man-costume-avengers-endgame/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/9/img_icon_avengers-endgame.png"
+  },
+  "1034801": {
+    "name": "The Avengers",
+    "character": "iron-man",
+    "url": "https://rivalskins.com/item/3181/iron-man-costume-the-avengers/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/9/img_icon_the-avengers.png"
+  },
+  "1035001": {
+    "name": "Default",
+    "character": "venom",
+    "url": "https://rivalskins.com/item/440/venom-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/27/img_icon_venom.png"
+  },
+  "1035100": {
+    "name": "Cyan Clash",
+    "character": "venom",
+    "url": "https://rivalskins.com/item/47/venom-costume-cyan-clash/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/27/img_icon_cyan-clash.png"
+  },
+  "1035101": {
+    "name": "Anti-Venom",
+    "character": "venom",
+    "url": "https://rivalskins.com/item/48/venom-costume-anti-venom/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/27/img_icon_anti-venom.png"
+  },
+  "1035102": {
+    "name": "Hyper Orange",
+    "character": "venom",
+    "url": "https://rivalskins.com/item/787/venom-costume-hyper-orange/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/27/img_icon_hyper-orange.png"
+  },
+  "1035103": {
+    "name": "Pink Bubble",
+    "character": "venom",
+    "url": "https://rivalskins.com/item/1190/venom-costume-pink-bubble/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/27/img_icon_pink-bubble.png"
+  },
+  "1035300": {
+    "name": "Snow Symbiote",
+    "character": "venom",
+    "url": "https://rivalskins.com/item/383/venom-costume-snow-symbiote/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/27/img_icon_snow-symbiote.png"
+  },
+  "1035301": {
+    "name": "Reborn King In Black",
+    "character": "venom",
+    "url": "https://rivalskins.com/item/1495/venom-costume-reborn-king-in-black/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/27/img_icon_reborn-king-in-black.png"
+  },
+  "1035302": {
+    "name": "Gummy Surprise",
+    "character": "venom",
+    "url": "https://rivalskins.com/item/1943/venom-costume-gummy-surprise/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/27/img_icon_gummy-surprise.png"
+  },
+  "1035303": {
+    "name": "Space Corsair",
+    "character": "venom",
+    "url": "https://rivalskins.com/item/2212/venom-costume-space-corsair/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/27/img_icon_space-corsair.png"
+  },
+  "1035500": {
+    "name": "Lingering Imprint",
+    "character": "venom",
+    "url": "https://rivalskins.com/item/732/venom-costume-lingering-imprint/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/27/img_icon_lingering-imprint.png"
+  },
+  "1035501": {
+    "name": "Space Knight",
+    "character": "venom",
+    "url": "https://rivalskins.com/item/49/venom-costume-space-knight/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/27/img_icon_space-knight.png"
+  },
+  "1035502": {
+    "name": "War Of The Realms",
+    "character": "venom",
+    "url": "https://rivalskins.com/item/3219/venom-costume-war-of-the-realms/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/27/img_icon_war-of-the-realms.png"
+  },
+  "1035503": {
+    "name": "Venom Bloom",
+    "character": "venom",
+    "url": "https://rivalskins.com/item/3639/venom-costume-venom-bloom/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/27/img_icon_venom-bloom.png"
+  },
+  "1035800": {
+    "name": "Marvel Cosmic Invasion",
+    "character": "venom",
+    "url": "https://rivalskins.com/item/2213/venom-costume-marvel-cosmic-invasion/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/27/img_icon_marvel-cosmic-invasion.png"
+  },
+  "1036001": {
+    "name": "Default",
+    "character": "spider-man",
+    "url": "https://rivalskins.com/item/441/spider-man-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/23/img_icon_spider-man.png"
+  },
+  "1036100": {
+    "name": "Scarlet Spider",
+    "character": "spider-man",
+    "url": "https://rivalskins.com/item/50/spider-man-costume-scarlet-spider/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/23/img_icon_scarlet-spider.png"
+  },
+  "1036101": {
+    "name": "Chasm",
+    "character": "spider-man",
+    "url": "https://rivalskins.com/item/51/spider-man-costume-chasm/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/23/img_icon_chasm.png"
+  },
+  "1036102": {
+    "name": "Black & Gold",
+    "character": "spider-man",
+    "url": "https://rivalskins.com/item/1761/spider-man-costume-black-gold/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/23/img_icon_black-gold.png"
+  },
+  "1036300": {
+    "name": "Spider-Oni",
+    "character": "spider-man",
+    "url": "https://rivalskins.com/item/816/spider-man-costume-spider-oni/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/23/img_icon_spider-oni.png"
+  },
+  "1036301": {
+    "name": "Coastal Wall-Crawler",
+    "character": "spider-man",
+    "url": "https://rivalskins.com/item/3475/spider-man-costume-coastal-wall-crawler/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/23/img_icon_coastal-wall-crawler.png"
+  },
+  "1036500": {
+    "name": "Spider-Punk 2099",
+    "character": "spider-man",
+    "url": "https://rivalskins.com/item/532/spider-man-costume-spider-punk-2099/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/23/img_icon_spider-punk-2099.png"
+  },
+  "1036501": {
+    "name": "Bag-Man Beyond",
+    "character": "spider-man",
+    "url": "https://rivalskins.com/item/52/spider-man-costume-bag-man-beyond/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/23/img_icon_bag-man-beyond.png"
+  },
+  "1036502": {
+    "name": "Black Suit",
+    "character": "spider-man",
+    "url": "https://rivalskins.com/item/1243/spider-man-costume-black-suit/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/23/img_icon_black-suit.png"
+  },
+  "1036503": {
+    "name": "Marvel's Spider-Man 2",
+    "character": "spider-man",
+    "url": "https://rivalskins.com/item/634/spider-man-costume-marvels-spider-man-2/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/23/img_icon_marvels-spider-man-2.png"
+  },
+  "1036504": {
+    "name": "Future Foundation",
+    "character": "spider-man",
+    "url": "https://rivalskins.com/item/1229/spider-man-costume-future-foundation/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/23/img_icon_future-foundation.png"
+  },
+  "1036505": {
+    "name": "Man-Spider",
+    "character": "spider-man",
+    "url": "https://rivalskins.com/item/1833/spider-man-costume-man-spider/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/23/img_icon_man-spider.png"
+  },
+  "1036508": {
+    "name": "Iron Spider",
+    "character": "spider-man",
+    "url": "https://rivalskins.com/item/1850/spider-man-costume-iron-spider/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/23/img_icon_iron-spider.png"
+  },
+  "1036509": {
+    "name": "Groovy Swing",
+    "character": "spider-man",
+    "url": "https://rivalskins.com/item/2522/spider-man-costume-groovy-swing/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/23/img_icon_groovy-swing.png"
+  },
+  "1036510": {
+    "name": "Peter Parker: The Photographer",
+    "character": "spider-man",
+    "url": "https://rivalskins.com/item/3043/spider-man-costume-peter-parker-the-photographer/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/23/img_icon_peter-parker-the-photographer.png"
+  },
+  "1036800": {
+    "name": "Spider-Man: No Way Home",
+    "character": "spider-man",
+    "url": "https://rivalskins.com/item/53/spider-man-costume-spider-man-no-way-home/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/23/img_icon_spider-man-no-way-home.png"
+  },
+  "1036801": {
+    "name": "Marvel Cosmic Invasion",
+    "character": "spider-man",
+    "url": "https://rivalskins.com/item/2214/spider-man-costume-marvel-cosmic-invasion/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/23/img_icon_marvel-cosmic-invasion.png"
+  },
+  "1036802": {
+    "name": "Spider-Man: Brand New Day",
+    "character": "spider-man",
+    "url": "https://rivalskins.com/item/3850/spider-man-costume-spider-man-brand-new-day/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/23/img_icon_spider-man-brand-new-day.png"
+  },
+  "1037001": {
+    "name": "Default",
+    "character": "magneto",
+    "url": "https://rivalskins.com/item/442/magneto-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/14/img_icon_magneto.png"
+  },
+  "1037100": {
+    "name": "Uncanny Blacksteel",
+    "character": "magneto",
+    "url": "https://rivalskins.com/item/54/magneto-costume-uncanny-blacksteel/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/14/img_icon_uncanny-blacksteel.png"
+  },
+  "1037101": {
+    "name": "Will of Galacta",
+    "character": "magneto",
+    "url": "https://rivalskins.com/item/55/magneto-costume-will-of-galacta/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/14/img_icon_will-of-galacta.png"
+  },
+  "1037102": {
+    "name": "Black & Gold",
+    "character": "magneto",
+    "url": "https://rivalskins.com/item/2113/magneto-costume-black-gold/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/14/img_icon_black-gold.png"
+  },
+  "1037300": {
+    "name": "Binary Sword",
+    "character": "magneto",
+    "url": "https://rivalskins.com/item/1092/magneto-costume-binary-sword/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/14/img_icon_binary-sword.png"
+  },
+  "1037301": {
+    "name": "Temporal Tyrant",
+    "character": "magneto",
+    "url": "https://rivalskins.com/item/1920/magneto-costume-temporal-tyrant/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/14/img_icon_temporal-tyrant.png"
+  },
+  "1037302": {
+    "name": "The Trial of Magneto",
+    "character": "magneto",
+    "url": "https://rivalskins.com/item/1540/magneto-costume-the-trial-of-magneto/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/14/img_icon_the-trial-of-magneto.png"
+  },
+  "1037303": {
+    "name": "Magnetic Vintage",
+    "character": "magneto",
+    "url": "https://rivalskins.com/item/3713/magneto-costume-magnetic-vintage/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/14/img_icon_magnetic-vintage.png"
+  },
+  "1037500": {
+    "name": "Master of Magnetism",
+    "character": "magneto",
+    "url": "https://rivalskins.com/item/56/magneto-costume-master-of-magnetism/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/14/img_icon_master-of-magnetism.png"
+  },
+  "1037501": {
+    "name": "King Magnus",
+    "character": "magneto",
+    "url": "https://rivalskins.com/item/546/magneto-costume-king-magnus/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/14/img_icon_king-magnus.png"
+  },
+  "1037502": {
+    "name": "Seat Of Autumn",
+    "character": "magneto",
+    "url": "https://rivalskins.com/item/2568/magneto-costume-seat-of-autumn/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/14/img_icon_seat-of-autumn.png"
+  },
+  "1037503": {
+    "name": "Untamed Overlord",
+    "character": "magneto",
+    "url": "https://rivalskins.com/item/3327/magneto-costume-untamed-overlord/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/14/img_icon_untamed-overlord.png"
+  },
+  "1038001": {
+    "name": "Default",
+    "character": "scarlet-witch",
+    "url": "https://rivalskins.com/item/443/scarlet-witch-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/22/img_icon_scarlet-witch.png"
+  },
+  "1038100": {
+    "name": "White Witch",
+    "character": "scarlet-witch",
+    "url": "https://rivalskins.com/item/57/scarlet-witch-costume-white-witch/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/22/img_icon_white-witch.png"
+  },
+  "1038101": {
+    "name": "Nyx Weaver",
+    "character": "scarlet-witch",
+    "url": "https://rivalskins.com/item/58/scarlet-witch-costume-nyx-weaver/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/22/img_icon_nyx-weaver.png"
+  },
+  "1038102": {
+    "name": "Will Of Galacta",
+    "character": "scarlet-witch",
+    "url": "https://rivalskins.com/item/2768/scarlet-witch-costume-will-of-galacta/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/22/img_icon_will-of-galacta.png"
+  },
+  "1038300": {
+    "name": "Immortal Sovereign",
+    "character": "scarlet-witch",
+    "url": "https://rivalskins.com/item/1076/scarlet-witch-costume-immortal-sovereign/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/22/img_icon_immortal-sovereign.png"
+  },
+  "1038301": {
+    "name": "Phoenix Chaos",
+    "character": "scarlet-witch",
+    "url": "https://rivalskins.com/item/1517/scarlet-witch-costume-phoenix-chaos/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/22/img_icon_phoenix-chaos.png"
+  },
+  "1038304": {
+    "name": "Twisted Conjurer",
+    "character": "scarlet-witch",
+    "url": "https://rivalskins.com/item/2667/scarlet-witch-costume-twisted-conjurer/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/22/img_icon_twisted-conjurer.png"
+  },
+  "1038500": {
+    "name": "Chaos Gown",
+    "character": "scarlet-witch",
+    "url": "https://rivalskins.com/item/817/scarlet-witch-costume-chaos-gown/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/22/img_icon_chaos-gown.png"
+  },
+  "1038501": {
+    "name": "Emporium Matron",
+    "character": "scarlet-witch",
+    "url": "https://rivalskins.com/item/547/scarlet-witch-costume-emporium-matron/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/22/img_icon_emporium-matron.png"
+  },
+  "1038502": {
+    "name": "Witch Of The Evil Eye",
+    "character": "scarlet-witch",
+    "url": "https://rivalskins.com/item/1851/scarlet-witch-costume-witch-of-the-evil-eye/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/22/img_icon_witch-of-the-evil-eye.png"
+  },
+  "1038503": {
+    "name": "Seaside Sorceress",
+    "character": "scarlet-witch",
+    "url": "https://rivalskins.com/item/3950/scarlet-witch-costume-seaside-sorceress/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/22/img_icon_seaside-sorceress.png"
+  },
+  "1038800": {
+    "name": "Doctor Strange in the Multiverse of Madness",
+    "character": "scarlet-witch",
+    "url": "https://rivalskins.com/item/59/scarlet-witch-costume-doctor-strange-in-the-multiverse-of-madness/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/22/img_icon_doctor-strange-in-the-multiverse-of-madness.png"
+  },
+  "1038801": {
+    "name": "The Queen Of The Dead",
+    "character": "scarlet-witch",
+    "url": "https://rivalskins.com/item/1834/scarlet-witch-costume-the-queen-of-the-dead/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/22/img_icon_the-queen-of-the-dead.png"
+  },
+  "1038803": {
+    "name": "Avengers: Age Of Ultron",
+    "character": "scarlet-witch",
+    "url": "https://rivalskins.com/item/3851/scarlet-witch-costume-avengers-age-of-ultron/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/22/img_icon_avengers-age-of-ultron.png"
+  },
+  "1039001": {
+    "name": "Default",
+    "character": "thor",
+    "url": "https://rivalskins.com/item/444/thor-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/26/img_icon_thor.png"
+  },
+  "1039100": {
+    "name": "Midgard Umber",
+    "character": "thor",
+    "url": "https://rivalskins.com/item/60/thor-costume-midgard-umber/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/26/img_icon_midgard-umber.png"
+  },
+  "1039300": {
+    "name": "Worthy Waves",
+    "character": "thor",
+    "url": "https://rivalskins.com/item/1339/thor-costume-worthy-waves/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/26/img_icon_worthy-waves.png"
+  },
+  "1039301": {
+    "name": "Lightning Fast",
+    "character": "thor",
+    "url": "https://rivalskins.com/item/1782/thor-costume-lightning-fast/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/26/img_icon_lightning-fast.png"
+  },
+  "1039303": {
+    "name": "God Of Winter",
+    "character": "thor",
+    "url": "https://rivalskins.com/item/2180/thor-costume-god-of-winter/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/26/img_icon_god-of-winter.png"
+  },
+  "1039500": {
+    "name": "Herald Of Thunder",
+    "character": "thor",
+    "url": "https://rivalskins.com/item/61/thor-costume-herald-of-thunder/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/26/img_icon_herald-of-thunder.png"
+  },
+  "1039501": {
+    "name": "Reborn from Ragnarok",
+    "character": "thor",
+    "url": "https://rivalskins.com/item/548/thor-costume-reborn-from-ragnarok/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/26/img_icon_reborn-from-ragnarok.png"
+  },
+  "1039502": {
+    "name": "Lord Of Asgard",
+    "character": "thor",
+    "url": "https://rivalskins.com/item/788/thor-costume-lord-of-asgard/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/26/img_icon_rune-king.png"
+  },
+  "1039503": {
+    "name": "Majestic Raiment",
+    "character": "thor",
+    "url": "https://rivalskins.com/item/1226/thor-costume-majestic-raiment/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/26/img_icon_majestic-raiment.png"
+  },
+  "1039504": {
+    "name": "Boogie Bolt",
+    "character": "thor",
+    "url": "https://rivalskins.com/item/2515/thor-costume-boogie-bolt/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/26/img_icon_boogie-bolt.png"
+  },
+  "1039505": {
+    "name": "Low-Key Thor",
+    "character": "thor",
+    "url": "https://rivalskins.com/item/2769/thor-costume-low-key-thor/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/26/img_icon_low-key-thor.png"
+  },
+  "1039506": {
+    "name": "Unworthy Thor",
+    "character": "thor",
+    "url": "https://rivalskins.com/item/3228/thor-costume-unworthy-thor/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/26/img_icon_unworthy-thor.png"
+  },
+  "1039800": {
+    "name": "Thor: Love and Thunder",
+    "character": "thor",
+    "url": "https://rivalskins.com/item/62/thor-costume-thor-love-and-thunder/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/26/img_icon_thor-love-and-thunder.png"
+  },
+  "1040001": {
+    "name": "Default",
+    "character": "mister-fantastic",
+    "url": "https://rivalskins.com/item/625/mister-fantastic-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/35/img_icon_mister-fantastic.png"
+  },
+  "1040100": {
+    "name": "First Family",
+    "character": "mister-fantastic",
+    "url": "https://rivalskins.com/item/549/mister-fantastic-costume-first-family/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/35/img_icon_first-family.png"
+  },
+  "1040101": {
+    "name": "Will Of Galacta",
+    "character": "mister-fantastic",
+    "url": "https://rivalskins.com/item/1765/mister-fantastic-costume-will-of-galacta/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/35/img_icon_will-of-galacta.png"
+  },
+  "1040102": {
+    "name": "Red-Y 4 Action",
+    "character": "mister-fantastic",
+    "url": "https://rivalskins.com/item/3642/mister-fantastic-costume-red-y-4-action/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/35/img_icon_red-y-4-action.png"
+  },
+  "1040300": {
+    "name": "The Life Fantastic",
+    "character": "mister-fantastic",
+    "url": "https://rivalskins.com/item/678/mister-fantastic-costume-the-life-fantastic/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/35/img_icon_the-life-fantastic.png"
+  },
+  "1040301": {
+    "name": "Dad-tastic Reed",
+    "character": "mister-fantastic",
+    "url": "https://rivalskins.com/item/1944/mister-fantastic-costume-dad-tastic-reed/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/35/img_icon_dad-tastic-reed.png"
+  },
+  "1040302": {
+    "name": "Danum Ket: The Professor",
+    "character": "mister-fantastic",
+    "url": "https://rivalskins.com/item/2998/mister-fantastic-costume-danum-ket-the-professor/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/35/img_icon_danum-ket-the-professor.png"
+  },
+  "1040303": {
+    "name": "Fantastic Beach Dad",
+    "character": "mister-fantastic",
+    "url": "https://rivalskins.com/item/3476/mister-fantastic-costume-fantastic-beach-dad/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/35/img_icon_fantastic-beach-dad.png"
+  },
+  "1040500": {
+    "name": "The Maker",
+    "character": "mister-fantastic",
+    "url": "https://rivalskins.com/item/550/mister-fantastic-costume-the-maker/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/35/img_icon_the-maker.png"
+  },
+  "1040501": {
+    "name": "Future Foundation",
+    "character": "mister-fantastic",
+    "url": "https://rivalskins.com/item/1093/mister-fantastic-costume-future-foundation/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/35/img_icon_future-foundation.png"
+  },
+  "1040800": {
+    "name": "The Fantastic Four: First Steps",
+    "character": "mister-fantastic",
+    "url": "https://rivalskins.com/item/1380/mister-fantastic-costume-the-fantastic-four-first-steps/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/35/img_icon_the-fantastic-four-first-steps.png"
+  },
+  "1041001": {
+    "name": "Default",
+    "character": "winter-soldier",
+    "url": "https://rivalskins.com/item/445/winter-soldier-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/28/img_icon_winter-soldier.png"
+  },
+  "1041100": {
+    "name": "Navy Trooper",
+    "character": "winter-soldier",
+    "url": "https://rivalskins.com/item/63/winter-soldier-costume-navy-trooper/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/28/img_icon_navy-trooper.png"
+  },
+  "1041300": {
+    "name": "Blood Soldier",
+    "character": "winter-soldier",
+    "url": "https://rivalskins.com/item/635/winter-soldier-costume-blood-soldier/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/28/img_icon_blood-soldier.png"
+  },
+  "1041301": {
+    "name": "Polarity Soldier",
+    "character": "winter-soldier",
+    "url": "https://rivalskins.com/item/1468/winter-soldier-costume-polarity-soldier/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/28/img_icon_polarity-soldier.png"
+  },
+  "1041303": {
+    "name": "Summer Soldier",
+    "character": "winter-soldier",
+    "url": "https://rivalskins.com/item/3946/winter-soldier-costume-summer-soldier/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/28/img_icon_summer-soldier.png"
+  },
+  "1041304": {
+    "name": "Starlit Gunslinger",
+    "character": "winter-soldier",
+    "url": "https://rivalskins.com/item/3214/winter-soldier-costume-starlit-gunslinger/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/28/img_icon_starlit-gunslinger.png"
+  },
+  "1041500": {
+    "name": "Revolution",
+    "character": "winter-soldier",
+    "url": "https://rivalskins.com/item/64/winter-soldier-costume-revolution/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/28/img_icon_revolution.png"
+  },
+  "1041501": {
+    "name": "Winter'S Veil",
+    "character": "winter-soldier",
+    "url": "https://rivalskins.com/item/1541/winter-soldier-costume-winters-veil/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/28/img_icon_winters-veil.png"
+  },
+  "1041502": {
+    "name": "Winter Buckaroo",
+    "character": "winter-soldier",
+    "url": "https://rivalskins.com/item/2114/winter-soldier-costume-winter-buckaroo/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/28/img_icon_winter-buckaroo.png"
+  },
+  "1041503": {
+    "name": "Bucky",
+    "character": "winter-soldier",
+    "url": "https://rivalskins.com/item/2215/winter-soldier-costume-bucky/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/28/img_icon_bucky.png"
+  },
+  "1041800": {
+    "name": "Thunderbolts*",
+    "character": "winter-soldier",
+    "url": "https://rivalskins.com/item/1035/winter-soldier-costume-thunderbolts/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/28/img_icon_thunderbolts.png"
+  },
+  "1041802": {
+    "name": "Captain America: The Winter Soldier",
+    "character": "winter-soldier",
+    "url": "https://rivalskins.com/item/3852/winter-soldier-costume-captain-america-the-winter-soldier/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/28/img_icon_captain-america-the-winter-soldier.png"
+  },
+  "1042001": {
+    "name": "Default",
+    "character": "peni-parker",
+    "url": "https://rivalskins.com/item/446/peni-parker-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/18/img_icon_peni-parker.png"
+  },
+  "1042100": {
+    "name": "Olive Skimmer",
+    "character": "peni-parker",
+    "url": "https://rivalskins.com/item/65/peni-parker-costume-olive-skimmer/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/18/img_icon_olive-skimmer.png"
+  },
+  "1042101": {
+    "name": "Blue Tarantula",
+    "character": "peni-parker",
+    "url": "https://rivalskins.com/item/551/peni-parker-costume-blue-tarantula/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/18/img_icon_blue-tarantula.png"
+  },
+  "1042300": {
+    "name": "Yatsukahagi",
+    "character": "peni-parker",
+    "url": "https://rivalskins.com/item/976/peni-parker-costume-yatsukahagi/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/18/img_icon_yatsukahagi.png"
+  },
+  "1042301": {
+    "name": "Wasteland Mech",
+    "character": "peni-parker",
+    "url": "https://rivalskins.com/item/1528/peni-parker-costume-wasteland-mech/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/18/img_icon_wasteland-mech.png"
+  },
+  "1042302": {
+    "name": "Floral Frights",
+    "character": "peni-parker",
+    "url": "https://rivalskins.com/item/1806/peni-parker-costume-floral-frights/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/18/img_icon_floral-frights.png"
+  },
+  "1042303": {
+    "name": "Snow-Sp//Dr",
+    "character": "peni-parker",
+    "url": "https://rivalskins.com/item/2162/peni-parker-costume-snow-spdr/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/18/img_icon_snow-spdr.png"
+  },
+  "1042305": {
+    "name": "Badlands Lullaby",
+    "character": "peni-parker",
+    "url": "https://rivalskins.com/item/2770/peni-parker-costume-badlands-lullaby/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/18/img_icon_badlands-lullaby.png"
+  },
+  "1042306": {
+    "name": "Peni Parker: The Freshman",
+    "character": "peni-parker",
+    "url": "https://rivalskins.com/item/3349/peni-parker-costume-peni-parker-the-freshman/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/18/img_icon_peni-parker-the-freshman.png"
+  },
+  "1042307": {
+    "name": "LIQUID Shell",
+    "character": "peni-parker",
+    "url": "https://rivalskins.com/item/4038/peni-parker-costume-liquid-shell/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/18/img_icon_liquid-shell.png"
+  },
+  "1042500": {
+    "name": "VEN#m",
+    "character": "peni-parker",
+    "url": "https://rivalskins.com/item/66/peni-parker-costume-venm/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/18/img_icon_venm.png"
+  },
+  "1043001": {
+    "name": "Default",
+    "character": "star-lord",
+    "url": "https://rivalskins.com/item/447/star-lord-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/24/img_icon_star-lord.png"
+  },
+  "1043100": {
+    "name": "Jovial Star",
+    "character": "star-lord",
+    "url": "https://rivalskins.com/item/67/star-lord-costume-jovial-star/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/24/img_icon_jovial-star.png"
+  },
+  "1043102": {
+    "name": "Ignite Star-Lord (2025)",
+    "character": "star-lord",
+    "url": "https://rivalskins.com/item/1410/star-lord-costume-ignite-star-lord-2025/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/24/img_icon_ignite-star-lord-2025.png"
+  },
+  "1043103": {
+    "name": "Luminous Legend",
+    "character": "star-lord",
+    "url": "https://rivalskins.com/item/2216/star-lord-costume-luminous-legend/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/24/img_icon_luminous-legend.png"
+  },
+  "1043300": {
+    "name": "Lion's Mane",
+    "character": "star-lord",
+    "url": "https://rivalskins.com/item/636/star-lord-costume-lions-mane/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/24/img_icon_lions-mane.png"
+  },
+  "1043301": {
+    "name": "Starcracker",
+    "character": "star-lord",
+    "url": "https://rivalskins.com/item/2163/star-lord-costume-starcracker/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/24/img_icon_starcracker.png"
+  },
+  "1043302": {
+    "name": "Groovy Guardian",
+    "character": "star-lord",
+    "url": "https://rivalskins.com/item/2876/star-lord-costume-groovy-guardian/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/24/img_icon_groovy-guardian.png"
+  },
+  "1043303": {
+    "name": "Glory Gunner",
+    "character": "star-lord",
+    "url": "https://rivalskins.com/item/3329/star-lord-costume-glory-gunner/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/24/img_icon_glory-gunner.png"
+  },
+  "1043304": {
+    "name": "Star Swimmer",
+    "character": "star-lord",
+    "url": "https://rivalskins.com/item/3961/star-lord-costume-star-swimmer/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/24/img_icon_star-swimmer.png"
+  },
+  "1043500": {
+    "name": "Master Of The Sun",
+    "character": "star-lord",
+    "url": "https://rivalskins.com/item/68/star-lord-costume-master-of-the-sun/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/24/img_icon_master-of-the-sun.png"
+  },
+  "1043501": {
+    "name": "King of Spartax",
+    "character": "star-lord",
+    "url": "https://rivalskins.com/item/818/star-lord-costume-king-of-spartax/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/24/img_icon_king-of-spartax.png"
+  },
+  "1043502": {
+    "name": "Starlit Outlaw",
+    "character": "star-lord",
+    "url": "https://rivalskins.com/item/1542/star-lord-costume-starlit-outlaw/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/24/img_icon_starlit-outlaw.png"
+  },
+  "1043800": {
+    "name": "Guardians of the Galaxy Vol. 3",
+    "character": "star-lord",
+    "url": "https://rivalskins.com/item/69/star-lord-costume-guardians-of-the-galaxy-vol-3/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/24/img_icon_guardians-of-the-galaxy-vol-3.png"
+  },
+  "1044001": {
+    "name": "Blade",
+    "character": "blade",
+    "url": "https://rivalskins.com/item/1464/blade-costume-blade/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/41/img_icon_blade.png"
+  },
+  "1044100": {
+    "name": "Daybreak",
+    "character": "blade",
+    "url": "https://rivalskins.com/item/1462/blade-costume-daybreak/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/41/img_icon_daybreak.png"
+  },
+  "1044101": {
+    "name": "Will Of Galacta",
+    "character": "blade",
+    "url": "https://rivalskins.com/item/1543/blade-costume-will-of-galacta/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/41/img_icon_will-of-galacta.png"
+  },
+  "1044102": {
+    "name": "Emerald Blade",
+    "character": "blade",
+    "url": "https://rivalskins.com/item/1414/blade-costume-emerald-blade/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/41/img_icon_emerald-blade.png"
+  },
+  "1044300": {
+    "name": "Polarity Edge",
+    "character": "blade",
+    "url": "https://rivalskins.com/item/1441/blade-costume-polarity-edge/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/41/img_icon_polarity-edge.png"
+  },
+  "1044301": {
+    "name": "Vampire Slayer",
+    "character": "blade",
+    "url": "https://rivalskins.com/item/2217/blade-costume-vampire-slayer/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/41/img_icon_vampire-slayer.png"
+  },
+  "1044302": {
+    "name": "Starlit Shadow",
+    "character": "blade",
+    "url": "https://rivalskins.com/item/3044/blade-costume-starlit-shadow/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/41/img_icon_starlit-shadow.png"
+  },
+  "1044500": {
+    "name": "Restful Recovery",
+    "character": "blade",
+    "url": "https://rivalskins.com/item/1945/blade-costume-restful-recovery/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/41/img_icon_restful-recovery.png"
+  },
+  "1044800": {
+    "name": "Blade Knight",
+    "character": "blade",
+    "url": "https://rivalskins.com/item/1807/blade-costume-blade-knight/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/41/img_icon_blade-knight.png"
+  },
+  "1045001": {
+    "name": "Default",
+    "character": "namor",
+    "url": "https://rivalskins.com/item/448/namor-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/17/img_icon_namor.png"
+  },
+  "1045100": {
+    "name": "Mauve Sub-Mariner",
+    "character": "namor",
+    "url": "https://rivalskins.com/item/70/namor-costume-mauve-sub-mariner/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/17/img_icon_mauve-sub-mariner.png"
+  },
+  "1045101": {
+    "name": "Will of Galacta",
+    "character": "namor",
+    "url": "https://rivalskins.com/item/819/namor-costume-will-of-galacta/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/17/img_icon_will-of-galacta.png"
+  },
+  "1045300": {
+    "name": "Phantom Tide",
+    "character": "namor",
+    "url": "https://rivalskins.com/item/1808/namor-costume-phantom-tide/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/17/img_icon_phantom-tide.png"
+  },
+  "1045301": {
+    "name": "Monstro King",
+    "character": "namor",
+    "url": "https://rivalskins.com/item/1852/namor-costume-monstro-king/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/17/img_icon_monstro-king.png"
+  },
+  "1045302": {
+    "name": "Sea Samba",
+    "character": "namor",
+    "url": "https://rivalskins.com/item/2877/namor-costume-sea-samba/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/17/img_icon_sea-samba.png"
+  },
+  "1045500": {
+    "name": "Savage Sub-Mariner",
+    "character": "namor",
+    "url": "https://rivalskins.com/item/552/namor-costume-savage-sub-mariner/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/17/img_icon_savage-sub-mariner.png"
+  },
+  "1045501": {
+    "name": "Retro X-Uniform",
+    "character": "namor",
+    "url": "https://rivalskins.com/item/1062/namor-costume-retro-x-uniform/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/17/img_icon_retro-x-uniform.png"
+  },
+  "1045502": {
+    "name": "Phoenix King",
+    "character": "namor",
+    "url": "https://rivalskins.com/item/1244/namor-costume-phoenix-king/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/17/img_icon_phoenix-king.png"
+  },
+  "1045503": {
+    "name": "Lord Of Atlantis",
+    "character": "namor",
+    "url": "https://rivalskins.com/item/3644/namor-costume-lord-of-atlantis/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/17/img_icon_lord-of-atlantis.png"
+  },
+  "1045800": {
+    "name": "Black Panther: Wakanda Forever",
+    "character": "namor",
+    "url": "https://rivalskins.com/item/71/namor-costume-black-panther-wakanda-forever/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/17/img_icon_black-panther-wakanda-forever.png"
+  },
+  "1046001": {
+    "name": "Default",
+    "character": "adam-warlock",
+    "url": "https://rivalskins.com/item/449/adam-warlock-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/1/img_icon_adam-warlock.png"
+  },
+  "1046100": {
+    "name": "Cosmic Jade",
+    "character": "adam-warlock",
+    "url": "https://rivalskins.com/item/72/adam-warlock-costume-cosmic-jade/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/1/img_icon_cosmic-jade.png"
+  },
+  "1046101": {
+    "name": "Will of Galacta",
+    "character": "adam-warlock",
+    "url": "https://rivalskins.com/item/755/adam-warlock-costume-will-of-galacta/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/1/img_icon_will-of-galacta.png"
+  },
+  "1046102": {
+    "name": "King in White",
+    "character": "adam-warlock",
+    "url": "https://rivalskins.com/item/1245/adam-warlock-costume-king-in-white/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/1/img_icon_king-in-white.png"
+  },
+  "1046300": {
+    "name": "Immortal Avatar",
+    "character": "adam-warlock",
+    "url": "https://rivalskins.com/item/1077/adam-warlock-costume-immortal-avatar/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/1/img_icon_immortal-avatar.png"
+  },
+  "1046301": {
+    "name": "Blood Soul",
+    "character": "adam-warlock",
+    "url": "https://rivalskins.com/item/553/adam-warlock-costume-blood-soul/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/1/img_icon_blood-soul.png"
+  },
+  "1046302": {
+    "name": "Cosmic Warlock",
+    "character": "adam-warlock",
+    "url": "https://rivalskins.com/item/2198/adam-warlock-costume-cosmic-warlock/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/1/img_icon_cosmic-warlock.png"
+  },
+  "1046303": {
+    "name": "Tailored Perfection",
+    "character": "adam-warlock",
+    "url": "https://rivalskins.com/item/3714/adam-warlock-costume-tailored-perfection/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/1/img_icon_tailored-perfection.png"
+  },
+  "1046500": {
+    "name": "Magus",
+    "character": "adam-warlock",
+    "url": "https://rivalskins.com/item/1853/adam-warlock-costume-magus/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/1/img_icon_magus.png"
+  },
+  "1046501": {
+    "name": "Living Tribunal",
+    "character": "adam-warlock",
+    "url": "https://rivalskins.com/item/2771/adam-warlock-costume-living-tribunal/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/1/img_icon_living-tribunal.png"
+  },
+  "1046800": {
+    "name": "Guardians of the Galaxy Vol. 3",
+    "character": "adam-warlock",
+    "url": "https://rivalskins.com/item/73/adam-warlock-costume-guardians-of-the-galaxy-vol-3/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/1/img_icon_guardians-of-the-galaxy-vol-3.png"
+  },
+  "1047001": {
+    "name": "Default",
+    "character": "jeff-the-land-shark",
+    "url": "https://rivalskins.com/item/450/jeff-the-land-shark-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/10/img_icon_jeff-the-land-shark.png"
+  },
+  "1047100": {
+    "name": "Adopted Avenger",
+    "character": "jeff-the-land-shark",
+    "url": "https://rivalskins.com/item/74/jeff-the-land-shark-costume-adopted-avenger/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/10/img_icon_adopted-avenger.png"
+  },
+  "1047300": {
+    "name": "Cuddly Fuzzlefin",
+    "character": "jeff-the-land-shark",
+    "url": "https://rivalskins.com/item/384/jeff-the-land-shark-costume-cuddly-fuzzlefin/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/10/img_icon_cuddly-fuzzlefin.png"
+  },
+  "1047301": {
+    "name": "Sunshine Land Shark",
+    "character": "jeff-the-land-shark",
+    "url": "https://rivalskins.com/item/1172/jeff-the-land-shark-costume-sunshine-land-shark/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/10/img_icon_sunshine-land-shark.png"
+  },
+  "1047302": {
+    "name": "Jeff O'Lantern",
+    "character": "jeff-the-land-shark",
+    "url": "https://rivalskins.com/item/1809/jeff-the-land-shark-costume-jeff-olantern/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/10/img_icon_jeff-olantern.png"
+  },
+  "1047307": {
+    "name": "Duck Defender",
+    "character": "jeff-the-land-shark",
+    "url": "https://rivalskins.com/item/2588/jeff-the-land-shark-costume-duck-defender/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/10/img_icon_duck-defender.png"
+  },
+  "1047308": {
+    "name": "Maid To Chomp",
+    "character": "jeff-the-land-shark",
+    "url": "https://rivalskins.com/item/3023/jeff-the-land-shark-costume-maid-to-chomp/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/10/img_icon_maid-to-chomp.png"
+  },
+  "1047309": {
+    "name": "Devil Landshark",
+    "character": "jeff-the-land-shark",
+    "url": "https://rivalskins.com/item/3229/jeff-the-land-shark-costume-devil-landshark/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/10/img_icon_devil-landshark.png"
+  },
+  "1047500": {
+    "name": "Incognito Dolphin",
+    "character": "jeff-the-land-shark",
+    "url": "https://rivalskins.com/item/75/jeff-the-land-shark-costume-incognito-dolphin/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/10/img_icon_incognito-dolphin.png"
+  },
+  "1047501": {
+    "name": "Devouring Duo",
+    "character": "jeff-the-land-shark",
+    "url": "https://rivalskins.com/item/1246/jeff-the-land-shark-costume-devouring-duo/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/10/img_icon_devouring-duo.png"
+  },
+  "1047502": {
+    "name": "Business Shark",
+    "character": "jeff-the-land-shark",
+    "url": "https://rivalskins.com/item/1946/jeff-the-land-shark-costume-business-shark/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/10/img_icon_business-shark.png"
+  },
+  "1047505": {
+    "name": "Jeff-Pool",
+    "character": "jeff-the-land-shark",
+    "url": "https://rivalskins.com/item/3877/jeff-the-land-shark-costume-jeff-pool/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/10/img_icon_jeff-pool.png"
+  },
+  "1047800": {
+    "name": "8-Bit Bash",
+    "character": "jeff-the-land-shark",
+    "url": "https://rivalskins.com/item/2218/jeff-the-land-shark-costume-8-bit-bash/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/10/img_icon_8-bit-bash.png"
+  },
+  "1048001": {
+    "name": "Default",
+    "character": "psylocke",
+    "url": "https://rivalskins.com/item/451/psylocke-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/19/img_icon_psylocke.png"
+  },
+  "1048100": {
+    "name": "Kirisaki Sakura",
+    "character": "psylocke",
+    "url": "https://rivalskins.com/item/76/psylocke-costume-kirisaki-sakura/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/19/img_icon_kirisaki-sakura.png"
+  },
+  "1048300": {
+    "name": "Blood Kariudo",
+    "character": "psylocke",
+    "url": "https://rivalskins.com/item/637/psylocke-costume-blood-kariudo/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/19/img_icon_blood-kariudo.png"
+  },
+  "1048301": {
+    "name": "Fleeting Butterfly",
+    "character": "psylocke",
+    "url": "https://rivalskins.com/item/1759/psylocke-costume-fleeting-butterfly/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/19/img_icon_fleeting-butterfly.png"
+  },
+  "1048302": {
+    "name": "Daring Daifuku",
+    "character": "psylocke",
+    "url": "https://rivalskins.com/item/2030/psylocke-costume-daring-daifuku/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/19/img_icon_daring-daifuku.png"
+  },
+  "1048303": {
+    "name": "Once-Captive Corsair",
+    "character": "psylocke",
+    "url": "https://rivalskins.com/item/2743/psylocke-costume-once-captive-corsair/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/19/img_icon_once-captive-corsair.png"
+  },
+  "1048304": {
+    "name": "Psychedelic Pulse",
+    "character": "psylocke",
+    "url": "https://rivalskins.com/item/2535/psylocke-costume-psychedelic-pulse/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/19/img_icon_psychedelic-pulse.png"
+  },
+  "1048309": {
+    "name": "Chouko Takahashi: The Prodigy",
+    "character": "psylocke",
+    "url": "https://rivalskins.com/item/3045/psylocke-costume-chouko-takahashi-the-prodigy/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/19/img_icon_chouko-takahashi-the-prodigy.png"
+  },
+  "1048500": {
+    "name": "Vengeance",
+    "character": "psylocke",
+    "url": "https://rivalskins.com/item/77/psylocke-costume-vengeance/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/19/img_icon_vengeance.png"
+  },
+  "1048501": {
+    "name": "Retro X-Uniform",
+    "character": "psylocke",
+    "url": "https://rivalskins.com/item/820/psylocke-costume-retro-x-uniform/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/19/img_icon_retro-x-uniform.png"
+  },
+  "1048502": {
+    "name": "Breezy Butterfly",
+    "character": "psylocke",
+    "url": "https://rivalskins.com/item/1340/psylocke-costume-breezy-butterfly/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/19/img_icon_breezy-butterfly.png"
+  },
+  "1048506": {
+    "name": "Pinned Butterfly",
+    "character": "psylocke",
+    "url": "https://rivalskins.com/item/3813/psylocke-costume-pinned-butterfly/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/19/img_icon_pinned-butterfly.png"
+  },
+  "1049001": {
+    "name": "Default",
+    "character": "wolverine",
+    "url": "https://rivalskins.com/item/452/wolverine-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/33/img_icon_wolverine.png"
+  },
+  "1049100": {
+    "name": "Lone Wolf",
+    "character": "wolverine",
+    "url": "https://rivalskins.com/item/78/wolverine-costume-lone-wolf/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/33/img_icon_lone-wolf.png"
+  },
+  "1049101": {
+    "name": "Will Of Galacta",
+    "character": "wolverine",
+    "url": "https://rivalskins.com/item/3559/wolverine-costume-will-of-galacta/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/33/img_icon_will-of-galacta.png"
+  },
+  "1049300": {
+    "name": "Blood Berserker",
+    "character": "wolverine",
+    "url": "https://rivalskins.com/item/554/wolverine-costume-blood-berserker/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/33/img_icon_blood-berserker.png"
+  },
+  "1049301": {
+    "name": "Dog Brother X",
+    "character": "wolverine",
+    "url": "https://rivalskins.com/item/1842/wolverine-costume-dog-brother-x/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/33/img_icon_dog-brother-x.png"
+  },
+  "1049302": {
+    "name": "X-2099",
+    "character": "wolverine",
+    "url": "https://rivalskins.com/item/3385/wolverine-costume-x-2099/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/33/img_icon_x-2099.png"
+  },
+  "1049500": {
+    "name": "Patch",
+    "character": "wolverine",
+    "url": "https://rivalskins.com/item/1036/wolverine-costume-patch/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/33/img_icon_patch.png"
+  },
+  "1049501": {
+    "name": "Weapon X",
+    "character": "wolverine",
+    "url": "https://rivalskins.com/item/1159/wolverine-costume-weapon-x/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/33/img_icon_weapon-x.png"
+  },
+  "1049502": {
+    "name": "Weapon PhoeniX",
+    "character": "wolverine",
+    "url": "https://rivalskins.com/item/1247/wolverine-costume-weapon-phoenix/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/33/img_icon_weapon-phoenix.png"
+  },
+  "1049503": {
+    "name": "Winter Soldier",
+    "character": "wolverine",
+    "url": "https://rivalskins.com/item/2219/wolverine-costume-winter-soldier/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/33/img_icon_winter-soldier.png"
+  },
+  "1049504": {
+    "name": "Bloodless Berserker",
+    "character": "wolverine",
+    "url": "https://rivalskins.com/item/3646/wolverine-costume-bloodless-berserker/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/33/img_icon_bloodless-berserker.png"
+  },
+  "1049800": {
+    "name": "Deadpool & Wolverine",
+    "character": "wolverine",
+    "url": "https://rivalskins.com/item/79/wolverine-costume-deadpool-wolverine/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/33/img_icon_deadpool-wolverine.png"
+  },
+  "1050001": {
+    "name": "Default",
+    "character": "invisible-woman",
+    "url": "https://rivalskins.com/item/626/invisible-woman-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/34/img_icon_invisible-woman.png"
+  },
+  "1050100": {
+    "name": "First Family",
+    "character": "invisible-woman",
+    "url": "https://rivalskins.com/item/556/invisible-woman-costume-first-family/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/34/img_icon_first-family.png"
+  },
+  "1050101": {
+    "name": "Blood Shield",
+    "character": "invisible-woman",
+    "url": "https://rivalskins.com/item/555/invisible-woman-costume-blood-shield/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/34/img_icon_blood-shield.png"
+  },
+  "1050103": {
+    "name": "Will of Galacta",
+    "character": "invisible-woman",
+    "url": "https://rivalskins.com/item/2220/invisible-woman-costume-will-of-galacta/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/34/img_icon_will-of-galacta.png"
+  },
+  "1050300": {
+    "name": "The Life Fantastic",
+    "character": "invisible-woman",
+    "url": "https://rivalskins.com/item/679/invisible-woman-costume-the-life-fantastic/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/34/img_icon_the-life-fantastic.png"
+  },
+  "1050301": {
+    "name": "Disappearing Dessert",
+    "character": "invisible-woman",
+    "url": "https://rivalskins.com/item/1947/invisible-woman-costume-disappearing-dessert/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/34/img_icon_disappearing-dessert.png"
+  },
+  "1050302": {
+    "name": "Prism Parade",
+    "character": "invisible-woman",
+    "url": "https://rivalskins.com/item/2221/invisible-woman-costume-prism-parade/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/34/img_icon_prism-parade.png"
+  },
+  "1050305": {
+    "name": "Riann Landau: The Debater",
+    "character": "invisible-woman",
+    "url": "https://rivalskins.com/item/3003/invisible-woman-costume-riann-landau-the-debater/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/34/img_icon_riann-landau-the-debater.png"
+  },
+  "1050310": {
+    "name": "Baxter Building Beauty",
+    "character": "invisible-woman",
+    "url": "https://rivalskins.com/item/3715/invisible-woman-costume-baxter-building-beauty/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/34/img_icon_baxter-building-beauty.png"
+  },
+  "1050500": {
+    "name": "Malice",
+    "character": "invisible-woman",
+    "url": "https://rivalskins.com/item/557/invisible-woman-costume-malice/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/34/img_icon_malice.png"
+  },
+  "1050501": {
+    "name": "Future Foundation",
+    "character": "invisible-woman",
+    "url": "https://rivalskins.com/item/1162/invisible-woman-costume-future-foundation/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/34/img_icon_future-foundation.png"
+  },
+  "1050502": {
+    "name": "Azure Shade",
+    "character": "invisible-woman",
+    "url": "https://rivalskins.com/item/1620/invisible-woman-costume-azure-shade/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/34/img_icon_azure-shade.png"
+  },
+  "1050800": {
+    "name": "The Fantastic Four: First Steps",
+    "character": "invisible-woman",
+    "url": "https://rivalskins.com/item/1381/invisible-woman-costume-the-fantastic-four-first-steps/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/34/img_icon_the-fantastic-four-first-steps.png"
+  },
+  "1051001": {
+    "name": "Default",
+    "character": "the-thing",
+    "url": "https://rivalskins.com/item/725/the-thing-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/36/img_icon_the-thing.png"
+  },
+  "1051100": {
+    "name": "First Family",
+    "character": "the-thing",
+    "url": "https://rivalskins.com/item/696/the-thing-costume-first-family/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/36/img_icon_first-family.png"
+  },
+  "1051101": {
+    "name": "The Unlimited",
+    "character": "the-thing",
+    "url": "https://rivalskins.com/item/977/the-thing-costume-the-unlimited/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/36/img_icon_the-unlimited.png"
+  },
+  "1051102": {
+    "name": "Blue Thing",
+    "character": "the-thing",
+    "url": "https://rivalskins.com/item/1854/the-thing-costume-blue-thing/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/36/img_icon_blue-thing.png"
+  },
+  "1051300": {
+    "name": "Rocky Tide",
+    "character": "the-thing",
+    "url": "https://rivalskins.com/item/1621/the-thing-costume-rocky-tide/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/36/img_icon_rocky-tide.png"
+  },
+  "1051301": {
+    "name": "Sunshine Thing",
+    "character": "the-thing",
+    "url": "https://rivalskins.com/item/1341/the-thing-costume-sunshine-thing/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/36/img_icon_sunshine-thing.png"
+  },
+  "1051500": {
+    "name": "Trench Coat",
+    "character": "the-thing",
+    "url": "https://rivalskins.com/item/697/the-thing-costume-trench-coat/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/36/img_icon_trench-coat.png"
+  },
+  "1051501": {
+    "name": "Future Foundation",
+    "character": "the-thing",
+    "url": "https://rivalskins.com/item/1160/the-thing-costume-future-foundation/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/36/img_icon_future-foundation.png"
+  },
+  "1051502": {
+    "name": "Symbiote-Thing",
+    "character": "the-thing",
+    "url": "https://rivalskins.com/item/1453/the-thing-costume-symbiote-thing/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/36/img_icon_symbiote-thing.png"
+  },
+  "1051504": {
+    "name": "Fear Itself",
+    "character": "the-thing",
+    "url": "https://rivalskins.com/item/2745/the-thing-costume-fear-itself/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/36/img_icon_fear-itself.png"
+  },
+  "1051505": {
+    "name": "Infinity Thing",
+    "character": "the-thing",
+    "url": "https://rivalskins.com/item/3230/the-thing-costume-infinity-thing/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/36/img_icon_infinity-thing.png"
+  },
+  "1051800": {
+    "name": "The Fantastic Four: First Steps",
+    "character": "the-thing",
+    "url": "https://rivalskins.com/item/1382/the-thing-costume-the-fantastic-four-first-steps/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/36/img_icon_the-fantastic-four-first-steps.png"
+  },
+  "1052001": {
+    "name": "Default",
+    "character": "iron-fist",
+    "url": "https://rivalskins.com/item/453/iron-fist-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/31/img_icon_iron-fist.png"
+  },
+  "1052100": {
+    "name": "Martial Arts Savant",
+    "character": "iron-fist",
+    "url": "https://rivalskins.com/item/80/iron-fist-costume-martial-arts-savant/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/31/img_icon_martial-arts-savant.png"
+  },
+  "1052101": {
+    "name": "Will Of Galacta",
+    "character": "iron-fist",
+    "url": "https://rivalskins.com/item/2059/iron-fist-costume-will-of-galacta/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/31/img_icon_will-of-galacta.png"
+  },
+  "1052300": {
+    "name": "Lion's Gaze",
+    "character": "iron-fist",
+    "url": "https://rivalskins.com/item/638/iron-fist-costume-lions-gaze/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/31/img_icon_lions-gaze.png"
+  },
+  "1052301": {
+    "name": "Binary Fist",
+    "character": "iron-fist",
+    "url": "https://rivalskins.com/item/1191/iron-fist-costume-binary-fist/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/31/img_icon_binary-fist.png"
+  },
+  "1052302": {
+    "name": "Shenloong Champion",
+    "character": "iron-fist",
+    "url": "https://rivalskins.com/item/2060/iron-fist-costume-shenloong-champion/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/31/img_icon_shenloong-champion.png"
+  },
+  "1052303": {
+    "name": "Lin Shao: The Knockout",
+    "character": "iron-fist",
+    "url": "https://rivalskins.com/item/3028/iron-fist-costume-lin-shao-the-knockout/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/31/img_icon_lin-shao-the-knockout.png"
+  },
+  "1052306": {
+    "name": "Furious Flow",
+    "character": "iron-fist",
+    "url": "https://rivalskins.com/item/3878/iron-fist-costume-furious-flow/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/31/img_icon_furious-flow.png"
+  },
+  "1052500": {
+    "name": "Sword Master",
+    "character": "iron-fist",
+    "url": "https://rivalskins.com/item/81/iron-fist-costume-sword-master/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/31/img_icon_sword-master.png"
+  },
+  "1052501": {
+    "name": "Immortal Weapon of Agamotto",
+    "character": "iron-fist",
+    "url": "https://rivalskins.com/item/821/iron-fist-costume-immortal-weapon-of-agamotto/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/31/img_icon_immortal-weapon-of-agamotto.png"
+  },
+  "1052502": {
+    "name": "Phoenix Fist",
+    "character": "iron-fist",
+    "url": "https://rivalskins.com/item/1496/iron-fist-costume-phoenix-fist/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/31/img_icon_phoenix-fist.png"
+  },
+  "1053001": {
+    "name": "Default",
+    "character": "emma-frost",
+    "url": "https://rivalskins.com/item/883/emma-frost-costume-default/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/38/img_icon_emma-frost.png"
+  },
+  "1053100": {
+    "name": "Blue Sapphire",
+    "character": "emma-frost",
+    "url": "https://rivalskins.com/item/822/emma-frost-costume-blue-sapphire/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/38/img_icon_blue-sapphire.png"
+  },
+  "1053101": {
+    "name": "Will of Galacta",
+    "character": "emma-frost",
+    "url": "https://rivalskins.com/item/1094/emma-frost-costume-will-of-galacta/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/38/img_icon_will-of-galacta.png"
+  },
+  "1053102": {
+    "name": "Golden Diamond",
+    "character": "emma-frost",
+    "url": "https://rivalskins.com/item/823/emma-frost-costume-golden-diamond/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/38/img_icon_golden-diamond.png"
+  },
+  "1053300": {
+    "name": "Hellfire Protocol",
+    "character": "emma-frost",
+    "url": "https://rivalskins.com/item/1700/emma-frost-costume-hellfire-protocol/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/38/img_icon_hellfire-protocol.png"
+  },
+  "1053301": {
+    "name": "Queen Of Diamonds",
+    "character": "emma-frost",
+    "url": "https://rivalskins.com/item/2566/emma-frost-costume-queen-of-diamonds/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/38/img_icon_queen-of-diamonds.png"
+  },
+  "1053302": {
+    "name": "White Wave Queen",
+    "character": "emma-frost",
+    "url": "https://rivalskins.com/item/3477/emma-frost-costume-white-wave-queen/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/38/img_icon_white-wave-queen.png"
+  },
+  "1053304": {
+    "name": "Gala Glam",
+    "character": "emma-frost",
+    "url": "https://rivalskins.com/item/3119/emma-frost-costume-gala-glam/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/38/img_icon_gala-glam.png"
+  },
+  "1053500": {
+    "name": "X-Revolution",
+    "character": "emma-frost",
+    "url": "https://rivalskins.com/item/824/emma-frost-costume-x-revolution/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/38/img_icon_x-revolution.png"
+  },
+  "1053501": {
+    "name": "Phoenix Diamond",
+    "character": "emma-frost",
+    "url": "https://rivalskins.com/item/1248/emma-frost-costume-phoenix-diamond/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/38/img_icon_phoenix-diamond.png"
+  },
+  "1053502": {
+    "name": "Black Queen Of The Marauders",
+    "character": "emma-frost",
+    "url": "https://rivalskins.com/item/2711/emma-frost-costume-black-queen-of-the-marauders/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/38/img_icon_black-queen-of-the-marauders.png"
+  },
+  "1054001": {
+    "name": "Phoenix",
+    "character": "phoenix",
+    "url": "https://rivalskins.com/item/1313/phoenix-costume-phoenix/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/40/img_icon_phoenix.png"
+  },
+  "1054100": {
+    "name": "The Return of Jean Grey",
+    "character": "phoenix",
+    "url": "https://rivalskins.com/item/1249/phoenix-costume-the-return-of-jean-grey/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/40/img_icon_the-return-of-jean-grey.png"
+  },
+  "1054101": {
+    "name": "Emerald Flames",
+    "character": "phoenix",
+    "url": "https://rivalskins.com/item/1250/phoenix-costume-emerald-flames/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/40/img_icon_emerald-flames.png"
+  },
+  "1054102": {
+    "name": "Will Of Galacta",
+    "character": "phoenix",
+    "url": "https://rivalskins.com/item/1924/phoenix-costume-will-of-galacta/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/40/img_icon_will-of-galacta.png"
+  },
+  "1054300": {
+    "name": "Chaos Phoenix",
+    "character": "phoenix",
+    "url": "https://rivalskins.com/item/1251/phoenix-costume-chaos-phoenix/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/40/img_icon_chaos-phoenix.png"
+  },
+  "1054301": {
+    "name": "Ice Phoenix",
+    "character": "phoenix",
+    "url": "https://rivalskins.com/item/2199/phoenix-costume-ice-phoenix/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/40/img_icon_ice-phoenix.png"
+  },
+  "1054500": {
+    "name": "Dark Phoenix",
+    "character": "phoenix",
+    "url": "https://rivalskins.com/item/1544/phoenix-costume-dark-phoenix/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/40/img_icon_dark-phoenix.png"
+  },
+  "1054501": {
+    "name": "Seat Of Spring",
+    "character": "phoenix",
+    "url": "https://rivalskins.com/item/2728/phoenix-costume-seat-of-spring/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/40/img_icon_seat-of-spring.png"
+  },
+  "1054502": {
+    "name": "Verdant Vogue",
+    "character": "phoenix",
+    "url": "https://rivalskins.com/item/3120/phoenix-costume-verdant-vogue/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/40/img_icon_verdant-vogue.png"
+  },
+  "1054503": {
+    "name": "White Crown Phoenix",
+    "character": "phoenix",
+    "url": "https://rivalskins.com/item/3422/phoenix-costume-white-crown-phoenix/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/40/img_icon_white-crown-phoenix.png"
+  },
+  "1054504": {
+    "name": "Viridian Vogue",
+    "character": "phoenix",
+    "url": "https://rivalskins.com/item/4023/phoenix-costume-viridian-vogue/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/40/img_icon_viridian-vogue.png"
+  },
+  "1055001": {
+    "name": "Daredevil",
+    "character": "daredevil",
+    "url": "https://rivalskins.com/item/1767/daredevil-costume-daredevil/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/43/img_icon_daredevil.png"
+  },
+  "1055100": {
+    "name": "Fearless Origin",
+    "character": "daredevil",
+    "url": "https://rivalskins.com/item/1712/daredevil-costume-fearless-origin/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/43/img_icon_fearless-origin.png"
+  },
+  "1055101": {
+    "name": "Shenloong'S Creed",
+    "character": "daredevil",
+    "url": "https://rivalskins.com/item/1770/daredevil-costume-shenloongs-creed/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/43/img_icon_shenloongs-creed.png"
+  },
+  "1055102": {
+    "name": "Twilight Aurora",
+    "character": "daredevil",
+    "url": "https://rivalskins.com/item/1771/daredevil-costume-aurora-twilight/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/43/img_icon_aurora-twilight.png"
+  },
+  "1055103": {
+    "name": "Will Of Galacta",
+    "character": "daredevil",
+    "url": "https://rivalskins.com/item/3105/daredevil-costume-will-of-galacta/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/43/img_icon_will-of-galacta.png"
+  },
+  "1055104": {
+    "name": "Ignite Daredevil (2026)",
+    "character": "daredevil",
+    "url": "https://rivalskins.com/item/3825/daredevil-costume-ignite-daredevil-2026/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/43/img_icon_ignite-daredevil-2026.png"
+  },
+  "1055300": {
+    "name": "Sonar Savior",
+    "character": "daredevil",
+    "url": "https://rivalskins.com/item/3560/daredevil-costume-sonar-savior/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/43/img_icon_sonar-savior.png"
+  },
+  "1055500": {
+    "name": "Devil 2099",
+    "character": "daredevil",
+    "url": "https://rivalskins.com/item/1713/daredevil-costume-devil-2099/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/43/img_icon_devil-2099.png"
+  },
+  "1055501": {
+    "name": "Not Daredevil",
+    "character": "daredevil",
+    "url": "https://rivalskins.com/item/2164/daredevil-costume-not-daredevil/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/43/img_icon_not-daredevil.png"
+  },
+  "1055502": {
+    "name": "Shadowed Start",
+    "character": "daredevil",
+    "url": "https://rivalskins.com/item/3354/daredevil-costume-shadowed-start/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/43/img_icon_shadowed-start.png"
+  },
+  "1055503": {
+    "name": "Attorney at Law",
+    "character": "daredevil",
+    "url": "https://rivalskins.com/item/4033/daredevil-costume-attorney-at-law/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/43/img_icon_attorney-at-law.png"
+  },
+  "1055800": {
+    "name": "Daredevil: Born Again Season 2",
+    "character": "daredevil",
+    "url": "https://rivalskins.com/item/2746/daredevil-costume-daredevil-born-again-season-2/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/43/img_icon_daredevil-born-again-season-2.png"
+  },
+  "1056001": {
+    "name": "Angela",
+    "character": "angela",
+    "url": "https://rivalskins.com/item/1598/angela-costume-angela/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/42/img_icon_angela.png"
+  },
+  "1056100": {
+    "name": "Cerulean Lightbringer",
+    "character": "angela",
+    "url": "https://rivalskins.com/item/1545/angela-costume-sirianas-silver/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/42/img_icon_sirianas-silver.png"
+  },
+  "1056101": {
+    "name": "Siriana'S Silver",
+    "character": "angela",
+    "url": "https://rivalskins.com/item/1546/angela-costume-divine-dragon-wing/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/42/img_icon_divine-dragon-wing.png"
+  },
+  "1056300": {
+    "name": "Ace Of Spades",
+    "character": "angela",
+    "url": "https://rivalskins.com/item/2565/angela-costume-ace-of-spades/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/42/img_icon_ace-of-spades.png"
+  },
+  "1056500": {
+    "name": "Skuld 2099",
+    "character": "angela",
+    "url": "https://rivalskins.com/item/1547/angela-costume-skuld-2099/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/42/img_icon_skuld-2099.png"
+  },
+  "1056501": {
+    "name": "Odin'S Beautiful Daughter",
+    "character": "angela",
+    "url": "https://rivalskins.com/item/1855/angela-costume-odins-beautiful-daughter/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/42/img_icon_odins-beautiful-daughter.png"
+  },
+  "1056502": {
+    "name": "Doom Angel",
+    "character": "angela",
+    "url": "https://rivalskins.com/item/2772/angela-costume-doom-angel/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/42/img_icon_doom-angel.png"
+  },
+  "1056503": {
+    "name": "Queen of Hel",
+    "character": "angela",
+    "url": "https://rivalskins.com/item/4043/angela-costume-queen-of-hel/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/42/img_icon_queen-of-hel.png"
+  },
+  "1057001": {
+    "name": "Deadpool",
+    "character": "deadpool",
+    "url": "https://rivalskins.com/item/2222/deadpool-costume-deadpool/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/46/img_icon_deadpool.png"
+  },
+  "1057100": {
+    "name": "X-Force?",
+    "character": "deadpool",
+    "url": "https://rivalskins.com/item/2223/deadpool-costume-x-force/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/46/img_icon_x-force.png"
+  },
+  "1057101": {
+    "name": "Workwear Woes",
+    "character": "deadpool",
+    "url": "https://rivalskins.com/item/2224/deadpool-costume-workwear-woes/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/46/img_icon_workwear-woes.png"
+  },
+  "1057102": {
+    "name": "Virtus.Pro (Ignite Series 2026)",
+    "character": "deadpool",
+    "url": "https://rivalskins.com/item/2878/deadpool-costume-virtuspro-ignite-series-2026/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/46/img_icon_virtuspro-ignite-series-2026.png"
+  },
+  "1057103": {
+    "name": "Nrg Shock (Ignite Series 2026)",
+    "character": "deadpool",
+    "url": "https://rivalskins.com/item/2879/deadpool-costume-nrg-shock-ignite-series-2026/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/46/img_icon_nrg-shock-ignite-series-2026.png"
+  },
+  "1057104": {
+    "name": "Spacestation Gaming (Ignite Series 2026)",
+    "character": "deadpool",
+    "url": "https://rivalskins.com/item/2880/deadpool-costume-spacestation-gaming-ignite-series-2026/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/46/img_icon_spacestation-gaming-ignite-series-2026.png"
+  },
+  "1057105": {
+    "name": "Navi (Ignite Series 2026)",
+    "character": "deadpool",
+    "url": "https://rivalskins.com/item/2881/deadpool-costume-navi-ignite-series-2026/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/46/img_icon_navi-ignite-series-2026.png"
+  },
+  "1057106": {
+    "name": "Tsm (Ignite Series 2026)",
+    "character": "deadpool",
+    "url": "https://rivalskins.com/item/2882/deadpool-costume-tsm-ignite-series-2026/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/46/img_icon_tsm-ignite-series-2026.png"
+  },
+  "1057107": {
+    "name": "Team Heretics (Ignite Series 2026)",
+    "character": "deadpool",
+    "url": "https://rivalskins.com/item/2883/deadpool-costume-team-heretics-ignite-series-2026/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/46/img_icon_team-heretics-ignite-series-2026.png"
+  },
+  "1057108": {
+    "name": "Reject (Ignite Series 2026)",
+    "character": "deadpool",
+    "url": "https://rivalskins.com/item/2884/deadpool-costume-reject-ignite-series-2026/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/46/img_icon_reject-ignite-series-2026.png"
+  },
+  "1057109": {
+    "name": "Sentinels (Ignite Series 2026)",
+    "character": "deadpool",
+    "url": "https://rivalskins.com/item/2885/deadpool-costume-sentinels-ignite-series-2026/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/46/img_icon_sentinels-ignite-series-2026.png"
+  },
+  "1057110": {
+    "name": "Gen.G (Ignite Series 2026)",
+    "character": "deadpool",
+    "url": "https://rivalskins.com/item/2886/deadpool-costume-geng-ignite-series-2026/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/46/img_icon_geng-ignite-series-2026.png"
+  },
+  "1057111": {
+    "name": "Liquid Citadel (Ignite Series 2026)",
+    "character": "deadpool",
+    "url": "https://rivalskins.com/item/2887/deadpool-costume-liquid-citadel-ignite-series-2026/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/46/img_icon_liquid-citadel-ignite-series-2026.png"
+  },
+  "1057112": {
+    "name": "Flyquest (Ignite Series 2026)",
+    "character": "deadpool",
+    "url": "https://rivalskins.com/item/2888/deadpool-costume-flyquest-ignite-series-2026/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/46/img_icon_flyquest-ignite-series-2026.png"
+  },
+  "1057113": {
+    "name": "100 Thieves (Ignite Series 2026)",
+    "character": "deadpool",
+    "url": "https://rivalskins.com/item/2889/deadpool-costume-100-thieves-ignite-series-2026/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/46/img_icon_100-thieves-ignite-series-2026.png"
+  },
+  "1057300": {
+    "name": "Captain Pool",
+    "character": "deadpool",
+    "url": "https://rivalskins.com/item/2225/deadpool-costume-captain-pool/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/46/img_icon_captain-pool.png"
+  },
+  "1057301": {
+    "name": "Monster King",
+    "character": "deadpool",
+    "url": "https://rivalskins.com/item/3231/deadpool-costume-monster-king/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/46/img_icon_monster-king.png"
+  },
+  "1057302": {
+    "name": "Dead Mummy",
+    "character": "deadpool",
+    "url": "https://rivalskins.com/item/3649/deadpool-costume-dead-mummy/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/46/img_icon_dead-mummy.png"
+  },
+  "1057500": {
+    "name": "Maid-Pool",
+    "character": "deadpool",
+    "url": "https://rivalskins.com/item/3018/deadpool-costume-maid-pool/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/46/img_icon_maid-pool.png"
+  },
+  "1057800": {
+    "name": "Wade Wilson: The Spirit Squad",
+    "character": "deadpool",
+    "url": "https://rivalskins.com/item/2773/deadpool-costume-wade-wilson-the-spirit-squad/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/46/img_icon_wade-wilson-the-spirit-squad.png"
+  },
+  "1058001": {
+    "name": "Gambit",
+    "character": "gambit",
+    "url": "https://rivalskins.com/item/1926/gambit-costume-gambit/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/44/img_icon_gambit.png"
+  },
+  "1058100": {
+    "name": "Crimson Heart",
+    "character": "gambit",
+    "url": "https://rivalskins.com/item/1927/gambit-costume-crimson-heart/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/44/img_icon_crimson-heart.png"
+  },
+  "1058101": {
+    "name": "Sacrificial Pawn",
+    "character": "gambit",
+    "url": "https://rivalskins.com/item/1856/gambit-costume-sacrificial-pawn/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/44/img_icon_sacrificial-pawn.png"
+  },
+  "1058102": {
+    "name": "Will Of Galacta",
+    "character": "gambit",
+    "url": "https://rivalskins.com/item/3109/gambit-costume-will-of-galacta/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/44/img_icon_will-of-galacta.png"
+  },
+  "1058300": {
+    "name": "Thieves Guildmaster",
+    "character": "gambit",
+    "url": "https://rivalskins.com/item/1915/gambit-costume-thieves-guildmaster/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/44/img_icon_thieves-guildmaster.png"
+  },
+  "1058302": {
+    "name": "Mr. X",
+    "character": "gambit",
+    "url": "https://rivalskins.com/item/2589/gambit-costume-mr-x/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/44/img_icon_mr-x.png"
+  },
+  "1058303": {
+    "name": "Alluring Ace",
+    "character": "gambit",
+    "url": "https://rivalskins.com/item/3121/gambit-costume-alluring-ace/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/44/img_icon_alluring-ace.png"
+  },
+  "1058304": {
+    "name": "Dead Man'S Hand",
+    "character": "gambit",
+    "url": "https://rivalskins.com/item/3716/gambit-costume-dead-mans-hand/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/44/img_icon_dead-mans-hand.png"
+  },
+  "1058500": {
+    "name": "Barrier Buster",
+    "character": "gambit",
+    "url": "https://rivalskins.com/item/3232/gambit-costume-barrier-buster/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/44/img_icon_barrier-buster.png"
+  },
+  "1059001": {
+    "name": "Elsa Bloodstone",
+    "character": "elsa-bloodstone",
+    "url": "https://rivalskins.com/item/2590/elsa-bloodstone-costume-elsa-bloodstone/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/47/img_icon_elsa-bloodstone.png"
+  },
+  "1059100": {
+    "name": "Apex Huntress",
+    "character": "elsa-bloodstone",
+    "url": "https://rivalskins.com/item/2591/elsa_bloodstone-costume-apex-huntress/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/47/img_icon_apex-huntress.png"
+  },
+  "1059101": {
+    "name": "Icy Edge",
+    "character": "elsa-bloodstone",
+    "url": "https://rivalskins.com/item/2592/elsa_bloodstone-costume-icy-edge/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/47/img_icon_icy-edge.png"
+  },
+  "1059102": {
+    "name": "Will Of Galacta",
+    "character": "elsa-bloodstone",
+    "url": "https://rivalskins.com/item/3879/elsa_bloodstone-costume-will-of-galacta/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/47/img_icon_will-of-galacta.png"
+  },
+  "1059300": {
+    "name": "Young Blood",
+    "character": "elsa-bloodstone",
+    "url": "https://rivalskins.com/item/2593/elsa_bloodstone-costume-young-blood/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/47/img_icon_young-blood.png"
+  },
+  "1059500": {
+    "name": "Bloody Butler",
+    "character": "elsa-bloodstone",
+    "url": "https://rivalskins.com/item/3182/elsa_bloodstone-costume-bloody-bloodstone/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/47/img_icon_bloody-bloodstone.png"
+  },
+  "1059503": {
+    "name": "Primal Predator",
+    "character": "elsa-bloodstone",
+    "url": "https://rivalskins.com/item/3652/elsa_bloodstone-costume-primal-predator/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/47/img_icon_primal-predator.png"
+  },
+  "1060001": {
+    "name": "White Fox",
+    "character": "white-fox",
+    "url": "https://rivalskins.com/item/2774/white-fox-costume-white-fox/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/48/img_icon_white-fox.png"
+  },
+  "1060100": {
+    "name": "Rosy Recon",
+    "character": "white-fox",
+    "url": "https://rivalskins.com/item/2775/white-fox-costume-rosy-recon/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/48/img_icon_rosy-recon.png"
+  },
+  "1060101": {
+    "name": "Secret Agent",
+    "character": "white-fox",
+    "url": "https://rivalskins.com/item/2776/white-fox-costume-secret-agent/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/48/img_icon_secret-agent.png"
+  },
+  "1060500": {
+    "name": "Yoon Ji-Woo: The Leader",
+    "character": "white-fox",
+    "url": "https://rivalskins.com/item/2777/white-fox-costume-yoon-ji-woo-the-leader/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/48/img_icon_yoon-ji-woo-the-leader.png"
+  },
+  "1060501": {
+    "name": "Coastal Kumiho",
+    "character": "white-fox",
+    "url": "https://rivalskins.com/item/3588/white-fox-costume-coastal-kumiho/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/48/img_icon_coastal-kumiho.png"
+  },
+  "1061001": {
+    "name": "Black Cat",
+    "character": "black-cat",
+    "url": "https://rivalskins.com/item/3046/black-cat-costume-black-cat/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/49/img_icon_black-cat.png"
+  },
+  "1061100": {
+    "name": "Gilded Shadow",
+    "character": "black-cat",
+    "url": "https://rivalskins.com/item/3047/black-cat-costume-gilded-shadow/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/49/img_icon_gilded-shadow.png"
+  },
+  "1061101": {
+    "name": "Beguiling Blue",
+    "character": "black-cat",
+    "url": "https://rivalskins.com/item/3048/black-cat-costume-beguiling-blue/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/49/img_icon_beguiling-blue.png"
+  },
+  "1061300": {
+    "name": "Urban Predator",
+    "character": "black-cat",
+    "url": "https://rivalskins.com/item/3049/black-cat-costume-urban-predator/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/49/img_icon_urban-predator.png"
+  },
+  "1061500": {
+    "name": "Wild Card",
+    "character": "black-cat",
+    "url": "https://rivalskins.com/item/3386/black-cat-costume-wild-card/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/49/img_icon_wild-card.png"
+  },
+  "1061501": {
+    "name": "Coastal Cat",
+    "character": "black-cat",
+    "url": "https://rivalskins.com/item/3957/black-cat-costume-coastal-cat/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/49/img_icon_coastal-cat.png"
+  },
+  "1062001": {
+    "name": "Devil Dinosaur",
+    "character": "devil-dinosaur",
+    "url": "https://rivalskins.com/item/3233/devil-dinosaur-costume-devil-dinosaur/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/50/img_icon_devil-dinosaur.png"
+  },
+  "1062100": {
+    "name": "Tropical Beast",
+    "character": "devil-dinosaur",
+    "url": "https://rivalskins.com/item/3234/devil-dinosaur-costume-tropical-beast/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/50/img_icon_tropical-beast.png"
+  },
+  "1062101": {
+    "name": "Corporate Cruncher",
+    "character": "devil-dinosaur",
+    "url": "https://rivalskins.com/item/3235/devil-dinosaur-costume-corporate-cruncher/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/50/img_icon_corporate-cruncher.png"
+  },
+  "1062500": {
+    "name": "Chrono-Armor",
+    "character": "devil-dinosaur",
+    "url": "https://rivalskins.com/item/3236/devil-dinosaur-costume-chrono-armor/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/50/img_icon_chrono-armor.png"
+  },
+  "1062501": {
+    "name": "Jeff The Dinosaur",
+    "character": "devil-dinosaur",
+    "url": "https://rivalskins.com/item/3717/devil-dinosaur-costume-jeff-the-dinosaur/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/50/img_icon_jeff-the-dinosaur.png"
+  },
+  "1063001": {
+    "name": "Cyclops",
+    "character": "cyclops",
+    "url": "https://rivalskins.com/item/3423/cyclops-costume-cyclops/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/51/img_icon_cyclops.png"
+  },
+  "1063100": {
+    "name": "Shadowed Gaze",
+    "character": "cyclops",
+    "url": "https://rivalskins.com/item/3424/cyclops-costume-shadowed-gaze/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/51/img_icon_shadowed-gaze.png"
+  },
+  "1063101": {
+    "name": "Futuristic Focus",
+    "character": "cyclops",
+    "url": "https://rivalskins.com/item/3425/cyclops-costume-futuristic-focus/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/51/img_icon_futuristic-focus.png"
+  },
+  "1063300": {
+    "name": "Elegant Eye",
+    "character": "cyclops",
+    "url": "https://rivalskins.com/item/4028/cyclops-costume-elegant-eye/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/51/img_icon_elegant-eye.png"
+  },
+  "1063500": {
+    "name": "Weapon M",
+    "character": "cyclops",
+    "url": "https://rivalskins.com/item/3426/cyclops-costume-weapon-m/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/51/img_icon_weapon-m.png"
+  },
+  "1064001": {
+    "name": "Jubilee",
+    "character": "jubilee",
+    "url": "https://rivalskins.com/item/3655/jubilee-costume-jubilee/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/52/img_icon_jubilee.png"
+  },
+  "1064100": {
+    "name": "Cool Combustion",
+    "character": "jubilee",
+    "url": "https://rivalskins.com/item/3658/jubilee-costume-cool-combustion/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/52/img_icon_cool-combustion.png"
+  },
+  "1064101": {
+    "name": "Crimson Crown",
+    "character": "jubilee",
+    "url": "https://rivalskins.com/item/3659/jubilee-costume-crimson-crown/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/52/img_icon_crimson-crown.png"
+  },
+  "1064500": {
+    "name": "Midnight Mutant",
+    "character": "jubilee",
+    "url": "https://rivalskins.com/item/3660/jubilee-costume-midnight-mutant/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/52/img_icon_midnight-mutant.png"
+  },
+  "1065001": {
+    "name": "Rogue",
+    "character": "rogue",
+    "url": "https://rivalskins.com/item/2061/rogue-costume-rogue/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/45/img_icon_rogue.png"
+  },
+  "1065100": {
+    "name": "Queen's Defense",
+    "character": "rogue",
+    "url": "https://rivalskins.com/item/2062/rogue-costume-queens-defense/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/45/img_icon_queens-defense.png"
+  },
+  "1065101": {
+    "name": "Searing Heart",
+    "character": "rogue",
+    "url": "https://rivalskins.com/item/2111/rogue-costume-searing-spellstripe/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/45/img_icon_searing-spellstripe.png"
+  },
+  "1065102": {
+    "name": "Will Of Galacta",
+    "character": "rogue",
+    "url": "https://rivalskins.com/item/3237/rogue-costume-will-of-galacta/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/45/img_icon_will-of-galacta.png"
+  },
+  "1065300": {
+    "name": "Savage South",
+    "character": "rogue",
+    "url": "https://rivalskins.com/item/2063/rogue-costume-rogue-redux/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/45/img_icon_rogue-redux.png"
+  },
+  "1065301": {
+    "name": "Mrs. X",
+    "character": "rogue",
+    "url": "https://rivalskins.com/item/2594/rogue-costume-mrs-x/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/45/img_icon_mrs-x.png"
+  },
+  "1065500": {
+    "name": "Starlit Rebel",
+    "character": "rogue",
+    "url": "https://rivalskins.com/item/3238/rogue-costume-starlit-rebel/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/45/img_icon_starlit-rebel.png"
+  },
+  "1065501": {
+    "name": "Raider Prime",
+    "character": "rogue",
+    "url": "https://rivalskins.com/item/3663/rogue-costume-raider-prime/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/45/img_icon_raider-prime.png"
+  },
+  "1066001": {
+    "name": "The Hood",
+    "character": "the-hood",
+    "url": "https://rivalskins.com/item/3880/the-hood-costume-the-hood/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/53/img_icon_the-hood.png"
+  },
+  "1066100": {
+    "name": "Oblivion'S Whisper",
+    "character": "the-hood",
+    "url": "https://rivalskins.com/item/3881/the-hood-costume-oblivions-whisper/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/53/img_icon_oblivions-whisper.png"
+  },
+  "1066101": {
+    "name": "Sapphire Sands",
+    "character": "the-hood",
+    "url": "https://rivalskins.com/item/3882/the-hood-costume-sapphire-sands/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/53/img_icon_sapphire-sands.png"
+  },
+  "1066500": {
+    "name": "Sinful Blackout",
+    "character": "the-hood",
+    "url": "https://rivalskins.com/item/3883/the-hood-costume-sinful-blackout/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/53/img_icon_sinful-blackout.png"
+  },
+  "ps1014504": {
+    "name": "Emerald Executioner",
+    "character": "the-punisher",
+    "url": "https://rivalskins.com/item/1658/the-punisher-costume-emerald-executioner/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/20/img_icon_emerald-executioner.png"
+  },
+  "ps1014505": {
+    "name": "Amber Annihilator",
+    "character": "the-punisher",
+    "url": "https://rivalskins.com/item/1659/the-punisher-costume-amber-annihilator/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/20/img_icon_amber-annihilator.png"
+  },
+  "ps1015804": {
+    "name": "Crimson Clouds",
+    "character": "storm",
+    "url": "https://rivalskins.com/item/4012/storm-costume-crimson-clouds/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/25/img_icon_crimson-clouds.png"
+  },
+  "ps1016303": {
+    "name": "Tidal Trickery",
+    "character": "loki",
+    "url": "https://rivalskins.com/item/1373/loki-costume-tidal-trickery/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/11/img_icon_tidal-trickery.png"
+  },
+  "ps1016505": {
+    "name": "Sunlit Sovereign",
+    "character": "loki",
+    "url": "https://rivalskins.com/item/3601/loki-costume-sunlit-sovereign/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/11/img_icon_sunlit-sovereign.png"
+  },
+  "ps1016506": {
+    "name": "Sapphire Sorceress",
+    "character": "loki",
+    "url": "https://rivalskins.com/item/3602/loki-costume-sapphire-sorceress/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/11/img_icon_sapphire-sorceress.png"
+  },
+  "ps1016802": {
+    "name": "Twilight Aurora",
+    "character": "loki",
+    "url": "https://rivalskins.com/item/3183/loki-costume-twilight-aurora/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/11/img_icon_twilight-aurora.png"
+  },
+  "ps1017504": {
+    "name": "Indigo Inferno",
+    "character": "human-torch",
+    "url": "https://rivalskins.com/item/1660/human-torch-costume-indigo-inferno/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/37/img_icon_indigo-inferno.png"
+  },
+  "ps1018307": {
+    "name": "Crimson Conjurer",
+    "character": "doctor-strange",
+    "url": "https://rivalskins.com/item/3478/doctor-strange-costume-crimson-conjurer/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/4/img_icon_crimson-conjurer.png"
+  },
+  "ps1018308": {
+    "name": "Magical Mint",
+    "character": "doctor-strange",
+    "url": "https://rivalskins.com/item/3479/doctor-strange-costume-magical-mint/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/4/img_icon_magical-mint.png"
+  },
+  "ps1020303": {
+    "name": "Blue Breeze",
+    "character": "mantis",
+    "url": "https://rivalskins.com/item/1661/mantis-costume-blue-breeze/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/15/img_icon_blue-breeze.png"
+  },
+  "ps1020304": {
+    "name": "Citrus Sunrise",
+    "character": "mantis",
+    "url": "https://rivalskins.com/item/1662/mantis-costume-citrus-sunrise/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/15/img_icon_citrus-sunrise.png"
+  },
+  "ps1021303": {
+    "name": "Teal Trend",
+    "character": "hawkeye",
+    "url": "https://rivalskins.com/item/3718/hawkeye-costume-teal-trend/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/6/img_icon_teal-trend.png"
+  },
+  "ps1021304": {
+    "name": "Dazzling Drip",
+    "character": "hawkeye",
+    "url": "https://rivalskins.com/item/3719/hawkeye-costume-dazzling-drip/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/6/img_icon_dazzling-drip.png"
+  },
+  "ps1023303": {
+    "name": "Radiant Reef",
+    "character": "rocket-raccoon",
+    "url": "https://rivalskins.com/item/1311/rocket-raccoon-costume-radiant-reef/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/21/img_icon_radiant-reef.png"
+  },
+  "ps1023304": {
+    "name": "Bluebell Breeze",
+    "character": "rocket-raccoon",
+    "url": "https://rivalskins.com/item/1312/rocket-raccoon-costume-bluebell-breeze/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/21/img_icon_bluebell-breeze.png"
+  },
+  "ps1024309": {
+    "name": "Ruby Revolt",
+    "character": "hela",
+    "url": "https://rivalskins.com/item/2778/hela-costume-ruby-revolt/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/7/img_icon_ruby-revolt.png"
+  },
+  "ps1024310": {
+    "name": "Violet Violence",
+    "character": "hela",
+    "url": "https://rivalskins.com/item/2779/hela-costume-violet-violence/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/7/img_icon_violet-violence.png"
+  },
+  "ps1024501": {
+    "name": "Midnight Moon",
+    "character": "hela",
+    "url": "https://rivalskins.com/item/3823/hela-costume-midnight-moon/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/7/img_icon_midnight-moon.png"
+  },
+  "ps1024502": {
+    "name": "Sapphire Shadow",
+    "character": "hela",
+    "url": "https://rivalskins.com/item/3824/hela-costume-sapphire-shadow/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/7/img_icon_sapphire-shadow.png"
+  },
+  "ps1025306": {
+    "name": "Darkened Day",
+    "character": "cloak-and-dagger",
+    "url": "https://rivalskins.com/item/2890/cloak-and-dagger-costume-darkened-day/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/30/img_icon_darkened-day.png"
+  },
+  "ps1025307": {
+    "name": "Twisted Thorns",
+    "character": "cloak-and-dagger",
+    "url": "https://rivalskins.com/item/2891/cloak-and-dagger-costume-twisted-thorns/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/30/img_icon_twisted-thorns.png"
+  },
+  "ps1025308": {
+    "name": "Sapphire Splash",
+    "character": "cloak-and-dagger",
+    "url": "https://rivalskins.com/item/3480/cloak-and-dagger-costume-sapphire-splash/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/30/img_icon_sapphire-splash.png"
+  },
+  "ps1025309": {
+    "name": "Sunset Shores",
+    "character": "cloak-and-dagger",
+    "url": "https://rivalskins.com/item/3481/cloak-and-dagger-costume-sunset-shores/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/30/img_icon_sunset-shores.png"
+  },
+  "ps1029302": {
+    "name": "Rosy Resilience",
+    "character": "magik",
+    "url": "https://rivalskins.com/item/970/magik-costume-rosy-resilience/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/13/img_icon_rosy-resilience.png"
+  },
+  "ps1029306": {
+    "name": "Green Glow",
+    "character": "magik",
+    "url": "https://rivalskins.com/item/3427/magik-costume-green-glow/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/13/img_icon_green-glow.png"
+  },
+  "ps1029307": {
+    "name": "Neon Nemesis",
+    "character": "magik",
+    "url": "https://rivalskins.com/item/3428/magik-costume-neon-nemesis/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/13/img_icon_neon-nemesis.png"
+  },
+  "ps1029505": {
+    "name": "Lavender Limbo",
+    "character": "magik",
+    "url": "https://rivalskins.com/item/2892/magik-costume-lavender-limbo/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/13/img_icon_lavender-limbo.png"
+  },
+  "ps1029506": {
+    "name": "Blue Blitz",
+    "character": "magik",
+    "url": "https://rivalskins.com/item/2893/magik-costume-blue-blitz/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/13/img_icon_blue-blitz.png"
+  },
+  "ps1029507": {
+    "name": "Blue Breaker",
+    "character": "magik",
+    "url": "https://rivalskins.com/item/3965/magik-costume-blue-breaker/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/13/img_icon_blue-breaker.png"
+  },
+  "ps1029508": {
+    "name": "Sunset Surf",
+    "character": "magik",
+    "url": "https://rivalskins.com/item/4011/magik-costume-sunset-surf/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/13/img_icon_sunset-surf.png"
+  },
+  "ps1031304": {
+    "name": "Plasma Pulse",
+    "character": "luna-snow",
+    "url": "https://rivalskins.com/item/971/luna-snow-costume-plasma-pulse/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/12/img_icon_plasma-pulse.png"
+  },
+  "ps1031306": {
+    "name": "Radiant Radiance",
+    "character": "luna-snow",
+    "url": "https://rivalskins.com/item/1374/luna-snow-costume-radiant-radiance/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/12/img_icon_radiant-radiance.png"
+  },
+  "ps1031307": {
+    "name": "Prismatic Pulse",
+    "character": "luna-snow",
+    "url": "https://rivalskins.com/item/1375/luna-snow-costume-prismatic-pulse/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/12/img_icon_prismatic-pulse.png"
+  },
+  "ps1031310": {
+    "name": "Blueberry Ice",
+    "character": "luna-snow",
+    "url": "https://rivalskins.com/item/2031/luna-snow-costume-blueberry-ice/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/12/img_icon_blueberry-ice.png"
+  },
+  "ps1031311": {
+    "name": "Fruit Cake Flurry",
+    "character": "luna-snow",
+    "url": "https://rivalskins.com/item/2032/luna-snow-costume-fruit-cake-flurry/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/12/img_icon_fruit-cake-flurry.png"
+  },
+  "ps1031314": {
+    "name": "Night Nebula",
+    "character": "luna-snow",
+    "url": "https://rivalskins.com/item/2520/luna-snow-costume-night-nebula/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/12/img_icon_night-nebula.png"
+  },
+  "ps1031315": {
+    "name": "Jade Jewel",
+    "character": "luna-snow",
+    "url": "https://rivalskins.com/item/2519/luna-snow-costume-jade-jewel/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/12/img_icon_jade-jewel.png"
+  },
+  "ps1031317": {
+    "name": "Purple Pulse",
+    "character": "luna-snow",
+    "url": "https://rivalskins.com/item/3370/luna-snow-costume-purple-pulse/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/12/img_icon_purple-pulse.png"
+  },
+  "ps1031318": {
+    "name": "Citrus Spark",
+    "character": "luna-snow",
+    "url": "https://rivalskins.com/item/3383/luna-snow-costume-citrus-spark/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/12/img_icon_citrus-spark.png"
+  },
+  "ps1033505": {
+    "name": "Golden Gossamer",
+    "character": "black-widow",
+    "url": "https://rivalskins.com/item/3582/black-widow-costume-golden-gossamer/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/29/img_icon_golden-gossamer.png"
+  },
+  "ps1033506": {
+    "name": "Toxic Trace",
+    "character": "black-widow",
+    "url": "https://rivalskins.com/item/3558/black-widow-costume-toxic-trace/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/29/img_icon_toxic-trace.png"
+  },
+  "ps1035304": {
+    "name": "Phage Palette",
+    "character": "venom",
+    "url": "https://rivalskins.com/item/1970/venom-costume-phage-palette/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/27/img_icon_phage-palette.png"
+  },
+  "ps1035305": {
+    "name": "Frosted Agony",
+    "character": "venom",
+    "url": "https://rivalskins.com/item/1971/venom-costume-frosted-agony/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/27/img_icon_frosted-agony.png"
+  },
+  "ps1038302": {
+    "name": "Majestic Mauve",
+    "character": "scarlet-witch",
+    "url": "https://rivalskins.com/item/1305/scarlet-witch-costume-majestic-mauve/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/22/img_icon_majestic-mauve.png"
+  },
+  "ps1038303": {
+    "name": "Neon Nimbus",
+    "character": "scarlet-witch",
+    "url": "https://rivalskins.com/item/1306/scarlet-witch-costume-neon-nimbus/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/22/img_icon_neon-nimbus.png"
+  },
+  "ps1038305": {
+    "name": "Frostbitten Witch",
+    "character": "scarlet-witch",
+    "url": "https://rivalskins.com/item/2701/scarlet-witch-costume-frostbitten-witch/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/22/img_icon_frostbitten-witch.png"
+  },
+  "ps1038306": {
+    "name": "Deep Green Magic",
+    "character": "scarlet-witch",
+    "url": "https://rivalskins.com/item/2702/scarlet-witch-costume-deep-green-magic/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/22/img_icon_deep-green-magic.png"
+  },
+  "ps1038504": {
+    "name": "Pitch Petal",
+    "character": "scarlet-witch",
+    "url": "https://rivalskins.com/item/3967/scarlet-witch-costume-pitch-petal/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/22/img_icon_pitch-petal.png"
+  },
+  "ps1038505": {
+    "name": "Purple Petal",
+    "character": "scarlet-witch",
+    "url": "https://rivalskins.com/item/3972/scarlet-witch-costume-purple-petal/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/22/img_icon_purple-petal.png"
+  },
+  "ps1039302": {
+    "name": "Azure Skies",
+    "character": "thor",
+    "url": "https://rivalskins.com/item/1376/thor-costume-azure-skies/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/26/img_icon_azure-skies.png"
+  },
+  "ps1039507": {
+    "name": "Shadow Shock",
+    "character": "thor",
+    "url": "https://rivalskins.com/item/2516/thor-costume-shadow-shock/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/26/img_icon_shadow-shock.png"
+  },
+  "ps1039508": {
+    "name": "Purple Pulse",
+    "character": "thor",
+    "url": "https://rivalskins.com/item/2517/thor-costume-purple-pulse/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/26/img_icon_purple-pulse.png"
+  },
+  "ps1040502": {
+    "name": "Future Foundation",
+    "character": "mister-fantastic",
+    "url": "https://rivalskins.com/item/1161/mister-fantastic-costume-future-foundation/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/35/img_future-foundation.png"
+  },
+  "ps1041102": {
+    "name": "Ruby Ranger",
+    "character": "winter-soldier",
+    "url": "https://rivalskins.com/item/3225/winter-soldier-costume-ruby-ranger/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/28/img_icon_ruby-ranger.png"
+  },
+  "ps1041103": {
+    "name": "Tawny Tracker",
+    "character": "winter-soldier",
+    "url": "https://rivalskins.com/item/3224/winter-soldier-costume-tawny-tracker/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/28/img_icon_tawny-tracker.png"
+  },
+  "ps1041302": {
+    "name": "Winter's Wrath",
+    "character": "winter-soldier",
+    "url": "https://rivalskins.com/item/972/winter-soldier-costume-winters-wrath/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/28/img_icon_winters-wrath.png"
+  },
+  "ps1041305": {
+    "name": "Chill Current",
+    "character": "winter-soldier",
+    "url": "https://rivalskins.com/item/3966/winter-soldier-costume-chill-current/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/28/img_icon_chill-current.png"
+  },
+  "ps1042304": {
+    "name": "Skeleton",
+    "character": "peni-parker",
+    "url": "https://rivalskins.com/item/1844/peni-parker-costume-skeleton/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/18/img_icon_skeleton.png"
+  },
+  "ps1042308": {
+    "name": "Toxic Tint",
+    "character": "peni-parker",
+    "url": "https://rivalskins.com/item/2780/peni-parker-costume-toxic-tint/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/18/img_icon_toxic-tint.png"
+  },
+  "ps1042309": {
+    "name": "Cerulean Corruption",
+    "character": "peni-parker",
+    "url": "https://rivalskins.com/item/2781/peni-parker-costume-cerulean-corruption/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/18/img_icon_cerulean-corruption.png"
+  },
+  "ps1042501": {
+    "name": "Berry Blast",
+    "character": "peni-parker",
+    "url": "https://rivalskins.com/item/3382/peni-parker-costume-berry-blast/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/18/img_icon_berry-blast.png"
+  },
+  "ps1042502": {
+    "name": "Frosty Fall",
+    "character": "peni-parker",
+    "url": "https://rivalskins.com/item/3369/peni-parker-costume-frosty-fall/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/18/img_icon_frosty-fall.png"
+  },
+  "ps1043305": {
+    "name": "Stellar Splash",
+    "character": "star-lord",
+    "url": "https://rivalskins.com/item/3970/star-lord-costume-stellar-splash/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/24/img_icon_stellar-splash.png"
+  },
+  "ps1047303": {
+    "name": "Verdant Vortex",
+    "character": "jeff-the-land-shark",
+    "url": "https://rivalskins.com/item/1309/jeff-the-land-shark-costume-verdant-vortex/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/10/img_icon_verdant-vortex.png"
+  },
+  "ps1047304": {
+    "name": "Blue Barrage",
+    "character": "jeff-the-land-shark",
+    "url": "https://rivalskins.com/item/1310/jeff-the-land-shark-costume-blue-barrage/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/10/img_icon_blue-barrage.png"
+  },
+  "ps1047305": {
+    "name": "Powder Pink",
+    "character": "jeff-the-land-shark",
+    "url": "https://rivalskins.com/item/2115/jeff-the-land-shark-costume-powder-pink/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/10/img_icon_powder-pink.png"
+  },
+  "ps1047306": {
+    "name": "Blue Blizzard",
+    "character": "jeff-the-land-shark",
+    "url": "https://rivalskins.com/item/2116/jeff-the-land-shark-costume-blue-blizzard/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/10/img_icon_blue-blizzard.png"
+  },
+  "ps1047310": {
+    "name": "White Waddle",
+    "character": "jeff-the-land-shark",
+    "url": "https://rivalskins.com/item/2595/jeff-the-land-shark-costume-white-waddle/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/10/img_icon_white-waddle.png"
+  },
+  "ps1047311": {
+    "name": "Green Bill",
+    "character": "jeff-the-land-shark",
+    "url": "https://rivalskins.com/item/2596/jeff-the-land-shark-costume-green-bill/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/10/img_icon_green-bill.png"
+  },
+  "ps1047312": {
+    "name": "Magma Menace",
+    "character": "jeff-the-land-shark",
+    "url": "https://rivalskins.com/item/3239/jeff-the-land-shark-costume-magma-menace/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/10/img_icon_magma-menace.png"
+  },
+  "ps1047313": {
+    "name": "Rosy Ruin",
+    "character": "jeff-the-land-shark",
+    "url": "https://rivalskins.com/item/3240/jeff-the-land-shark-costume-rosy-ruin/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/10/img_icon_rosy-ruin.png"
+  },
+  "ps1048305": {
+    "name": "Orange Edge",
+    "character": "psylocke",
+    "url": "https://rivalskins.com/item/1772/psylocke-costume-orange-edge/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/19/img_icon_orange-edge.png"
+  },
+  "ps1048306": {
+    "name": "Blue Bolt",
+    "character": "psylocke",
+    "url": "https://rivalskins.com/item/1773/psylocke-costume-blue-bolt/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/19/img_icon_blue-bolt.png"
+  },
+  "ps1048307": {
+    "name": "Matcha Mirage",
+    "character": "psylocke",
+    "url": "https://rivalskins.com/item/2033/psylocke-costume-matcha-mirage/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/19/img_icon_matcha-mirage.png"
+  },
+  "ps1048308": {
+    "name": "Grape Wagashi",
+    "character": "psylocke",
+    "url": "https://rivalskins.com/item/2034/psylocke-costume-grape-wagashi/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/19/img_icon_grape-wagashi.png"
+  },
+  "ps1048311": {
+    "name": "Twilight Tones",
+    "character": "psylocke",
+    "url": "https://rivalskins.com/item/2555/psylocke-costume-twilight-tones/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/19/img_icon_twilight-tones.png"
+  },
+  "ps1048312": {
+    "name": "Amethyst Aura",
+    "character": "psylocke",
+    "url": "https://rivalskins.com/item/2556/psylocke-costume-amethyst-aura/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/19/img_icon_amethyst-aura.png"
+  },
+  "ps1048313": {
+    "name": "Sporty Tea",
+    "character": "psylocke",
+    "url": "https://rivalskins.com/item/3050/psylocke-costume-sporty-tea/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/19/img_icon_sporty-tea.png"
+  },
+  "ps1048314": {
+    "name": "Cobalt Charm",
+    "character": "psylocke",
+    "url": "https://rivalskins.com/item/3051/psylocke-costume-cobalt-charm/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/19/img_icon_cobalt-charm.png"
+  },
+  "ps1048503": {
+    "name": "Phantom Purple",
+    "character": "psylocke",
+    "url": "https://rivalskins.com/item/973/psylocke-costume-phantom-purple/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/19/img_icon_phantom-purple.png"
+  },
+  "ps1048504": {
+    "name": "Violet Veil",
+    "character": "psylocke",
+    "url": "https://rivalskins.com/item/1377/psylocke-costume-violet-veil/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/19/img_icon_violet-veil.png"
+  },
+  "ps1048505": {
+    "name": "Moonlit Mirage",
+    "character": "psylocke",
+    "url": "https://rivalskins.com/item/1378/psylocke-costume-moonlit-mirage/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/19/img_icon_moonlit-mirage.png"
+  },
+  "ps1050303": {
+    "name": "Mango Magic",
+    "character": "invisible-woman",
+    "url": "https://rivalskins.com/item/1972/invisible-woman-costume-mango-magic/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/34/img_icon_mango-magic.png"
+  },
+  "ps1050304": {
+    "name": "Alluring Apple",
+    "character": "invisible-woman",
+    "url": "https://rivalskins.com/item/1973/invisible-woman-costume-alluring-apple/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/34/img_icon_alluring-apple.png"
+  },
+  "ps1050306": {
+    "name": "Pine Opposition",
+    "character": "invisible-woman",
+    "url": "https://rivalskins.com/item/3014/invisible-woman-costume-pine-opposition/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/34/img_icon_pine-opposition.png"
+  },
+  "ps1050307": {
+    "name": "Royal Blue Rebuttal",
+    "character": "invisible-woman",
+    "url": "https://rivalskins.com/item/3015/invisible-woman-costume-royal-blue-rebuttal/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/34/img_icon_royal-blue-rebuttal.png"
+  },
+  "ps1050308": {
+    "name": "Radiant Ray",
+    "character": "invisible-woman",
+    "url": "https://rivalskins.com/item/2227/invisible-woman-costume-radiant-ray/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/34/img_icon_radiant-ray.png"
+  },
+  "ps1050309": {
+    "name": "Vivid Vibe",
+    "character": "invisible-woman",
+    "url": "https://rivalskins.com/item/2226/invisible-woman-costume-vivid-vibe/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/34/img_icon_vivid-vibe.png"
+  },
+  "ps1050311": {
+    "name": "Pretty In Pink",
+    "character": "invisible-woman",
+    "url": "https://rivalskins.com/item/3720/invisible-woman-costume-pretty-in-pink/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/34/img_icon_pretty-in-pink.png"
+  },
+  "ps1050312": {
+    "name": "Classic Contrast",
+    "character": "invisible-woman",
+    "url": "https://rivalskins.com/item/3721/invisible-woman-costume-classic-contrast/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/34/img_icon_classic-contrast.png"
+  },
+  "ps1050504": {
+    "name": "Midnight Majesty",
+    "character": "invisible-woman",
+    "url": "https://rivalskins.com/item/1308/invisible-woman-costume-midnight-majesty/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/34/img_icon_midnight-majesty.png"
+  },
+  "ps1050505": {
+    "name": "Dune Daisy",
+    "character": "invisible-woman",
+    "url": "https://rivalskins.com/item/1307/invisible-woman-costume-dune-daisy/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/34/img_icon_dune-daisy.png"
+  },
+  "ps1050506": {
+    "name": "Lush Luminance",
+    "character": "invisible-woman",
+    "url": "https://rivalskins.com/item/1663/invisible-woman-costume-lush-luminance/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/34/img_icon_lush-luminance.png"
+  },
+  "ps1050507": {
+    "name": "Tangerine Tint",
+    "character": "invisible-woman",
+    "url": "https://rivalskins.com/item/1664/invisible-woman-costume-tangerine-tint/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/34/img_icon_tangerine-tint.png"
+  },
+  "ps1051302": {
+    "name": "Verdant Vanguard",
+    "character": "the-thing",
+    "url": "https://rivalskins.com/item/1665/the-thing-costume-verdant-vanguard/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/36/img_icon_verdant-vanguard.png"
+  },
+  "ps1052304": {
+    "name": "Savage Spirit",
+    "character": "iron-fist",
+    "url": "https://rivalskins.com/item/2597/iron-fist-costume-savage-spirit/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/31/img_icon_savage-spirit.png"
+  },
+  "ps1052305": {
+    "name": "Lively Lion",
+    "character": "iron-fist",
+    "url": "https://rivalskins.com/item/2598/iron-fist-costume-lively-lion/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/31/img_icon_lively-lion.png"
+  },
+  "ps1052308": {
+    "name": "Cobalt Cruiser",
+    "character": "iron-fist",
+    "url": "https://rivalskins.com/item/3884/iron-fist-costume-cobalt-cruiser/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/31/img_icon_cobalt-cruiser.png"
+  },
+  "ps1052309": {
+    "name": "Blackened Rage",
+    "character": "iron-fist",
+    "url": "https://rivalskins.com/item/3885/iron-fist-costume-blackened-rage/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/31/img_icon_blackened-rage.png"
+  },
+  "ps1052310": {
+    "name": "Shou-Lao'S Champion",
+    "character": "iron-fist",
+    "url": "https://rivalskins.com/item/3482/iron-fist-costume-shou-laos-champion/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/31/img_icon_shou-laos-champion.png"
+  },
+  "ps1053305": {
+    "name": "Caviar Black",
+    "character": "emma-frost",
+    "url": "https://rivalskins.com/item/3483/emma-frost-costume-caviar-black/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/38/img_icon_caviar-black.png"
+  },
+  "ps1053306": {
+    "name": "Ravishing Red",
+    "character": "emma-frost",
+    "url": "https://rivalskins.com/item/3484/emma-frost-costume-ravishing-red/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/38/img_icon_ravishing-red.png"
+  },
+  "ps1057501": {
+    "name": "Yapping Yolk",
+    "character": "deadpool",
+    "url": "https://rivalskins.com/item/3039/deadpool-costume-yapping-yolk/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/46/img_icon_yapping-yolk.png"
+  },
+  "ps1057502": {
+    "name": "Poppin' Peach",
+    "character": "deadpool",
+    "url": "https://rivalskins.com/item/3040/deadpool-costume-poppin-peach/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/46/img_icon_poppin-peach.png"
+  },
+  "ps1059301": {
+    "name": "Jade Jaguar",
+    "character": "elsa-bloodstone",
+    "url": "https://rivalskins.com/item/3710/elsa_bloodstone-costume-jade-jaguar/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/47/img_icon_.png"
+  },
+  "ps1059302": {
+    "name": "Silver Stalker",
+    "character": "elsa-bloodstone",
+    "url": "https://rivalskins.com/item/3711/elsa_bloodstone-costume-silver-stalker/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/47/img_icon_-2.png"
+  },
+  "ps1059501": {
+    "name": "Marine Maid",
+    "character": "elsa-bloodstone",
+    "url": "https://rivalskins.com/item/3184/elsa_bloodstone-costume-marine-maid/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/47/img_icon_marine-maid.png"
+  },
+  "ps1059502": {
+    "name": "Pastel Polisher",
+    "character": "elsa-bloodstone",
+    "url": "https://rivalskins.com/item/3185/elsa_bloodstone-costume-pastel-polisher/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/47/img_icon_pastel-polisher.png"
+  },
+  "ps1060300": {
+    "name": "Magical Mint",
+    "character": "white-fox",
+    "url": "https://rivalskins.com/item/3599/white-fox-costume-magical-mint/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/48/img_icon_magical-mint.png"
+  },
+  "ps1060301": {
+    "name": "Pink Paws",
+    "character": "white-fox",
+    "url": "https://rivalskins.com/item/3600/white-fox-costume-pink-paws/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/48/img_icon_pink-paws.png"
+  },
+  "ps1061301": {
+    "name": "Purple Prowl",
+    "character": "black-cat",
+    "url": "https://rivalskins.com/item/3387/black-cat-costume-purple-prowl/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/49/img_icon_purple-prowl.png"
+  },
+  "ps1061302": {
+    "name": "Pink Purr",
+    "character": "black-cat",
+    "url": "https://rivalskins.com/item/3388/black-cat-costume-pink-purr/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/49/img_icon_pink-purr.png"
+  },
+  "ps1061304": {
+    "name": "Pearl Paws",
+    "character": "black-cat",
+    "url": "https://rivalskins.com/item/3969/black-cat-costume-pearl-paws/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/49/img_icon_pearl-paws.png"
+  },
+  "ps1061305": {
+    "name": "Golden Claws",
+    "character": "black-cat",
+    "url": "https://rivalskins.com/item/3968/black-cat-costume-golden-claws/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/49/img_icon_golden-claws.png"
+  },
+  "ps1062300": {
+    "name": "Playful Pink",
+    "character": "devil-dinosaur",
+    "url": "https://rivalskins.com/item/3722/devil-dinosaur-costume-playful-pink/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/50/img_icon_playful-pink.png"
+  },
+  "ps1062301": {
+    "name": "Vibrant Violet",
+    "character": "devil-dinosaur",
+    "url": "https://rivalskins.com/item/3723/devil-dinosaur-costume-vibrant-violet/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/50/img_icon_vibrant-violet.png"
+  },
+  "ps1065502": {
+    "name": "Midnight Mirage",
+    "character": "rogue",
+    "url": "https://rivalskins.com/item/3241/rogue-costume-midnight-mirage/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/45/img_icon_midnight-mirage.png"
+  },
+  "ps1065503": {
+    "name": "High Noon",
+    "character": "rogue",
+    "url": "https://rivalskins.com/item/3242/rogue-costume-high-noon/",
+    "icon_url": "https://rivalskins.com/wp-content/uploads/marvel-assets/items/costume/45/img_icon_high-noon.png"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "product": "CrabVault",
+  "product_version": "0.44.11",
+  "platform": "windows-x64",
+  "components": [
+    {"id":"uassettool-rivals","version":"cff29ba7e749abdaac9a803166e9ca7dc3e5a0fe","binary":"tools/uassettool/UAssetTool.exe","sha256":"271068e7dd026ddd736c39bc3956b9081b984942f6e94e4b9193dc23c9c4c53e","license":"GPL-3.0-only","source":"source_dependencies.lock.json","modified":true},
+    {"id":"oodle-data","version":"2.9.10","delivery":"download_on_first_3d_setup","binary":null,"sha256":"6f5d41a7892ea6b2db420f2458dad2f84a63901c9a93ce9497337b16c195f457","license":"Proprietary-Epic-RAD","source":"WorkingRobot/OodleUE@5e38cb6c99c588b51cde0cae4a6420d6bc865605","modified":false,"release_gate":"third_party_download_disclosed"},
+    {"id":"handbrake-cli","version":"1.11.2","binary":"tools/handbrake/HandBrakeCLI.exe","sha256":"9664c09dd5c5b5a52fd6e2849366b3c86c221b4f63bd8eacec73a3c95bb647ec","license":"GPL-2.0-only and bundled component licenses","source":"source_dependencies.lock.json","modified":false},
+    {"id":"7zip","version":"26.02","binary":"tools/7zip/7z.exe","sha256":"83967f1b02b43c4efeda302795722c809e0e81b8307de73558d10484d5676a7d","license":"LGPL-2.1-or-later AND unRAR-restriction","source":"source_dependencies.lock.json","modified":false},
+    {"id":"vgmstream","version":"r2117","binary":"tools/vgmstream/vgmstream-cli.exe","sha256":"29df08c557ada8269c92a6abfe3886ad2f65849b0b26ba78a0819b363bbc5b85","license":"See tools/vgmstream/COPYING","source":"dependencies.lock.json","modified":false},
+    {"id":"bink-player","version":"2026.06","binary":"tools/rad/binkplay.exe","sha256":"80839a41fb241addc5e2f31ec001458fcd07f395feebcd5054a3348f655be39d","license":"RAD free non-commercial player redistribution with visible RAD credit","source":"https://www.radgametools.com/bnkdown.htm","modified":false,"release_gate":"non_commercial_distribution_only"},
+    {"id":"dotnet-runtime","version":"8.0.30","binary":"tools/dotnet8/dotnet.exe","sha256":"76e6472063f53379b86fe8370203ab6c46c75d27f405b722845f0e495d8f5fd0","license":"MIT and Microsoft third-party notices","source":"dependencies.lock.json","modified":false},
+    {"id":"crabvault-native3d","version":"0.40.0-net10","binary":"tools/native3d/runtime/Marvel3DExtractor.exe","sha256":"decc1bfa8078c70e64c1829c6ed669c44b4619ff3efe45589198e9f8ef80b218","license":"Proprietary product code plus separately licensed NuGet dependencies","source":"tools/native3d/Marvel3DExtractor.csproj","modified":true}
+  ]
+}

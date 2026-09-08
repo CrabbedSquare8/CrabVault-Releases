@@ -1,0 +1,414 @@
+[
+  {
+    "package": "AssetRipper.TextureDecoder/2.6.2",
+    "license": "MIT",
+    "license_type": "expression",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/AssetRipper/TextureDecoder",
+      "commit": "3cf2170242259918235c49d37850d4cea91f9d15"
+    }
+  },
+  {
+    "package": "Blake3/2.2.1",
+    "license": "BSD-2-Clause",
+    "license_type": "expression",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/xoofx/Blake3.NET",
+      "commit": "d27b9f55fa9a8e0fe3a737130da1465534085196"
+    }
+  },
+  {
+    "package": "BouncyCastle.Cryptography/2.6.2",
+    "license": "MIT",
+    "license_type": "expression",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/bcgit/bc-csharp",
+      "branch": "refs/heads/release/v2.6",
+      "commit": "b4f2f6ad76bcd1f11f365ee50cc7447fbce79077"
+    }
+  },
+  {
+    "package": "CommunityToolkit.HighPerformance/8.4.2",
+    "license": "MIT",
+    "license_type": "expression",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/CommunityToolkit/dotnet",
+      "branch": "refs/heads/rel/8.4.2",
+      "commit": "35dfe7b12da0e64384bfaec7ebc0883196a89f9f"
+    }
+  },
+  {
+    "package": "CUE4Parse/1.2.2.202608",
+    "license": "Apache-2.0",
+    "license_type": "expression",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/FabianFG/CUE4Parse",
+      "branch": "refs/heads/master",
+      "commit": "711bcf5232f4f5606c6f76b63c0ab51fdb1d3830"
+    }
+  },
+  {
+    "package": "CUE4Parse-Conversion/1.2.2.202608",
+    "license": "Apache-2.0",
+    "license_type": "expression",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/FabianFG/CUE4Parse",
+      "branch": "refs/heads/master",
+      "commit": "711bcf5232f4f5606c6f76b63c0ab51fdb1d3830"
+    }
+  },
+  {
+    "package": "FixedMathSharp/4.0.1",
+    "license": "LICENSE",
+    "license_type": "file",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/mrdav30/FixedMathSharp",
+      "commit": "f15ca366f8fd1b9db96e54ef38aee7e6d35e1c0e"
+    }
+  },
+  {
+    "package": "Fmod5Sharp/3.1.0",
+    "license": "MIT",
+    "license_type": "expression",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/SamboyCoding/Fmod5Sharp.git",
+      "branch": "refs/heads/master",
+      "commit": "d9df2cbcc1aa478d7de9fcb64f83f7ba49f23258"
+    }
+  },
+  {
+    "package": "GenericReader/2.3.0",
+    "license": "MIT",
+    "license_type": "expression",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/NotOfficer/GenericReader",
+      "branch": "refs/heads/master",
+      "commit": "225929b6e5455745fd4588c23dcfdad8e12035a4"
+    }
+  },
+  {
+    "package": "IndexRange/1.1.0",
+    "license": "MIT",
+    "license_type": "expression",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/bgrainger/IndexRange.git",
+      "branch": "refs/heads/master",
+      "commit": "0ee6e541467a6d6519af8d8adfe1edad748fc8a2"
+    }
+  },
+  {
+    "package": "Infrablack.UE4Config/0.7.2.97",
+    "license": "MIT",
+    "license_type": "expression",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Wortex17/UE4Config"
+    }
+  },
+  {
+    "package": "K4os.Compression.LZ4/1.3.8",
+    "license": "MIT",
+    "license_type": "repository_file",
+    "repository": {
+      "url": "https://github.com/MiloszKrajewski/K4os.Compression.LZ4"
+    }
+  },
+  {
+    "package": "K4os.Compression.LZ4.Streams/1.3.8",
+    "license": "MIT",
+    "license_type": "repository_file",
+    "repository": {
+      "url": "https://github.com/MiloszKrajewski/K4os.Compression.LZ4"
+    }
+  },
+  {
+    "package": "K4os.Hash.xxHash/1.0.8",
+    "license": "MIT",
+    "license_type": "repository_file",
+    "repository": {
+      "url": "https://github.com/MiloszKrajewski/K4os.Hash.xxHash"
+    }
+  },
+  {
+    "package": "LZMA-SDK/22.1.1",
+    "license": "MIT",
+    "license_type": "expression",
+    "repository": {}
+  },
+  {
+    "package": "MemoryPack/1.21.4",
+    "license": "MIT",
+    "license_type": "expression",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Cysharp/MemoryPack",
+      "commit": "0f2fe0827907940768293b7bb81b9605a7d8cba8"
+    }
+  },
+  {
+    "package": "MemoryPack.Core/1.21.4",
+    "license": "MIT",
+    "license_type": "expression",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Cysharp/MemoryPack",
+      "commit": "0f2fe0827907940768293b7bb81b9605a7d8cba8"
+    }
+  },
+  {
+    "package": "MemoryPack.Generator/1.21.4",
+    "license": "MIT",
+    "license_type": "expression",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Cysharp/MemoryPack",
+      "commit": "0f2fe0827907940768293b7bb81b9605a7d8cba8"
+    }
+  },
+  {
+    "package": "Microsoft.Bcl.Memory/10.0.11",
+    "license": "MIT",
+    "license_type": "expression",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/dotnet/dotnet",
+      "commit": "e2f47b0110ed922f21a1522da67279133ce28f32"
+    }
+  },
+  {
+    "package": "Microsoft.NETCore.Platforms/1.1.0",
+    "license": "MIT",
+    "license_type": "bundled_dotnet_license",
+    "repository": {}
+  },
+  {
+    "package": "NAudio.Core/2.2.1",
+    "license": "MIT",
+    "license_type": "expression",
+    "repository": {
+      "url": "https://github.com/naudio/NAudio"
+    }
+  },
+  {
+    "package": "NETStandard.Library/1.6.1",
+    "license": "MIT",
+    "license_type": "bundled_dotnet_license",
+    "repository": {}
+  },
+  {
+    "package": "Newtonsoft.Json/13.0.4",
+    "license": "MIT",
+    "license_type": "expression",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/JamesNK/Newtonsoft.Json",
+      "commit": "4e13299d4b0ec96bd4df9954ef646bd2d1b5bf2a"
+    }
+  },
+  {
+    "package": "OffiUtils/3.2.0",
+    "license": "MIT",
+    "license_type": "expression",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/NotOfficer/Utils",
+      "branch": "refs/heads/master",
+      "commit": "3c6391fac38e2de58eb6bcfa399bba78645bce4f"
+    }
+  },
+  {
+    "package": "OggVorbisEncoder/1.2.2",
+    "license": "MIT",
+    "license_type": "expression",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/SteveLillis/.NET-Ogg-Vorbis-Encoder"
+    }
+  },
+  {
+    "package": "Oodle.NET/2.2.0",
+    "license": "MIT",
+    "license_type": "expression",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/NotOfficer/Oodle.NET",
+      "branch": "refs/heads/master",
+      "commit": "6a6b78bc3c145eddd6a3ae139fd95d6678049e12"
+    }
+  },
+  {
+    "package": "OodleSharp/0.0.1",
+    "license": "MIT",
+    "license_type": "expression",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/NotOfficer/OodleSharp",
+      "branch": "refs/heads/master",
+      "commit": "716d8b9ce3bd74ece37097d2b5e5ef67ef0c48c5"
+    }
+  },
+  {
+    "package": "Serilog/4.3.1",
+    "license": "Apache-2.0",
+    "license_type": "expression",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/serilog/serilog",
+      "branch": "refs/heads/main",
+      "commit": "5625030e8f8fceca2e3180575aba174751ef7add"
+    }
+  },
+  {
+    "package": "Serilog.Sinks.Console/6.1.1",
+    "license": "Apache-2.0",
+    "license_type": "expression",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/serilog/serilog-sinks-console",
+      "branch": "refs/heads/main",
+      "commit": "b3cb1f042f5636161b831fa8816d70d865a5eec4"
+    }
+  },
+  {
+    "package": "SharpGLTF.Core/1.0.6",
+    "license": "MIT",
+    "license_type": "expression",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/vpenades/SharpGLTF",
+      "commit": "5153478a209ca2e276d8092f7166ff9d7ae4974f"
+    }
+  },
+  {
+    "package": "SharpGLTF.Runtime/1.0.6",
+    "license": "MIT",
+    "license_type": "expression",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/vpenades/SharpGLTF",
+      "commit": "5153478a209ca2e276d8092f7166ff9d7ae4974f"
+    }
+  },
+  {
+    "package": "SharpGLTF.Toolkit/1.0.6",
+    "license": "MIT",
+    "license_type": "expression",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/vpenades/SharpGLTF",
+      "commit": "5153478a209ca2e276d8092f7166ff9d7ae4974f"
+    }
+  },
+  {
+    "package": "SixLabors.ImageSharp/3.1.12",
+    "license": "LICENSE",
+    "license_type": "file",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/SixLabors/ImageSharp",
+      "commit": "4224257dccf1005973ae51de06993e4b3e502c21"
+    }
+  },
+  {
+    "package": "SkiaSharp/2.88.9",
+    "license": "MIT",
+    "license_type": "expression",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/mono/SkiaSharp",
+      "branch": "release/2.88.9",
+      "commit": "9699cdf046a989423a5e5eca68e7fd813486d81c"
+    }
+  },
+  {
+    "package": "SkiaSharp.NativeAssets.macOS/2.88.9",
+    "license": "MIT",
+    "license_type": "expression",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/mono/SkiaSharp",
+      "branch": "release/2.88.9",
+      "commit": "9699cdf046a989423a5e5eca68e7fd813486d81c"
+    }
+  },
+  {
+    "package": "SkiaSharp.NativeAssets.Win32/2.88.9",
+    "license": "MIT",
+    "license_type": "expression",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/mono/SkiaSharp",
+      "branch": "release/2.88.9",
+      "commit": "9699cdf046a989423a5e5eca68e7fd813486d81c"
+    }
+  },
+  {
+    "package": "SubstreamSharp/1.0.3",
+    "license": "MIT",
+    "license_type": "expression",
+    "repository": {
+      "url": "https://github.com/connorhaigh/SubstreamSharp"
+    }
+  },
+  {
+    "package": "System.IO.Hashing/10.0.8",
+    "license": "MIT",
+    "license_type": "expression",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/dotnet/dotnet",
+      "commit": "94ea82652cdd4e0f8046b5bd5becbd11461482ca"
+    }
+  },
+  {
+    "package": "System.Numerics.Tensors/10.0.10",
+    "license": "MIT",
+    "license_type": "expression",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/dotnet/dotnet",
+      "commit": "f7d90799ce4ef09a0bb257852a57248d2a8fb8dd"
+    }
+  },
+  {
+    "package": "VGAudio/2.2.1",
+    "license": "MIT",
+    "license_type": "repository_file",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Thealexbarney/VGAudio"
+    }
+  },
+  {
+    "package": "Zlib-ng.NET/1.2.0",
+    "license": "MIT",
+    "license_type": "expression",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/NotOfficer/Zlib-ng.NET",
+      "branch": "refs/heads/master",
+      "commit": "1e6ae3cb5ed91f1ec743103039d3ac345babd179"
+    }
+  },
+  {
+    "package": "ZstdSharp.Port/0.8.8",
+    "license": "MIT",
+    "license_type": "expression",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/oleg-st/ZstdSharp.git",
+      "branch": "refs/heads/master",
+      "commit": "2cd0c019693bc786a5fe5c3be94e107b24e7267e"
+    }
+  }
+]

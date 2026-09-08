@@ -1,0 +1,5 @@
+# Dependências para executar a versão em código-fonte (Windows x64).
+-c requirements-lock.txt
+pywebview==6.2.1
+Pillow==12.3.0
+pythonnet==3.1.0

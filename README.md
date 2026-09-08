@@ -1,45 +1,44 @@
-# CrabVault Releases
+# CrabVault
 
-Official distribution channel for CrabVault on Windows 11 x64.
+CrabVault is a free, non-commercial, unofficial desktop mod manager for Marvel
+Rivals on Windows 11 x64. It manages local PAK/UCAS/UTOC libraries, profiles,
+components, conflicts, media, ReShade packages, cinematics, backups, and an
+optional built-in 3D preview workflow.
 
-CrabVault is a free, non-commercial, unofficial mod manager for Marvel Rivals. This repository contains release installers, optional SHA-256 integrity files, release notes, and the notices and corresponding source required for distributed third-party components. The proprietary CrabVault source code is not published here.
+CrabVault was inspired in part by Repak X and its focused, user-friendly approach
+to mod management. CrabVault is an independent project and is not affiliated
+with or endorsed by the Repak X developers.
 
-## Download and installation
+## Downloads
 
-Open the [Releases](https://github.com/CrabbedSquare8/CrabVault-Releases/releases) page and download `CrabVault-vX.Y.Z-windows-x64-setup.exe` from the latest release.
+Official installers, checksums, release notes, and corresponding third-party
+sources are available on the [Releases page](https://github.com/CrabbedSquare8/CrabVault-Releases/releases).
+The Windows SmartScreen warning may appear because current builds are not
+digitally signed.
 
-The Windows SmartScreen warning may appear because the installer is not currently digitally signed. Only download CrabVault from this repository.
+## Run from source
 
-CrabVault uses the shared Microsoft WebView2 Evergreen Runtime. If it is missing or too old, CrabVault explains why it is needed and asks for permission before downloading and installing the official Microsoft runtime.
+1. Install 64-bit Python on Windows 11.
+2. Run `python -m pip install -r requirements.txt`.
+3. Run `python main.py`.
 
-## Optional SHA-256 verification
-
-Manual SHA-256 verification is optional. It confirms that your downloaded installer matches the file published here, but it does not replace a digital signature or any software license.
-
-To verify a download in PowerShell:
-
-```powershell
-Get-FileHash .\CrabVault-vX.Y.Z-windows-x64-setup.exe -Algorithm SHA256
-```
-
-Compare the result with the matching `.sha256` file. Do not run the installer if the values differ. CrabVault's built-in updater performs this verification automatically.
+Optional third-party command-line tools included with official distributions
+are not part of the public source snapshot.
 
 ## Privacy
 
-CrabVault has no account system, advertising, telemetry, or analytics. Catalogs, settings, mods, media, and backups remain on the user's computer. Some optional features contact GitHub, Rivalskins, Microsoft, or pinned third-party download sources; the application does not upload the user's mod library or game files.
+CrabVault has no accounts, advertising, telemetry, or analytics. User settings,
+mods, media, and backups remain local. Optional features contact GitHub,
+Rivalskins, Microsoft, and pinned third-party sources as described in
+`PRIVACY.md`.
 
-## License and third-party components
+## License and notices
 
-CrabVault is free to use for non-commercial purposes but is not open-source software. The application terms and privacy notice are included with the installer. Third-party components remain under their own licenses, and the required notices and corresponding GPL/LGPL source archives accompany applicable releases.
+CrabVault's original source is publicly readable under the
+[CrabVault Source-Available Non-Commercial License](LICENSE.md). It is not
+open-source software under an OSI-approved license. Third-party components keep
+their own licenses; see `THIRD_PARTY.md`.
 
-The bundled Bink Player is the official, unmodified RAD/Epic utility and retains its visible credit as required for free non-commercial redistribution.
-
-## Acknowledgements
-
-CrabVault was inspired in part by Repak X and its approach to providing a focused, user-friendly mod management experience. CrabVault is an independent project and is not affiliated with or endorsed by the Repak X developers.
-
-## Unofficial project notice
-
-CrabVault is an independent, unofficial, fan-made project. It is not affiliated with, sponsored by, endorsed by, or connected to Marvel, NetEase Games, Epic Games, RAD Game Tools, Rivalskins, Nexus Mods, or third-party mod authors.
-
-Marvel Rivals and all related names, characters, trademarks, and materials are the property of their respective owners. Rights holders may submit attribution or removal requests through this repository.
+CrabVault is an independent fan-made project. It is not affiliated with,
+sponsored by, or endorsed by Marvel or NetEase Games. All related trademarks
+and materials belong to their respective owners.
