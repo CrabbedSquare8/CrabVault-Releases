@@ -49,7 +49,7 @@ def fetch_releases(repository: str) -> list[dict]:
 def write_badge(path: Path, downloads: int) -> None:
     badge = {
         "schemaVersion": 1,
-        "label": "installer downloads",
+        "label": "downloads",
         "message": str(downloads),
         "color": "bd1531",
     }
